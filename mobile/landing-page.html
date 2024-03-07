@@ -4,13 +4,42 @@
     <meta charset="utf-8" />
     <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
     <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <!-- <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0"
+    /> -->
+    <link
+      rel="shortcut icon"
+      type="image/png"
+      href="https://animaproject.s3.amazonaws.com/home/favicon.png"
+    />
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="photo" />
     <link rel="stylesheet" type="text/css" href="css/landing-page.css" />
     <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
     <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- JavaScript for dynamic scaling at the end of body -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        adjustScale(); // Adjust scale once the DOM content is fully loaded.
+      });
+
+      window.addEventListener('resize', function () {
+        adjustScale(); // Adjust scale whenever the window is resized.
+      });
+
+      function adjustScale() {
+        var baseWidth = 410; // Change this to the width your website is designed for
+        var scaleFactor = window.innerWidth / baseWidth;
+        document.body.style.transform = 'scale(' + scaleFactor + ')';
+        document.body.style.transformOrigin = '0 0'; // Adjust origin to top left
+        document.body.style.width = '100%';
+        document.body.style.position = 'absolute';
+        document.body.style.left = '50%';
+        document.body.style.transform += ' translateX(-50%)'; // Center horizontally
+      }
+    </script>
   </head>
   <body style="margin: 0; background: #ffffff">
     <input type="hidden" id="anPageName" name="page" value="landing-page" />
@@ -22,12 +51,20 @@
           <img class="path-2" src="img/path-2@1x.png" alt="Path 2" />
           <img class="path-47" src="img/path-47@1x.png" alt="Path 47" />
           <img class="path-48" src="img/path-48@1x.png" alt="Path 48" />
-          <img class="recurso-4-pw" src="img/recurso-4-pw@1x.png" alt="Recurso 4 pw" />
+          <img
+            class="recurso-4-pw"
+            src="img/recurso-4-pw@1x.png"
+            alt="Recurso 4 pw"
+          />
           <img class="path-4" src="img/path-4@1x.png" alt="Path 4" />
           <img class="path-5" src="img/path-5@1x.png" alt="Path 5" />
           <img class="path-6" src="img/path-6@1x.png" alt="Path 6" />
           <img class="path-7" src="img/path-7@1x.png" alt="Path 7" />
-          <img class="rectangle-2 rectangle-1" src="img/rectangle-2@1x.png" alt="Rectangle 2" />
+          <img
+            class="rectangle-2 rectangle-1"
+            src="img/rectangle-2@1x.png"
+            alt="Rectangle 2"
+          />
           <img class="path-8" src="img/path-8@1x.png" alt="Path 8" />
           <img class="path-9" src="img/path-9@1x.png" alt="Path 9" />
           <img class="path-10" src="img/path-10@1x.png" alt="Path 10" />
@@ -38,7 +75,9 @@
           <img class="path-15" src="img/path-15@1x.png" alt="Path 15" />
           <img class="path-16" src="img/path-12@1x.png" alt="Path 16" />
           <img class="path-17" src="img/path-17@1x.png" alt="Path 17" />
-          <p class="todo-lo-que-necesitas-saber-del-mundo bevietnam-normal-white-12-1px">
+          <p
+            class="todo-lo-que-necesitas-saber-del-mundo bevietnam-normal-white-12-1px"
+          >
             <span class="span0 bevietnam-normal-white-12-1px">T</span
             ><span class="span bevietnam-normal-white-12-1px">odo</span
             ><span class="span-1 bevietnam-normal-white-12-1px">&nbsp;</span
@@ -64,7 +103,9 @@
             ><span class="span bevietnam-normal-white-12-1px">do</span
             ><span class="bevietnam-normal-white-12-1px"></span>
           </p>
-          <p class="gatuno-curiosidades-consejos-tips-y bevietnam-normal-white-12-1px">
+          <p
+            class="gatuno-curiosidades-consejos-tips-y bevietnam-normal-white-12-1px"
+          >
             <span class="span-5 bevietnam-normal-white-12-1px">g</span
             ><span class="span-3 bevietnam-normal-white-12-1px">a</span
             ><span class="span bevietnam-normal-white-12-1px">t</span
@@ -121,27 +162,36 @@
           <img class="path-34" src="img/path-34@1x.png" alt="Path 34" />
           <div class="comparte-a-tu richardsamuels-normal-eerie-black-24px">
             <span class="richardsamuels-normal-eerie-black-24px">¡Co</span
-            ><span class="span1-2 richardsamuels-normal-eerie-black-24px">m</span
-            ><span class="richardsamuels-normal-eerie-black-24px">parte a tu</span>
+            ><span class="span1-2 richardsamuels-normal-eerie-black-24px"
+              >m</span
+            ><span class="richardsamuels-normal-eerie-black-24px"
+              >parte a tu</span
+            >
           </div>
           <div class="michi richardsamuels-normal-eerie-black-24px">
             <span class="richardsamuels-normal-eerie-black-24px">m</span
-            ><span class="span1-3 richardsamuels-normal-eerie-black-24px">i</span
+            ><span class="span1-3 richardsamuels-normal-eerie-black-24px"
+              >i</span
             ><span class="span2 richardsamuels-normal-eerie-black-24px">c</span
             ><span class="span3 richardsamuels-normal-eerie-black-24px">h</span
             ><span class="span4 richardsamuels-normal-eerie-black-24px">i</span
             ><span class="richardsamuels-normal-eerie-black-24px">!</span>
           </div>
-          <p class="etiquetanos-en-las-fotos-de-tu-michi bevietnam-normal-eerie-black-11px">
+          <p
+            class="etiquetanos-en-las-fotos-de-tu-michi bevietnam-normal-eerie-black-11px"
+          >
             <span class="bevietnam-normal-eerie-black-11px">Etiqueta</span
             ><span class="span1-4 bevietnam-normal-eerie-black-11px">n</span
             ><span class="bevietnam-normal-eerie-black-11px">os en las </span
             ><span class="span3-1 bevietnam-normal-eerie-black-11px">f</span
-            ><span class="bevietnam-normal-eerie-black-11px">otos de tu michi</span>
+            ><span class="bevietnam-normal-eerie-black-11px"
+              >otos de tu michi</span
+            >
           </p>
           <div class="tqpets richardsamuels-normal-eerie-black-20px">
             <span class="richardsamuels-normal-eerie-black-20px">@tqp</span
-            ><span class="span1-5 richardsamuels-normal-eerie-black-20px">e</span
+            ><span class="span1-5 richardsamuels-normal-eerie-black-20px"
+              >e</span
             ><span class="richardsamuels-normal-eerie-black-20px">ts</span>
           </div>
           <img class="path-35" src="img/path-35@1x.png" alt="Path 35" />
@@ -156,7 +206,11 @@
           <img class="path-46" src="img/path-46@1x.png" alt="Path 46" />
           <img class="path-49" src="img/path-2522@1x.png" alt="Path 49" />
           <img class="rectangle" src="img/group-469@1x.png" alt="Rectangle 9" />
-          <img class="rectangle" src="img/group-469@1x.png" alt="Rectangle 11" />
+          <img
+            class="rectangle"
+            src="img/group-469@1x.png"
+            alt="Rectangle 11"
+          />
           <img class="line" src="img/line-114@1x.png" alt="Line 1" />
           <img class="line" src="img/line-115@1x.png" alt="Line 2" />
           <img class="path-57" src="img/path-57@1x.png" alt="Path 57" />
@@ -184,11 +238,31 @@
           <img class="path-79" src="img/path-79@1x.png" alt="Path 79" />
           <img class="path-80" src="img/path-80@1x.png" alt="Path 80" />
           <img class="path-81" src="img/path-81@1x.png" alt="Path 81" />
-          <img class="rectangle-14 rectangle-1" src="img/rectangle-14@1x.png" alt="Rectangle 14" />
-          <img class="rectangle-17 rectangle-1" src="img/rectangle-17@1x.png" alt="Rectangle 17" />
-          <img class="rectangle-19 rectangle-1" src="img/rectangle-19@1x.png" alt="Rectangle 19" />
-          <img class="rectangle-21 rectangle-1" src="img/rectangle-21@1x.png" alt="Rectangle 21" />
-          <img class="rectangle-24 rectangle-1" src="img/rectangle-24@1x.png" alt="Rectangle 24" />
+          <img
+            class="rectangle-14 rectangle-1"
+            src="img/rectangle-14@1x.png"
+            alt="Rectangle 14"
+          />
+          <img
+            class="rectangle-17 rectangle-1"
+            src="img/rectangle-17@1x.png"
+            alt="Rectangle 17"
+          />
+          <img
+            class="rectangle-19 rectangle-1"
+            src="img/rectangle-19@1x.png"
+            alt="Rectangle 19"
+          />
+          <img
+            class="rectangle-21 rectangle-1"
+            src="img/rectangle-21@1x.png"
+            alt="Rectangle 21"
+          />
+          <img
+            class="rectangle-24 rectangle-1"
+            src="img/rectangle-24@1x.png"
+            alt="Rectangle 24"
+          />
           <div class="nueva-lnea-de-productos bevietnampro-normal-white-21px">
             <span class="bevietnampro-normal-white-21px">N</span
             ><span class="span1 bevietnampro-normal-white-21px">u</span
@@ -226,7 +300,8 @@
             ><span class="span-5 bevietnam-normal-white-21px">l</span
             ><span class="span-6 bevietnam-normal-white-21px"> es </span
             ><span class="span-11 bevietnam-normal-white-21px">u</span
-            ><span class="span-5 bevietnam-normal-white-21px">n</span><span class="bevietnam-normal-white-21px"></span>
+            ><span class="span-5 bevietnam-normal-white-21px">n</span
+            ><span class="bevietnam-normal-white-21px"></span>
           </p>
           <div class="ingrediente-de-alto-valor bevietnam-normal-white-21px">
             <span class="span-11 bevietnam-normal-white-21px">i</span
@@ -246,7 +321,8 @@
             ><span class="span-13 bevietnam-normal-white-21px">v</span
             ><span class="span-6 bevietnam-normal-white-21px">a</span
             ><span class="span-5 bevietnam-normal-white-21px">l</span
-            ><span class="span-6 bevietnam-normal-white-21px">or</span><span class="bevietnam-normal-white-21px"></span>
+            ><span class="span-6 bevietnam-normal-white-21px">or</span
+            ><span class="bevietnam-normal-white-21px"></span>
           </div>
           <p class="biolgico-para-los-gatos-debido bevietnam-normal-white-21px">
             <span class="span-5 bevietnam-normal-white-21px">b</span
@@ -431,27 +507,65 @@
           <a href="menu.html">
             <div class="group-712">
               <div class="path-container">
-                <img class="path-197" src="img/path-1106@1x.png" alt="Path 197" />
-                <img class="path-198" src="img/path-1106@1x.png" alt="Path 198" />
-                <img class="path-199" src="img/path-1106@1x.png" alt="Path 199" />
+                <img
+                  class="path-197"
+                  src="img/path-1106@1x.png"
+                  alt="Path 197"
+                />
+                <img
+                  class="path-198"
+                  src="img/path-1106@1x.png"
+                  alt="Path 198"
+                />
+                <img
+                  class="path-199"
+                  src="img/path-1106@1x.png"
+                  alt="Path 199"
+                />
               </div>
               <img class="path-200" src="img/path-1108@1x.png" alt="Path 200" />
               <img class="path-201" src="img/path-1109@1x.png" alt="Path 201" />
               <img class="path-202" src="img/path-1378@1x.png" alt="Path 202" />
-              <img class="path-203" src="img/path-1784@1x.png" alt="Path 203" /></div
+              <img
+                class="path-203"
+                src="img/path-1784@1x.png"
+                alt="Path 203"
+              /></div
           ></a>
-          <div class="group-758"><img class="path-2562" src="img/path-2562-1x-png@1x.png" alt="Path 2562" /></div>
+          <div class="group-758">
+            <img
+              class="path-2562"
+              src="img/path-2562-1x-png@1x.png"
+              alt="Path 2562"
+            />
+          </div>
           <div class="group-759">
-            <img class="path-2562-1 path-2562-4" src="img/path-2562-1-1x-png@1x.png" alt="Path 2562" />
+            <img
+              class="path-2562-1 path-2562-4"
+              src="img/path-2562-1-1x-png@1x.png"
+              alt="Path 2562"
+            />
           </div>
           <div class="group-756"></div>
           <div class="group-760">
-            <img class="path-2562-2 path-2562-4" src="img/path-2562-2@1x.png" alt="Path 2562" />
+            <img
+              class="path-2562-2 path-2562-4"
+              src="img/path-2562-2@1x.png"
+              alt="Path 2562"
+            />
           </div>
           <div class="group-761">
-            <img class="path-2562-3 path-2562-4" src="img/path-2562-3@1x.png" alt="Path 2562" />
+            <img
+              class="path-2562-3 path-2562-4"
+              src="img/path-2562-3@1x.png"
+              alt="Path 2562"
+            />
           </div>
-          <img class="rectangle-31 rectangle-1" src="img/rectangle-31-1x-png-1x-png@1x.png" alt="Rectangle 31" />
+          <img
+            class="rectangle-31 rectangle-1"
+            src="img/rectangle-31-1x-png-1x-png@1x.png"
+            alt="Rectangle 31"
+          />
         </div>
       </div>
     </div>
