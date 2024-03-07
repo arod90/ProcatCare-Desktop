@@ -1,0 +1,388 @@
+:root { 
+  --bay-of-many: #233a85;
+  --bay-of-many-2: #243a85;
+  --cerulean: #2caae1;
+  --congress-blue: #0e4b8c;
+  --eerie-black: #1d1d1b;
+  --lochmara: #008dd1;
+  --midnight-blue: #002d70;
+  --regal-blue: #0d3d72;
+  --tory-blue: #164d97;
+  --tory-blue-2: #154d97;
+  --white: #ffffff;
+ 
+  --font-size-l: 22px;
+  --font-size-m: 21px;
+  --font-size-s: 19.2px;
+  --font-size-xl: 28px;
+  --font-size-xs: 18px;
+  --font-size-xxs: 12px;
+  --font-size-xxxs: 11.2px;
+ 
+  --font-family-be_vietnam: "Be Vietnam", Helvetica;
+  --font-family-be_vietnam_pro: "Be Vietnam Pro", Helvetica;
+  --font-family-caustenround-black: "CaustenRound-Black", Helvetica;
+  --font-family-richardsamuels: "RichardSamuels", Helvetica;
+  --font-family-richardsamuels-regular: "RichardSamuels-Regular", Helvetica;
+}
+.bevietnam-normal-white-21px {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bevietnam-bold-white-11-2px {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.bevietnam-normal-white-19-2px {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bevietnam-normal-white-22px {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.caustenround-black-white-11-2px {
+  color: var(--white);
+  font-family: var(--font-family-caustenround-black);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.bevietnam-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bevietnam-normal-tory-blue-12px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.richardsamuels-normal-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+}
+
+.bevietnam-normal-white-12-1px {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 12.1px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bevietnam-bold-bay-of-many-11-2px {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.bevietnam-normal-tory-blue-18px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.richardsamuels-normal-eerie-black-13-1px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 13.1px;
+  font-style: normal;
+}
+
+.richardsamuels-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 36px;
+  font-style: normal;
+}
+
+.richardsamuels-normal-white-28px {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+}
+
+.bevietnampro-normal-white-21px {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam_pro);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.richardsamuels-normal-eerie-black-28px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-richardsamuels);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+}
+
+.richardsamuels-normal-white-21px {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: var(--font-size-m);
+  font-style: normal;
+}
+
+.bevietnam-normal-white-9px {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.richardsamuels-normal-white-19-2px {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: var(--font-size-s);
+  font-style: normal;
+}
+
+.richardsamuels-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+}
+
+.bevietnam-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bevietnam-bold-white-21px {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.richardsamuels-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 24px;
+  font-style: normal;
+}
+
+.richardsamuels-normal-eerie-black-13-4px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 13.4px;
+  font-style: normal;
+}
+
+.bevietnam-bold-bay-of-many-11-2px-2 {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-xxxs);
+}
+
+.bevietnam-bold-white-11-2px-2 {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-xxxs);
+}
+
+.bevietnam-normal-white-8px {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.richardsamuels-normal-eerie-black-24px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 24px;
+  font-style: normal;
+}
+
+.bevietnam-bold-midnight-blue-10px {
+  color: var(--midnight-blue);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.bevietnampro-semi-bold-white-9px {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam_pro);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.richardsamuels-normal-tory-blue-12px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-richardsamuels);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+}
+
+.richardsamuels-normal-congress-blue-12px {
+  color: var(--congress-blue);
+  font-family: var(--font-family-richardsamuels);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+}
+
+.richardsamuels-normal-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 30px;
+  font-style: normal;
+}
+
+.richardsamuels-normal-eerie-black-14px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 14px;
+  font-style: normal;
+}
+
+.bevietnam-normal-eerie-black-10-2px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 10.2px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bevietnam-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.bevietnam-normal-eerie-black-11px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bevietnam-normal-congress-blue-12px {
+  color: var(--congress-blue);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bevietnam-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bevietnam-normal-cerulean-12-5px {
+  color: var(--cerulean);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 12.5px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bevietnam-normal-bay-of-many-12-5px {
+  color: var(--bay-of-many-2);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 12.5px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bevietnam-normal-tory-blue-12-5px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 12.5px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bevietnam-normal-bay-of-many-12-5px-2 {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 12.5px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.richardsamuels-normal-eerie-black-20px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 20px;
+  font-style: normal;
+}
+
+.bevietnam-normal-tory-blue-12px-2 {
+  color: var(--tory-blue);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.richardsamuels-normal-eerie-black-13-2px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 13.2px;
+  font-style: normal;
+}
+
+.bevietnam-normal-eerie-black-10-2px-2 {
+  color: var(--eerie-black);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 10.2px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.richardsamuels-normal-white-19px {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 19px;
+  font-style: normal;
+}

@@ -1,0 +1,624 @@
+/* screen - menu */
+
+.menu {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1080px;
+  overflow: hidden;
+  width: 412px;
+}
+
+.menu .overlap-group8 {
+  height: 1895px;
+  margin-left: -28px;
+  margin-top: -4px;
+  position: relative;
+  width: 475px;
+}
+
+.menu .recurso-4-pw {
+  height: 1123px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 475px;
+}
+
+.menu .path-2522 {
+  height: 1080px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 416px;
+}
+
+.menu .path-2555 {
+  height: 1015px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 302px;
+  width: 416px;
+}
+
+.menu .path-2559 {
+  height: 982px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 417px;
+  width: 416px;
+}
+
+.menu .path-2544 {
+  height: 982px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 501px;
+  width: 416px;
+}
+
+.menu .path-2556 {
+  height: 982px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 831px;
+  width: 416px;
+}
+
+.menu .path-2560 {
+  height: 982px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 913px;
+  width: 416px;
+}
+
+.menu .rectangle-575 {
+  cursor: pointer;
+  height: 71px;
+  left: 174px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 126px;
+}
+
+.menu .path-2533 {
+  height: 14px;
+  left: 325px;
+  object-fit: cover;
+  position: absolute;
+  top: 211px;
+  width: 16px;
+}
+
+.menu .path-2549 {
+  height: 14px;
+  left: 325px;
+  object-fit: cover;
+  position: absolute;
+  top: 707px;
+  width: 16px;
+}
+
+.menu .group-751 {
+  align-items: flex-end;
+  background-color: var(--regal-blue);
+  display: flex;
+  height: 74px;
+  left: 28px;
+  min-width: 412px;
+  padding: 18px 138px;
+  position: absolute;
+  top: 86px;
+}
+
+.menu .group-750 {
+  display: flex;
+  height: 27px;
+  width: 133px;
+}
+
+.menu .alimento-seco {
+  width: 133px;
+}
+
+.menu .group-733 {
+  align-items: flex-end;
+  background-color: var(--regal-blue);
+  display: flex;
+  height: 74px;
+  left: 28px;
+  min-width: 412px;
+  padding: 19px 118px;
+  position: absolute;
+  top: 594px;
+}
+
+.menu .group-732 {
+  display: flex;
+  height: 27px;
+  width: 174px;
+}
+
+.menu .alimento-hmedo {
+  width: 174px;
+}
+
+.menu .overlap-group {
+  height: 74px;
+  left: 28px;
+  position: absolute;
+  top: 927px;
+  width: 412px;
+}
+
+.menu .rectangle-59 {
+  background-color: var(--regal-blue);
+  cursor: pointer;
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 412px;
+}
+
+.menu .group-7 {
+  align-items: flex-end;
+  display: flex;
+  height: 29px;
+  justify-content: space-between;
+  left: 53px;
+  position: absolute;
+  top: 22px;
+  width: 263px;
+}
+
+.menu .sobre-nosotros {
+  letter-spacing: 0;
+  line-height: 14.4px;
+  margin-bottom: -9.3px;
+  margin-top: 7.3px;
+  white-space: nowrap;
+  width: 144px;
+}
+
+.menu .group-721 {
+  background-image: url(../img/path-2530@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 22.48px;
+  width: 22.48px;
+}
+
+.menu .path-2558 {
+  flex: 1;
+  margin-bottom: 4.3px;
+  margin-left: 3.3px;
+  margin-right: 3.5px;
+  margin-top: 4.3px;
+  object-fit: cover;
+  width: 15.62px;
+}
+
+.menu .group-720 {
+  display: flex;
+  height: 74px;
+  left: 28px;
+  position: absolute;
+  top: 1010px;
+  width: 412px;
+}
+
+.menu .group-724 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 412px;
+}
+
+.menu .overlap-group-1 {
+  height: 74px;
+  position: relative;
+  width: 412px;
+}
+
+.menu .contctanos {
+  letter-spacing: 0;
+  line-height: 14.4px;
+  margin-bottom: -9.3px;
+  margin-top: 7.3px;
+  white-space: nowrap;
+  width: 126px;
+}
+
+.menu .group-718 {
+  background-image: url(../img/path-2532@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 22.48px;
+  width: 22.48px;
+}
+
+.menu .path-25 {
+  flex: 1;
+  margin-bottom: 4.3px;
+  margin-left: 3.3px;
+  margin-right: 3.5px;
+  margin-top: 4.3px;
+  object-fit: cover;
+  width: 15.62px;
+}
+
+.menu .overlap-group1 {
+  height: 74px;
+  left: 28px;
+  position: absolute;
+  top: 179px;
+  width: 412px;
+}
+
+.menu .rectangle-5 {
+  background-color: var(--tory-blue-2);
+  cursor: pointer;
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 412px;
+}
+
+.menu .group-747 {
+  display: flex;
+  height: 29px;
+  justify-content: space-between;
+  left: 53px;
+  position: absolute;
+  top: 20px;
+  width: 263px;
+}
+
+.menu .gatitos {
+  letter-spacing: 0;
+  line-height: 14.4px;
+  margin-bottom: -9.3px;
+  margin-top: 7.3px;
+  white-space: nowrap;
+  width: 71px;
+}
+
+.menu .group-7-1 {
+  background-image: url(../img/path-2532@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-bottom: 2.5px;
+  margin-top: 4.0px;
+  width: 22.48px;
+}
+
+.menu .path-2535 {
+  flex: 1;
+  margin-bottom: 4.0px;
+  margin-left: 3.3px;
+  margin-right: 3.5px;
+  margin-top: 4.6px;
+  object-fit: cover;
+  width: 15.62px;
+}
+
+.menu .overlap-group2 {
+  height: 74px;
+  left: 28px;
+  position: absolute;
+  top: 677px;
+  width: 412px;
+}
+
+.menu .group-729 {
+  display: flex;
+  height: 29px;
+  justify-content: space-between;
+  left: 53px;
+  position: absolute;
+  top: 19px;
+  width: 263px;
+}
+
+.menu .hgado {
+  letter-spacing: 0;
+  line-height: 14.4px;
+  margin-bottom: -9.3px;
+  margin-top: 7.3px;
+  white-space: nowrap;
+  width: 70px;
+}
+
+.menu .path-2550 {
+  flex: 1;
+  margin-bottom: 4.5px;
+  margin-left: 3.3px;
+  margin-right: 3.5px;
+  margin-top: 4.2px;
+  object-fit: cover;
+  width: 15.62px;
+}
+
+.menu .overlap-group3 {
+  height: 74px;
+  left: 28px;
+  position: absolute;
+  top: 261px;
+  width: 412px;
+}
+
+.menu .group-744 {
+  display: flex;
+  height: 29px;
+  justify-content: space-between;
+  left: 53px;
+  position: absolute;
+  top: 26px;
+  width: 263px;
+}
+
+.menu .adultos-pollo {
+  width: 129px;
+}
+
+.menu .group-7-2 {
+  background-image: url(../img/path-2532@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-bottom: 3.5px;
+  margin-top: 3px;
+  width: 22.48px;
+}
+
+.menu .path-2537 {
+  flex: 1;
+  margin-bottom: 4.1px;
+  margin-left: 3.3px;
+  margin-right: 3.5px;
+  margin-top: 4.5px;
+  object-fit: cover;
+  width: 15.62px;
+}
+
+.menu .overlap-group4 {
+  height: 74px;
+  left: 28px;
+  position: absolute;
+  top: 759px;
+  width: 412px;
+}
+
+.menu .group-727 {
+  display: flex;
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 412px;
+}
+
+.menu .group-726 {
+  display: flex;
+  flex: 1;
+  width: 412px;
+}
+
+.menu .rectangle-590 {
+  background-color: var(--tory-blue-2);
+  cursor: pointer;
+  flex: 1;
+  width: 412px;
+}
+
+.menu .group-716 {
+  background-image: url(../img/path-2532@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 22px;
+  left: 294px;
+  position: absolute;
+  top: 28px;
+  width: 22px;
+}
+
+.menu .path-2552 {
+  flex: 1;
+  margin-bottom: 4.6px;
+  margin-left: 3.3px;
+  margin-right: 3.5px;
+  margin-top: 4.1px;
+  object-fit: cover;
+  width: 15.62px;
+}
+
+.menu .place {
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.menu .overlap-group5 {
+  height: 74px;
+  left: 28px;
+  position: absolute;
+  top: 344px;
+  width: 412px;
+}
+
+.menu .group-7-3 {
+  display: flex;
+  height: 29px;
+  justify-content: space-between;
+  left: 53px;
+  position: absolute;
+  top: 23px;
+  width: 263px;
+}
+
+.menu .adultos-mar {
+  width: 119px;
+}
+
+.menu .group-740 {
+  background-image: url(../img/path-2532@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-bottom: 3.5px;
+  margin-top: 3.0px;
+  width: 22.48px;
+}
+
+.menu .path-2539 {
+  flex: 1;
+  margin-bottom: 4.2px;
+  margin-left: 3.3px;
+  margin-right: 3.5px;
+  margin-top: 4.5px;
+  object-fit: cover;
+  width: 15.62px;
+}
+
+.menu .group-725 {
+  cursor: pointer;
+  display: flex;
+  height: 74px;
+  left: 28px;
+  position: absolute;
+  top: 845px;
+  width: 412px;
+}
+
+.menu .group-752 {
+  align-items: center;
+  background-color: var(--tory-blue-2);
+  display: flex;
+  flex: 1;
+  gap: 191px;
+  min-width: 412px;
+  padding: 18.8px 53px;
+}
+
+.menu .pollo {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  min-height: 31px;
+  min-width: 50px;
+  white-space: nowrap;
+}
+
+.menu .group-715 {
+  background-image: url(../img/path-2532@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 22px;
+  margin-bottom: 3.9px;
+  width: 22px;
+}
+
+.menu .overlap-group6 {
+  height: 74px;
+  left: 28px;
+  position: absolute;
+  top: 428px;
+  width: 412px;
+}
+
+.menu .group-738 {
+  display: flex;
+  height: 29px;
+  justify-content: space-between;
+  left: 53px;
+  position: absolute;
+  top: 22px;
+  width: 263px;
+}
+
+.menu .senior {
+  letter-spacing: 0;
+  line-height: 14.4px;
+  margin-bottom: -9.3px;
+  margin-top: 7.3px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.menu .group-737 {
+  background-image: url(../img/path-2532@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-bottom: 2.5px;
+  margin-top: 4px;
+  width: 22.48px;
+}
+
+.menu .path-2541 {
+  flex: 1;
+  margin-bottom: 4.3px;
+  margin-left: 3.3px;
+  margin-right: 3.5px;
+  margin-top: 4.4px;
+  object-fit: cover;
+  width: 15.62px;
+}
+
+.menu .overlap-group7 {
+  height: 74px;
+  left: 28px;
+  position: absolute;
+  top: 511px;
+  width: 412px;
+}
+
+.menu .control-de-peso {
+  letter-spacing: 0;
+  line-height: 14.4px;
+  margin-bottom: -9.3px;
+  margin-top: 7.3px;
+  white-space: nowrap;
+  width: 152px;
+}
+
+.menu .adultos {
+  letter-spacing: 0;
+  line-height: 14.4px;
+  margin-bottom: -9.3px;
+  margin-top: 7.3px;
+  white-space: nowrap;
+}
+
+.menu .alimento {
+  color: var(--white);
+  flex: 1;
+  font-family: var(--font-family-richardsamuels-regular);
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  margin-bottom: -8.3px;
+  margin-right: -2px;
+  margin-top: 6.3px;
+  white-space: nowrap;
+}

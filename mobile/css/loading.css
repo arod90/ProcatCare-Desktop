@@ -1,0 +1,225 @@
+/* screen - loading */
+
+.loading {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1079px;
+  overflow: hidden;
+  width: 412px;
+}
+
+.loading .overlap-group {
+  height: 1214px;
+  margin-left: -7px;
+  margin-top: -118.16px;
+  position: relative;
+  width: 436px;
+}
+
+.loading .recurso-5-pw {
+  height: 1214px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 426px;
+}
+
+.loading .rectangle-51 {
+  height: 55px;
+  left: 163px;
+  top: 121px;
+  width: 97px;
+}
+
+.loading .line-13 {
+  height: 1px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 172px;
+  width: 394px;
+}
+
+.loading .text-4 {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 58px;
+  left: 192px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  text-align: center;
+  top: 418px;
+  white-space: nowrap;
+}
+
+.loading .title {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 58px;
+  left: 85px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  text-align: center;
+  top: 353px;
+  white-space: nowrap;
+}
+
+.loading .group-712 {
+  align-items: center;
+  display: flex;
+  height: 14px;
+  left: 34px;
+  min-width: 86px;
+  position: absolute;
+  top: 142px;
+}
+
+.loading .path-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 14px;
+  width: 27px;
+}
+
+.loading .path-2421 {
+  height: 39px;
+  left: 336px;
+  object-fit: cover;
+  position: absolute;
+  top: 230px;
+  width: 39px;
+}
+
+.loading .path-2667 {
+  height: 143px;
+  left: 339px;
+  object-fit: cover;
+  position: absolute;
+  top: 439px;
+  width: 87px;
+}
+
+.loading .path-2669 {
+  height: 26px;
+  left: 368px;
+  object-fit: cover;
+  position: absolute;
+  top: 469px;
+  width: 26px;
+}
+
+.loading .path-2674 {
+  height: 12px;
+  left: 361px;
+  object-fit: cover;
+  position: absolute;
+  top: 444px;
+  width: 11px;
+}
+
+.loading .path-2677 {
+  height: 11px;
+  left: 349px;
+  object-fit: cover;
+  position: absolute;
+  top: 454px;
+  width: 12px;
+}
+
+.loading .path-2670 {
+  height: 12px;
+  left: 379px;
+  object-fit: cover;
+  position: absolute;
+  top: 444px;
+  width: 11px;
+}
+
+.loading .path-2680 {
+  height: 11px;
+  left: 343px;
+  object-fit: cover;
+  position: absolute;
+  top: 471px;
+  width: 12px;
+}
+
+.loading .path-2681 {
+  height: 9px;
+  left: 417px;
+  object-fit: cover;
+  position: absolute;
+  top: 564px;
+  width: 19px;
+}
+
+.loading .path-2671 {
+  height: 18px;
+  left: 401px;
+  object-fit: cover;
+  position: absolute;
+  top: 509px;
+  width: 18px;
+}
+
+.loading .path-2673 {
+  height: 10px;
+  left: 394px;
+  object-fit: cover;
+  position: absolute;
+  top: 536px;
+  width: 21px;
+}
+
+.loading .path-2676 {
+  height: 6px;
+  left: 403px;
+  object-fit: cover;
+  position: absolute;
+  top: 555px;
+  width: 16px;
+}
+
+.loading .path-2668 {
+  height: 14px;
+  left: 401px;
+  object-fit: cover;
+  position: absolute;
+  top: 488px;
+  width: 7px;
+}
+
+.loading .path-2672 {
+  height: 4px;
+  left: 375px;
+  object-fit: cover;
+  position: absolute;
+  top: 511px;
+  width: 15px;
+}
+
+.loading .rectangle-636 {
+  height: 413px;
+  left: 7px;
+  top: 783px;
+  width: 413px;
+}
+
+.loading .path-2675 {
+  height: 4px;
+  left: 401px;
+  object-fit: cover;
+  position: absolute;
+  top: 507px;
+  width: 8px;
+}
+
+.loading .rectangle {
+  object-fit: cover;
+  position: absolute;
+}

@@ -1,0 +1,2388 @@
+/* screen - alimento-humedo-pollo */
+
+.alimento-humedo-pollo {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 3082px;
+  overflow: hidden;
+  width: 412px;
+}
+
+.alimento-humedo-pollo .overlap-group1 {
+  height: 3129px;
+  margin-top: 0;
+  position: relative;
+  width: 412px;
+}
+
+.alimento-humedo-pollo .path-2166 {
+  height: 490px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2639px;
+  width: 412px;
+}
+
+.alimento-humedo-pollo .path-2167 {
+  height: 1089px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1612px;
+  width: 412px;
+}
+
+.alimento-humedo-pollo .path-2168 {
+  height: 694px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 995px;
+  width: 412px;
+}
+
+.alimento-humedo-pollo .path-2169 {
+  height: 188px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 1224px;
+  width: 215px;
+}
+
+.alimento-humedo-pollo .path-2170 {
+  height: 98px;
+  left: 160px;
+  object-fit: cover;
+  position: absolute;
+  top: 1103px;
+  width: 81px;
+}
+
+.alimento-humedo-pollo .path-2171 {
+  height: 95px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1140px;
+  width: 83px;
+}
+
+.alimento-humedo-pollo .path-2172 {
+  height: 90px;
+  left: 256px;
+  object-fit: cover;
+  position: absolute;
+  top: 1142px;
+  width: 75px;
+}
+
+.alimento-humedo-pollo .path-2173 {
+  height: 87px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 1237px;
+  width: 80px;
+}
+
+.alimento-humedo-pollo .path-2174 {
+  height: 1056px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 412px;
+}
+
+.alimento-humedo-pollo .group-613 {
+  height: 55px;
+  left: 157px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 97px;
+}
+
+.alimento-humedo-pollo .group-617 {
+  cursor: pointer;
+  height: 55px;
+  left: 157px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 97px;
+}
+
+.alimento-humedo-pollo .line-11 {
+  height: 1px;
+  left: 9px;
+  top: 55px;
+  width: 394px;
+}
+
+.alimento-humedo-pollo .path-2182 {
+  height: 28px;
+  left: 339px;
+  object-fit: cover;
+  position: absolute;
+  top: 1041px;
+  width: 24px;
+}
+
+.alimento-humedo-pollo .path-2183 {
+  height: 9px;
+  left: 341px;
+  object-fit: cover;
+  position: absolute;
+  top: 1029px;
+  width: 11px;
+}
+
+.alimento-humedo-pollo .path-2184 {
+  height: 9px;
+  left: 336px;
+  object-fit: cover;
+  position: absolute;
+  top: 1068px;
+  width: 10px;
+}
+
+.alimento-humedo-pollo .path-2185 {
+  height: 9px;
+  left: 327px;
+  object-fit: cover;
+  position: absolute;
+  top: 1038px;
+  width: 10px;
+}
+
+.alimento-humedo-pollo .path-2186 {
+  height: 9px;
+  left: 325px;
+  object-fit: cover;
+  position: absolute;
+  top: 1056px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2187 {
+  height: 40px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 2937px;
+  width: 391px;
+}
+
+.alimento-humedo-pollo .title {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  position: absolute;
+  top: 2748px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span-1 {
+  letter-spacing: -0.36px;
+}
+
+.alimento-humedo-pollo .span5 {
+  letter-spacing: -0.59px;
+}
+
+.alimento-humedo-pollo .path-2188 {
+  height: 99px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 2623px;
+  width: 129px;
+}
+
+.alimento-humedo-pollo .path-2189 {
+  height: 21px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 2656px;
+  width: 12px;
+}
+
+.alimento-humedo-pollo .path-2190 {
+  height: 11px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 2676px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .path-2191 {
+  height: 12px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 2649px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .path-2192 {
+  height: 25px;
+  left: 268px;
+  object-fit: cover;
+  position: absolute;
+  top: 1044px;
+  width: 24px;
+}
+
+.alimento-humedo-pollo .path-2193 {
+  height: 9px;
+  left: 279px;
+  object-fit: cover;
+  position: absolute;
+  top: 1032px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2194 {
+  height: 9px;
+  left: 259px;
+  object-fit: cover;
+  position: absolute;
+  top: 1063px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2195 {
+  height: 9px;
+  left: 263px;
+  object-fit: cover;
+  position: absolute;
+  top: 1034px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2196 {
+  height: 9px;
+  left: 255px;
+  object-fit: cover;
+  position: absolute;
+  top: 1048px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2197 {
+  height: 25px;
+  left: 197px;
+  object-fit: cover;
+  position: absolute;
+  top: 1019px;
+  width: 21px;
+}
+
+.alimento-humedo-pollo .path-2198 {
+  height: 7px;
+  left: 193px;
+  object-fit: cover;
+  position: absolute;
+  top: 1013px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2199 {
+  height: 8px;
+  left: 201px;
+  object-fit: cover;
+  position: absolute;
+  top: 1047px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2200 {
+  height: 7px;
+  left: 184px;
+  object-fit: cover;
+  position: absolute;
+  top: 1026px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2201 {
+  height: 8px;
+  left: 188px;
+  object-fit: cover;
+  position: absolute;
+  top: 1041px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2202 {
+  height: 24px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 993px;
+  width: 22px;
+}
+
+.alimento-humedo-pollo .path-2203 {
+  height: 8px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 981px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2204 {
+  height: 8px;
+  left: 118px;
+  object-fit: cover;
+  position: absolute;
+  top: 1014px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2205 {
+  height: 8px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 986px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2206 {
+  height: 8px;
+  left: 111px;
+  object-fit: cover;
+  position: absolute;
+  top: 1001px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2207 {
+  height: 25px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 990px;
+  width: 22px;
+}
+
+.alimento-humedo-pollo .path-2208 {
+  height: 8px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 985px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2209 {
+  height: 8px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1019px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2210 {
+  height: 8px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 999px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2211 {
+  height: 8px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 1013px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2212 {
+  height: 156px;
+  left: 139px;
+  object-fit: cover;
+  position: absolute;
+  top: 2106px;
+  width: 179px;
+}
+
+.alimento-humedo-pollo .path-2213 {
+  height: 81px;
+  left: 171px;
+  object-fit: cover;
+  position: absolute;
+  top: 2005px;
+  width: 67px;
+}
+
+.alimento-humedo-pollo .path-2214 {
+  height: 79px;
+  left: 99px;
+  object-fit: cover;
+  position: absolute;
+  top: 2036px;
+  width: 69px;
+}
+
+.alimento-humedo-pollo .path-2215 {
+  height: 74px;
+  left: 251px;
+  object-fit: cover;
+  position: absolute;
+  top: 2037px;
+  width: 63px;
+}
+
+.alimento-humedo-pollo .path-2216 {
+  height: 72px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 2116px;
+  width: 66px;
+}
+
+.alimento-humedo-pollo .path-2217 {
+  height: 41px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 234px;
+}
+
+.alimento-humedo-pollo .gatos-y-gatitos {
+  left: 102px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span-2 {
+  letter-spacing: -2.26px;
+}
+
+.alimento-humedo-pollo .pollo {
+  left: 170px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 461px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span1-2 {
+  letter-spacing: -1.13px;
+}
+
+.alimento-humedo-pollo .path-2218 {
+  height: 58px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 550px;
+  width: 307px;
+}
+
+.alimento-humedo-pollo .path-2219 {
+  height: 80px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 539px;
+  width: 80px;
+}
+
+.alimento-humedo-pollo .ellipse-22 {
+  left: 35px;
+  top: 538px;
+  transform: rotate(-52.02deg);
+}
+
+.alimento-humedo-pollo .con-taurina {
+  left: 177px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 561px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span-3 {
+  letter-spacing: 0.22px;
+}
+
+.alimento-humedo-pollo .span-4 {
+  letter-spacing: 0.20px;
+}
+
+.alimento-humedo-pollo .span-5 {
+  letter-spacing: 0.29px;
+}
+
+.alimento-humedo-pollo .span5-1 {
+  letter-spacing: 0.57px;
+}
+
+.alimento-humedo-pollo .span-6 {
+  letter-spacing: 0.26px;
+}
+
+.alimento-humedo-pollo .path-2220 {
+  height: 58px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 679px;
+  width: 307px;
+}
+
+.alimento-humedo-pollo .path-2221 {
+  height: 80px;
+  left: 297px;
+  object-fit: cover;
+  position: absolute;
+  top: 668px;
+  width: 80px;
+}
+
+.alimento-humedo-pollo .ellipse-23 {
+  left: 296px;
+  top: 667px;
+  transform: rotate(-55.28deg);
+}
+
+.alimento-humedo-pollo .fuente-de-hidratacin {
+  left: 56px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 692px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span1 {
+  letter-spacing: -0.22px;
+}
+
+.alimento-humedo-pollo .span-7 {
+  letter-spacing: 0.04px;
+}
+
+.alimento-humedo-pollo .span-8 {
+  letter-spacing: 0.13px;
+}
+
+.alimento-humedo-pollo .path-2222 {
+  height: 58px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 813px;
+  width: 307px;
+}
+
+.alimento-humedo-pollo .path-2223 {
+  height: 80px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 802px;
+  width: 80px;
+}
+
+.alimento-humedo-pollo .ellipse-24 {
+  left: 36px;
+  top: 801px;
+  transform: rotate(-52.02deg);
+}
+
+.alimento-humedo-pollo .estimula-su-apetito {
+  left: 140px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 827px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .path-2224 {
+  height: 38px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 819px;
+  width: 28px;
+}
+
+.alimento-humedo-pollo .path-2225 {
+  height: 46px;
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 817px;
+  width: 32px;
+}
+
+.alimento-humedo-pollo .path-2226 {
+  height: 2px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 853px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .path-2227 {
+  height: 2px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 856px;
+  width: 26px;
+}
+
+.alimento-humedo-pollo .path-2228 {
+  height: 13px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 844px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .path-2229 {
+  height: 42px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 558px;
+  width: 44px;
+}
+
+.alimento-humedo-pollo .path-2230 {
+  height: 8px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 566px;
+  width: 7px;
+}
+
+.alimento-humedo-pollo .path-2231 {
+  height: 48px;
+  left: 317px;
+  object-fit: cover;
+  position: absolute;
+  top: 683px;
+  width: 37px;
+}
+
+.alimento-humedo-pollo .path-2232 {
+  height: 13px;
+  left: 335px;
+  object-fit: cover;
+  position: absolute;
+  top: 712px;
+  width: 14px;
+}
+
+.alimento-humedo-pollo .path-2233 {
+  height: 66px;
+  left: 181px;
+  object-fit: cover;
+  position: absolute;
+  top: 1160px;
+  width: 84px;
+}
+
+.alimento-humedo-pollo .rectangle-456 {
+  border: 4px solid;
+  border-color: var(--white);
+  border-radius: 10.94px 10.94px 10.94px 10.94px;
+  height: 70px;
+  left: 179px;
+  position: absolute;
+  top: 1158px;
+  width: 88px;
+}
+
+.alimento-humedo-pollo .path-2234 {
+  height: 31px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 1193px;
+  width: 79px;
+}
+
+.alimento-humedo-pollo .alto-en {
+  left: 197px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 1168px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span1-3 {
+  letter-spacing: -1.25px;
+}
+
+.alimento-humedo-pollo .protena {
+  left: 194px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 1180px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span1-1 {
+  letter-spacing: -0.16px;
+}
+
+.alimento-humedo-pollo .span3-1 {
+  letter-spacing: -0.24px;
+}
+
+.alimento-humedo-pollo .address {
+  left: 193px;
+  letter-spacing: 0;
+  line-height: 10.8px;
+  position: absolute;
+  top: 1194px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span1-4 {
+  letter-spacing: 0.08px;
+}
+
+.alimento-humedo-pollo .span3-2 {
+  letter-spacing: -0.65px;
+}
+
+.alimento-humedo-pollo .span-9 {
+  letter-spacing: 0.06px;
+}
+
+.alimento-humedo-pollo .span-10 {
+  letter-spacing: 0.05px;
+}
+
+.alimento-humedo-pollo .span8 {
+  letter-spacing: -0.19px;
+}
+
+.alimento-humedo-pollo .y-minerales {
+  left: 196px;
+  letter-spacing: 0;
+  line-height: 10.8px;
+  position: absolute;
+  top: 1205px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span5-2 {
+  letter-spacing: -0.41px;
+}
+
+.alimento-humedo-pollo .line-116 {
+  height: 1px;
+  left: 32px;
+  top: 1789px;
+  width: 348px;
+}
+
+.alimento-humedo-pollo .line-117 {
+  height: 1px;
+  left: 32px;
+  top: 1811px;
+  width: 348px;
+}
+
+.alimento-humedo-pollo .line-118 {
+  height: 1px;
+  left: 32px;
+  top: 1832px;
+  width: 348px;
+}
+
+.alimento-humedo-pollo .line-119 {
+  height: 1px;
+  left: 32px;
+  top: 1854px;
+  width: 348px;
+}
+
+.alimento-humedo-pollo .line-120 {
+  height: 1px;
+  left: 32px;
+  top: 1876px;
+  width: 348px;
+}
+
+.alimento-humedo-pollo .line-121 {
+  height: 1px;
+  left: 32px;
+  top: 1899px;
+  width: 348px;
+}
+
+.alimento-humedo-pollo .line-122 {
+  height: 157px;
+  left: 266px;
+  top: 1769px;
+  width: 1px;
+}
+
+.alimento-humedo-pollo .protena-cruda-mn {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 1774px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span-11 {
+  letter-spacing: 0.67px;
+}
+
+.alimento-humedo-pollo .span-12 {
+  letter-spacing: 0.56px;
+}
+
+.alimento-humedo-pollo .span-13 {
+  letter-spacing: 0.34px;
+}
+
+.alimento-humedo-pollo .span-14 {
+  letter-spacing: 0.66px;
+}
+
+.alimento-humedo-pollo .span7 {
+  letter-spacing: 0.10px;
+}
+
+.alimento-humedo-pollo .path-2239 {
+  height: 10px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2240 {
+  height: 10px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2241 {
+  height: 10px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2242 {
+  height: 10px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2243 {
+  height: 10px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 7px;
+}
+
+.alimento-humedo-pollo .path-2244 {
+  height: 12px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 1773px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2245 {
+  height: 10px;
+  left: 99px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2246 {
+  height: 10px;
+  left: 107px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2247 {
+  height: 10px;
+  left: 118px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2248 {
+  height: 10px;
+  left: 126px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2249 {
+  height: 10px;
+  left: 134px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2250 {
+  height: 10px;
+  left: 141px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2251 {
+  height: 10px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2252 {
+  height: 11px;
+  left: 160px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .path-2253 {
+  height: 10px;
+  left: 164px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 10px;
+}
+
+.alimento-humedo-pollo .path-2254 {
+  height: 12px;
+  left: 173px;
+  object-fit: cover;
+  position: absolute;
+  top: 1773px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2255 {
+  height: 10px;
+  left: 177px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2256 {
+  height: 4px;
+  left: 185px;
+  object-fit: cover;
+  position: absolute;
+  top: 1782px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2257 {
+  height: 11px;
+  left: 188px;
+  object-fit: cover;
+  position: absolute;
+  top: 1775px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .grasa-cruda-mn {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 1795px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span-15 {
+  letter-spacing: 0.45px;
+}
+
+.alimento-humedo-pollo .span-16 {
+  letter-spacing: 0.11px;
+}
+
+.alimento-humedo-pollo .path-2258 {
+  height: 10px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1796px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2259 {
+  height: 10px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 1796px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2260 {
+  height: 10px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1796px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2261 {
+  height: 10px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 1796px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2262 {
+  height: 10px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 1796px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2263 {
+  height: 10px;
+  left: 101px;
+  object-fit: cover;
+  position: absolute;
+  top: 1796px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2264 {
+  height: 10px;
+  left: 109px;
+  object-fit: cover;
+  position: absolute;
+  top: 1796px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2265 {
+  height: 10px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 1796px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2266 {
+  height: 10px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 1796px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2267 {
+  height: 10px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 1796px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2268 {
+  height: 11px;
+  left: 142px;
+  object-fit: cover;
+  position: absolute;
+  top: 1795px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .path-2269 {
+  height: 10px;
+  left: 147px;
+  object-fit: cover;
+  position: absolute;
+  top: 1796px;
+  width: 10px;
+}
+
+.alimento-humedo-pollo .path-2270 {
+  height: 12px;
+  left: 156px;
+  object-fit: cover;
+  position: absolute;
+  top: 1794px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2271 {
+  height: 10px;
+  left: 160px;
+  object-fit: cover;
+  position: absolute;
+  top: 1796px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2272 {
+  height: 4px;
+  left: 167px;
+  object-fit: cover;
+  position: absolute;
+  top: 1802px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2273 {
+  height: 11px;
+  left: 171px;
+  object-fit: cover;
+  position: absolute;
+  top: 1795px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .fibra-cruda-mx {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  top: 1817px;
+}
+
+.alimento-humedo-pollo .path-2274 {
+  height: 10px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1818px;
+  width: 7px;
+}
+
+.alimento-humedo-pollo .path-2275 {
+  height: 10px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 1818px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2276 {
+  height: 10px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 1818px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2277 {
+  height: 10px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 1818px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2278 {
+  height: 10px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 1818px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2279 {
+  height: 10px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 1818px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2280 {
+  height: 10px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 1818px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2281 {
+  height: 10px;
+  left: 110px;
+  object-fit: cover;
+  position: absolute;
+  top: 1818px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2282 {
+  height: 10px;
+  left: 118px;
+  object-fit: cover;
+  position: absolute;
+  top: 1818px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2283 {
+  height: 10px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 1818px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2284 {
+  height: 11px;
+  left: 136px;
+  object-fit: cover;
+  position: absolute;
+  top: 1818px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .path-2285 {
+  height: 10px;
+  left: 141px;
+  object-fit: cover;
+  position: absolute;
+  top: 1818px;
+  width: 10px;
+}
+
+.alimento-humedo-pollo .path-2286 {
+  height: 12px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 1816px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2287 {
+  height: 10px;
+  left: 158px;
+  object-fit: cover;
+  position: absolute;
+  top: 1818px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2288 {
+  height: 4px;
+  left: 166px;
+  object-fit: cover;
+  position: absolute;
+  top: 1824px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2289 {
+  height: 11px;
+  left: 169px;
+  object-fit: cover;
+  position: absolute;
+  top: 1818px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .ceniza-mx {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 1839px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .path-2290 {
+  height: 10px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1840px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2291 {
+  height: 10px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 1840px;
+  width: 7px;
+}
+
+.alimento-humedo-pollo .path-2292 {
+  height: 10px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 1840px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2293 {
+  height: 10px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 1840px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2294 {
+  height: 10px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 1840px;
+  width: 7px;
+}
+
+.alimento-humedo-pollo .path-2295 {
+  height: 10px;
+  left: 91px;
+  object-fit: cover;
+  position: absolute;
+  top: 1840px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2296 {
+  height: 11px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 1840px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .path-2297 {
+  height: 10px;
+  left: 106px;
+  object-fit: cover;
+  position: absolute;
+  top: 1840px;
+  width: 10px;
+}
+
+.alimento-humedo-pollo .path-2298 {
+  height: 12px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 1838px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2299 {
+  height: 10px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 1840px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2300 {
+  height: 4px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 1847px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2301 {
+  height: 11px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 1840px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .calcio-mn {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 1882px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .path-2302 {
+  height: 10px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1883px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2303 {
+  height: 10px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 1883px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2304 {
+  height: 10px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1883px;
+  width: 7px;
+}
+
+.alimento-humedo-pollo .path-2305 {
+  height: 10px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 1883px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2306 {
+  height: 10px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 1883px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2307 {
+  height: 10px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 1883px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2308 {
+  height: 11px;
+  left: 104px;
+  object-fit: cover;
+  position: absolute;
+  top: 1883px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .path-2309 {
+  height: 10px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 1883px;
+  width: 10px;
+}
+
+.alimento-humedo-pollo .path-2310 {
+  height: 12px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 1881px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2311 {
+  height: 10px;
+  left: 121px;
+  object-fit: cover;
+  position: absolute;
+  top: 1883px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2312 {
+  height: 4px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 1890px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2313 {
+  height: 11px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 1883px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .fsforo-mn {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 1905px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span3-3 {
+  letter-spacing: 0.32px;
+}
+
+.alimento-humedo-pollo .path-2314 {
+  height: 10px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1906px;
+  width: 7px;
+}
+
+.alimento-humedo-pollo .path-2315 {
+  height: 12px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 1903px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2316 {
+  height: 10px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 1905px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2317 {
+  height: 10px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 1906px;
+  width: 7px;
+}
+
+.alimento-humedo-pollo .path-2318 {
+  height: 10px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 1906px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2319 {
+  height: 10px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 1906px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2320 {
+  height: 10px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 1906px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2321 {
+  height: 11px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 1905px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .path-2322 {
+  height: 10px;
+  left: 119px;
+  object-fit: cover;
+  position: absolute;
+  top: 1906px;
+  width: 10px;
+}
+
+.alimento-humedo-pollo .path-2323 {
+  height: 12px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 1903px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2324 {
+  height: 10px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 1906px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2325 {
+  height: 4px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 1912px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2326 {
+  height: 11px;
+  left: 143px;
+  object-fit: cover;
+  position: absolute;
+  top: 1905px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .humedad-mx {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  top: 1861px;
+}
+
+.alimento-humedo-pollo .path-2327 {
+  height: 10px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1862px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2328 {
+  height: 10px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 1862px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2329 {
+  height: 10px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1862px;
+  width: 10px;
+}
+
+.alimento-humedo-pollo .path-2330 {
+  height: 10px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 1862px;
+  width: 7px;
+}
+
+.alimento-humedo-pollo .path-2331 {
+  height: 10px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 1862px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2332 {
+  height: 10px;
+  left: 97px;
+  object-fit: cover;
+  position: absolute;
+  top: 1862px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2333 {
+  height: 10px;
+  left: 105px;
+  object-fit: cover;
+  position: absolute;
+  top: 1862px;
+  width: 8px;
+}
+
+.alimento-humedo-pollo .path-2334 {
+  height: 11px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 1861px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .path-2335 {
+  height: 10px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 1862px;
+  width: 10px;
+}
+
+.alimento-humedo-pollo .path-2336 {
+  height: 12px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 1860px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2337 {
+  height: 10px;
+  left: 138px;
+  object-fit: cover;
+  position: absolute;
+  top: 1862px;
+  width: 9px;
+}
+
+.alimento-humedo-pollo .path-2338 {
+  height: 4px;
+  left: 146px;
+  object-fit: cover;
+  position: absolute;
+  top: 1868px;
+  width: 4px;
+}
+
+.alimento-humedo-pollo .path-2339 {
+  height: 11px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 1861px;
+  width: 5px;
+}
+
+.alimento-humedo-pollo .cmo-alimentar-a {
+  left: 60px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  position: absolute;
+  top: 2049px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span1-5 {
+  letter-spacing: -2.55px;
+}
+
+.alimento-humedo-pollo .tu-gatito {
+  left: 124px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  position: absolute;
+  top: 2085px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span1-6 {
+  letter-spacing: -2.63px;
+}
+
+.alimento-humedo-pollo .span3-4 {
+  letter-spacing: -0.48px;
+}
+
+.alimento-humedo-pollo .gua-de-alimentacin {
+  left: 81px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 2224px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span-17 {
+  letter-spacing: -0.17px;
+}
+
+.alimento-humedo-pollo .span2 {
+  letter-spacing: -1.91px;
+}
+
+.alimento-humedo-pollo .span3-5 {
+  letter-spacing: -0.90px;
+}
+
+.alimento-humedo-pollo .span-18 {
+  letter-spacing: -0.13px;
+}
+
+.alimento-humedo-pollo .diaria {
+  left: 170px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 2245px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .considera-su-peso-y-edad {
+  left: 87px;
+  letter-spacing: 0;
+  line-height: 23.1px;
+  position: absolute;
+  top: 2135px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span3-6 {
+  letter-spacing: -0.06px;
+}
+
+.alimento-humedo-pollo .mientras-ms-conozcas-a-tu-minino {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: 23.1px;
+  position: absolute;
+  top: 2156px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span1-7 {
+  letter-spacing: -0.37px;
+}
+
+.alimento-humedo-pollo .span9 {
+  letter-spacing: -0.12px;
+}
+
+.alimento-humedo-pollo .mejor-lo-alimentars {
+  left: 108px;
+  letter-spacing: 0;
+  line-height: 23.1px;
+  position: absolute;
+  top: 2177px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span5-3 {
+  letter-spacing: -0.38px;
+}
+
+.alimento-humedo-pollo .path-2356 {
+  height: 42px;
+  left: 166px;
+  object-fit: cover;
+  position: absolute;
+  top: 1971px;
+  width: 80px;
+}
+
+.alimento-humedo-pollo .path-2357 {
+  height: 5px;
+  left: 203px;
+  object-fit: cover;
+  position: absolute;
+  top: 2002px;
+  width: 7px;
+}
+
+.alimento-humedo-pollo .path-2358 {
+  height: 3px;
+  left: 207px;
+  object-fit: cover;
+  position: absolute;
+  top: 1998px;
+  width: 3px;
+}
+
+.alimento-humedo-pollo .path-2359 {
+  height: 3px;
+  left: 203px;
+  object-fit: cover;
+  position: absolute;
+  top: 1998px;
+  width: 3px;
+}
+
+.alimento-humedo-pollo .path-2360 {
+  height: 2px;
+  left: 200px;
+  object-fit: cover;
+  position: absolute;
+  top: 2001px;
+  width: 2px;
+}
+
+.alimento-humedo-pollo .path-2361 {
+  height: 2px;
+  left: 209px;
+  object-fit: cover;
+  position: absolute;
+  top: 2001px;
+  width: 2px;
+}
+
+.alimento-humedo-pollo .rectangle-474 {
+  cursor: pointer;
+  height: 168px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 2805px;
+  width: 137px;
+}
+
+.alimento-humedo-pollo .alimento {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 15.8px;
+  position: absolute;
+  top: 2984px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .hmedo {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 15.8px;
+  position: absolute;
+  top: 2997px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .hgado {
+  left: 92px;
+  letter-spacing: 0;
+  line-height: 15.8px;
+  position: absolute;
+  top: 3010px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .alimento-1 {
+  left: 249px;
+  letter-spacing: 0;
+  line-height: 15.8px;
+  position: absolute;
+  top: 2984px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span1-8 {
+  letter-spacing: -0.18px;
+}
+
+.alimento-humedo-pollo .hmedo-1 {
+  left: 251px;
+  letter-spacing: 0;
+  line-height: 15.8px;
+  position: absolute;
+  top: 2997px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .place {
+  left: 261px;
+  letter-spacing: 0;
+  line-height: 15.8px;
+  position: absolute;
+  top: 3010px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span0 {
+  letter-spacing: -0.20px;
+}
+
+.alimento-humedo-pollo .group-678 {
+  cursor: pointer;
+  height: 168px;
+  left: 207px;
+  object-fit: cover;
+  position: absolute;
+  top: 2805px;
+  width: 137px;
+}
+
+.alimento-humedo-pollo .rectangle-87 {
+  height: 313px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 164px;
+  width: 260px;
+}
+
+.alimento-humedo-pollo .rectangle-562 {
+  height: 192px;
+  left: 184px;
+  object-fit: cover;
+  position: absolute;
+  top: 1241px;
+  width: 161px;
+}
+
+.alimento-humedo-pollo .x139 {
+  height: 196px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 1253px;
+  width: 196px;
+}
+
+.alimento-humedo-pollo .pro-cat-care-delicia {
+  left: 56px;
+  letter-spacing: 0.18px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 1436px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .overlap-group {
+  height: 200px;
+  left: 31px;
+  position: absolute;
+  top: 1726px;
+  width: 350px;
+}
+
+.alimento-humedo-pollo .path-767 {
+  height: 44px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 349px;
+}
+
+.alimento-humedo-pollo .anlisis-garantizado {
+  left: 49px;
+  letter-spacing: 1.14px;
+  line-height: 19px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .percent {
+  left: 273px;
+  letter-spacing: 0.60px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .percent-1 {
+  left: 273px;
+  top: 69px;
+}
+
+.alimento-humedo-pollo .percent-2 {
+  left: 273px;
+  top: 91px;
+}
+
+.alimento-humedo-pollo .percent-3 {
+  left: 273px;
+  top: 113px;
+}
+
+.alimento-humedo-pollo .percent-4 {
+  left: 269px;
+  top: 157px;
+}
+
+.alimento-humedo-pollo .percent-5 {
+  left: 269px;
+  top: 179px;
+}
+
+.alimento-humedo-pollo .percent-6 {
+  left: 269px;
+  top: 135px;
+}
+
+.alimento-humedo-pollo .protena-cruda-mn-1 {
+  -webkit-text-stroke: 0.4px var(--white);
+  left: 28px;
+  letter-spacing: 0.90px;
+  line-height: 20px;
+  position: absolute;
+  top: 44px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .grasa-cruda-mn-1 {
+  -webkit-text-stroke: 0.4px var(--white);
+  left: 28px;
+  letter-spacing: 0.90px;
+  line-height: 20px;
+  position: absolute;
+  top: 66px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .fibra-cruda-max {
+  -webkit-text-stroke: 0.4px var(--white);
+  left: 28px;
+  letter-spacing: 0.90px;
+  line-height: 20px;
+  top: 88px;
+}
+
+.alimento-humedo-pollo .minerales-totales-max {
+  -webkit-text-stroke: 0.4px var(--white);
+  left: 28px;
+  letter-spacing: 0.90px;
+  line-height: 20px;
+  position: absolute;
+  top: 108px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .humedad-max {
+  -webkit-text-stroke: 0.4px var(--white);
+  left: 28px;
+  letter-spacing: 0.90px;
+  line-height: 20px;
+  top: 131px;
+}
+
+.alimento-humedo-pollo .calcio-mn-1 {
+  -webkit-text-stroke: 0.4px var(--white);
+  left: 28px;
+  letter-spacing: 0.90px;
+  line-height: 20px;
+  position: absolute;
+  top: 153px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .fsforo-mn-1 {
+  -webkit-text-stroke: 0.4px var(--white);
+  left: 28px;
+  letter-spacing: 0.90px;
+  line-height: 20px;
+  position: absolute;
+  top: 176px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .edad-meses {
+  left: 168px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 2307px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span-19 {
+  letter-spacing: -0.49px;
+}
+
+.alimento-humedo-pollo .cantidades-g {
+  left: 166px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 2375px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span3 {
+  letter-spacing: -0.14px;
+}
+
+.alimento-humedo-pollo .span5-4 {
+  letter-spacing: -0.28px;
+}
+
+.alimento-humedo-pollo .cantidad-tazas {
+  left: 160px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 2440px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .veces-al-da {
+  left: 172px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 2510px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .span0-1 {
+  letter-spacing: -0.83px;
+}
+
+.alimento-humedo-pollo .text-3 {
+  left: 93px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  text-align: center;
+  top: 2465px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .address-1 {
+  left: 81px;
+  top: 2534px;
+}
+
+.alimento-humedo-pollo .address-2 {
+  left: 296px;
+  top: 2533px;
+}
+
+.alimento-humedo-pollo .address-3 {
+  left: 170px;
+  top: 2332px;
+}
+
+.alimento-humedo-pollo .address-4 {
+  left: 184px;
+  top: 2534px;
+}
+
+.alimento-humedo-pollo .group-712 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 14px;
+  left: 27px;
+  min-width: 86px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 23px;
+}
+
+.alimento-humedo-pollo .path-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 14px;
+  width: 27px;
+}
+
+.alimento-humedo-pollo .address-5 {
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.alimento-humedo-pollo .line {
+  object-fit: cover;
+  position: absolute;
+}
+
+.alimento-humedo-pollo .percent-7 {
+  letter-spacing: 0.60px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}

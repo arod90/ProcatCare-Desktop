@@ -1,0 +1,364 @@
+/* screen - contacto */
+
+.contacto {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1079px;
+  overflow: hidden;
+  width: 412px;
+}
+
+.contacto .overlap-group {
+  height: 1196px;
+  margin-left: -3px;
+  margin-top: -13px;
+  position: relative;
+  width: 446px;
+}
+
+.contacto .recurso-5-pw {
+  height: 1196px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 420px;
+}
+
+.contacto .path-2362 {
+  height: 1116px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 412px;
+}
+
+.contacto .rectangle-481 {
+  height: 55px;
+  left: 160px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 97px;
+}
+
+.contacto .rectangle-484 {
+  cursor: pointer;
+  height: 55px;
+  left: 160px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 97px;
+}
+
+.contacto .line-13 {
+  height: 1px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 394px;
+}
+
+.contacto .path-2370 {
+  height: 98px;
+  left: 166px;
+  object-fit: cover;
+  position: absolute;
+  top: 854px;
+  width: 155px;
+}
+
+.contacto .path-2371 {
+  height: 66px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 954px;
+  width: 103px;
+}
+
+.contacto .path-2372 {
+  height: 31px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 873px;
+  width: 38px;
+}
+
+.contacto .path-2373 {
+  height: 32px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 872px;
+  width: 39px;
+}
+
+.contacto .path-2374 {
+  height: 34px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 902px;
+  width: 68px;
+}
+
+.contacto .path-2375 {
+  height: 35px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 901px;
+  width: 69px;
+}
+
+.contacto .necesitas-ayuda {
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 103px;
+  white-space: nowrap;
+}
+
+.contacto .span1-1 {
+  letter-spacing: -1.01px;
+}
+
+.contacto .span3-1 {
+  letter-spacing: -0.25px;
+}
+
+.contacto .span5 {
+  letter-spacing: -0.61px;
+}
+
+.contacto .span7 {
+  letter-spacing: -1.40px;
+}
+
+.contacto .nombre {
+  left: 159px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 161px;
+  white-space: nowrap;
+}
+
+.contacto .span1 {
+  letter-spacing: 0.06px;
+}
+
+.contacto .span3 {
+  letter-spacing: -0.15px;
+}
+
+.contacto .path-2376 {
+  height: 44px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 262px;
+}
+
+.contacto .apellidos {
+  left: 153px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 243px;
+  white-space: nowrap;
+}
+
+.contacto .path-2377 {
+  height: 44px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 274px;
+  width: 262px;
+}
+
+.contacto .celular {
+  left: 163px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 332px;
+  white-space: nowrap;
+}
+
+.contacto .path-2378 {
+  height: 44px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 362px;
+  width: 262px;
+}
+
+.contacto .correo-electrnico {
+  left: 107px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 428px;
+  white-space: nowrap;
+}
+
+.contacto .span1-2 {
+  letter-spacing: -0.13px;
+}
+
+.contacto .path-2379 {
+  height: 44px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 458px;
+  width: 262px;
+}
+
+.contacto .ciudad {
+  left: 164px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 524px;
+  white-space: nowrap;
+}
+
+.contacto .span1-3 {
+  letter-spacing: -0.06px;
+}
+
+.contacto .path-2380 {
+  height: 44px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 555px;
+  width: 262px;
+}
+
+.contacto .mensaje {
+  left: 158px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 617px;
+  white-space: nowrap;
+}
+
+.contacto .rectangle-493 {
+  border: 1px solid;
+  border-color: var(--white);
+  border-radius: 21.45px;
+  height: 135px;
+  left: 75px;
+  position: absolute;
+  top: 648px;
+  width: 262px;
+}
+
+.contacto .path-2381 {
+  cursor: pointer;
+  height: 30px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 819px;
+  width: 132px;
+}
+
+.contacto .enviar {
+  left: 168px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 819px;
+  white-space: nowrap;
+}
+
+.contacto .span1-4 {
+  letter-spacing: 0.40px;
+}
+
+.contacto .acepto-las-condicion {
+  left: 112px;
+  letter-spacing: 0;
+  line-height: 9.6px;
+  position: absolute;
+  top: 789px;
+  white-space: nowrap;
+}
+
+.contacto .span0 {
+  letter-spacing: -0.14px;
+}
+
+.contacto .span-1 {
+  letter-spacing: 0.08px;
+}
+
+.contacto .span-2 {
+  letter-spacing: 0.07px;
+}
+
+.contacto .span-3 {
+  letter-spacing: 0.10px;
+}
+
+.contacto .span12 {
+  letter-spacing: 0.02px;
+}
+
+.contacto .span17 {
+  letter-spacing: -0.08px;
+}
+
+.contacto .rectangle-495 {
+  border: 1px solid;
+  border-color: var(--white);
+  height: 9px;
+  left: 97px;
+  position: absolute;
+  top: 790px;
+  width: 9px;
+}
+
+.contacto .rectangle-497 {
+  height: 231px;
+  left: 214px;
+  object-fit: cover;
+  position: absolute;
+  top: 810px;
+  width: 231px;
+}
+
+.contacto .group-712 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 14px;
+  left: 30px;
+  min-width: 86px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 36px;
+}
+
+.contacto .path-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 14px;
+  width: 27px;
+}

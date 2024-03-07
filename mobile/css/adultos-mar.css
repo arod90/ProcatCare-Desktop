@@ -1,0 +1,3250 @@
+/* screen - adultos-mar */
+
+.adultos-mar {
+  background-color: var(--white);
+  height: 3198px;
+  overflow: hidden;
+  position: relative;
+  width: 412px;
+}
+
+.adultos-mar .path-2004 {
+  height: 1380px;
+  left: -14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 447px;
+}
+
+.adultos-mar .path-2517 {
+  height: 735px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1162px;
+  width: 412px;
+}
+
+.adultos-mar .path-1245 {
+  height: 490px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2772px;
+  width: 412px;
+}
+
+.adultos-mar .path-1247 {
+  height: 1053px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1796px;
+  width: 412px;
+}
+
+.adultos-mar .path-1371 {
+  height: 480px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1402px;
+  width: 412px;
+}
+
+.adultos-mar .otros-productos {
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  position: absolute;
+  top: 2883px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span-1 {
+  letter-spacing: -0.36px;
+}
+
+.adultos-mar .span5 {
+  letter-spacing: -0.56px;
+}
+
+.adultos-mar .path-1246 {
+  height: 40px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 3069px;
+  width: 391px;
+}
+
+.adultos-mar .rectangle-222 {
+  cursor: pointer;
+  height: 182px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 2923px;
+  width: 141px;
+}
+
+.adultos-mar .adultos {
+  left: 183px;
+  letter-spacing: 0;
+  line-height: 15.8px;
+  position: absolute;
+  top: 3116px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span0 {
+  letter-spacing: -0.26px;
+}
+
+.adultos-mar .span-2 {
+  letter-spacing: -0.12px;
+}
+
+.adultos-mar .span-3 {
+  letter-spacing: -0.09px;
+}
+
+.adultos-mar .span3 {
+  letter-spacing: -0.07px;
+}
+
+.adultos-mar .control-peso {
+  left: 175px;
+  line-height: 12.3px;
+  top: 3127px;
+}
+
+.adultos-mar .span1-1 {
+  letter-spacing: -0.19px;
+}
+
+.adultos-mar .senior {
+  left: 301px;
+  letter-spacing: 0;
+  line-height: 16.7px;
+  position: absolute;
+  top: 3116px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span-4 {
+  letter-spacing: -0.06px;
+}
+
+.adultos-mar .rectangle-224 {
+  height: 185px;
+  left: 250px;
+  object-fit: cover;
+  position: absolute;
+  top: 2921px;
+  width: 144px;
+}
+
+.adultos-mar .rectangle-227 {
+  cursor: pointer;
+  height: 185px;
+  left: 250px;
+  object-fit: cover;
+  position: absolute;
+  top: 2921px;
+  width: 144px;
+}
+
+.adultos-mar .gatitos {
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 16.1px;
+  position: absolute;
+  top: 3117px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span1-2 {
+  letter-spacing: -0.20px;
+}
+
+.adultos-mar .rectangle-230 {
+  height: 184px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 2921px;
+  width: 143px;
+}
+
+.adultos-mar .rectangle-232 {
+  cursor: pointer;
+  height: 184px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 2921px;
+  width: 143px;
+}
+
+.adultos-mar .path-1248 {
+  height: 156px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 2286px;
+  width: 179px;
+}
+
+.adultos-mar .path-1249 {
+  height: 81px;
+  left: 316px;
+  object-fit: cover;
+  position: absolute;
+  top: 2186px;
+  width: 67px;
+}
+
+.adultos-mar .path-1250 {
+  height: 79px;
+  left: 244px;
+  object-fit: cover;
+  position: absolute;
+  top: 2217px;
+  width: 69px;
+}
+
+.adultos-mar .path-1251 {
+  height: 74px;
+  left: 396px;
+  object-fit: cover;
+  position: absolute;
+  top: 2218px;
+  width: 63px;
+}
+
+.adultos-mar .path-1252 {
+  height: 72px;
+  left: 214px;
+  object-fit: cover;
+  position: absolute;
+  top: 2297px;
+  width: 66px;
+}
+
+.adultos-mar .path-1253 {
+  height: 156px;
+  left: -27px;
+  object-fit: cover;
+  position: absolute;
+  top: 2580px;
+  width: 179px;
+}
+
+.adultos-mar .path-1254 {
+  height: 81px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2479px;
+  width: 67px;
+}
+
+.adultos-mar .path-1255 {
+  height: 79px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 2510px;
+  width: 69px;
+}
+
+.adultos-mar .path-1256 {
+  height: 74px;
+  left: -23px;
+  object-fit: cover;
+  position: absolute;
+  top: 2512px;
+  width: 63px;
+}
+
+.adultos-mar .path-1257 {
+  height: 72px;
+  left: 156px;
+  object-fit: cover;
+  position: absolute;
+  top: 2591px;
+  width: 66px;
+}
+
+.adultos-mar .gua-de-alimentacin {
+  left: 81px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 2456px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span0-1 {
+  letter-spacing: -0.17px;
+}
+
+.adultos-mar .span2-1 {
+  letter-spacing: -1.91px;
+}
+
+.adultos-mar .span3-1 {
+  letter-spacing: -0.90px;
+}
+
+.adultos-mar .span-5 {
+  letter-spacing: -0.13px;
+}
+
+.adultos-mar .diaria {
+  left: 171px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 2477px;
+  white-space: nowrap;
+}
+
+.adultos-mar .cmo-alimentar-a {
+  left: 60px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  position: absolute;
+  top: 2243px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span1-3 {
+  letter-spacing: -2.55px;
+}
+
+.adultos-mar .tu-minino {
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  position: absolute;
+  top: 2279px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span1-4 {
+  letter-spacing: -0.62px;
+}
+
+.adultos-mar .span2-2 {
+  letter-spacing: -0.48px;
+}
+
+.adultos-mar .considera-su-peso-y-edad {
+  left: 87px;
+  letter-spacing: 0;
+  line-height: 23.1px;
+  position: absolute;
+  top: 2329px;
+  white-space: nowrap;
+}
+
+.adultos-mar .mientras-ms-conozcas-a-tu-minino {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: 23.1px;
+  position: absolute;
+  top: 2350px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span1-5 {
+  letter-spacing: -0.37px;
+}
+
+.adultos-mar .span-6 {
+  letter-spacing: 0.06px;
+}
+
+.adultos-mar .span-7 {
+  letter-spacing: 0.04px;
+}
+
+.adultos-mar .mejor-lo-alimentars {
+  left: 109px;
+  letter-spacing: 0;
+  line-height: 23.1px;
+  position: absolute;
+  top: 2371px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span-8 {
+  letter-spacing: 0.13px;
+}
+
+.adultos-mar .span5-1 {
+  letter-spacing: -0.38px;
+}
+
+.adultos-mar .path-1260 {
+  height: 42px;
+  left: 166px;
+  object-fit: cover;
+  position: absolute;
+  top: 2184px;
+  width: 80px;
+}
+
+.adultos-mar .path-1261 {
+  height: 5px;
+  left: 203px;
+  object-fit: cover;
+  position: absolute;
+  top: 2215px;
+  width: 7px;
+}
+
+.adultos-mar .path-1262 {
+  height: 3px;
+  left: 207px;
+  object-fit: cover;
+  position: absolute;
+  top: 2211px;
+  width: 3px;
+}
+
+.adultos-mar .path-1263 {
+  height: 3px;
+  left: 204px;
+  object-fit: cover;
+  position: absolute;
+  top: 2211px;
+  width: 3px;
+}
+
+.adultos-mar .path-1264 {
+  height: 2px;
+  left: 201px;
+  object-fit: cover;
+  position: absolute;
+  top: 2214px;
+  width: 2px;
+}
+
+.adultos-mar .path-1265 {
+  height: 2px;
+  left: 210px;
+  object-fit: cover;
+  position: absolute;
+  top: 2213px;
+  width: 2px;
+}
+
+.adultos-mar .los-gatos-adultos-requieren {
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 1611px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span-9 {
+  letter-spacing: 0.21px;
+}
+
+.adultos-mar .span-10 {
+  letter-spacing: 0.34px;
+}
+
+.adultos-mar .span-11 {
+  letter-spacing: 0.27px;
+}
+
+.adultos-mar .span-12 {
+  letter-spacing: 0.19px;
+}
+
+.adultos-mar .componentes-nutricionales {
+  left: 67px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 1637px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span-13 {
+  letter-spacing: 0.25px;
+}
+
+.adultos-mar .span6 {
+  letter-spacing: -0.21px;
+}
+
+.adultos-mar .span8 {
+  letter-spacing: 0.55px;
+}
+
+.adultos-mar .ptimos-para-que-disfruten-de {
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 1662px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span12 {
+  letter-spacing: 0.82px;
+}
+
+.adultos-mar .una-vida-llena-de-vitalidad {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 1687px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span18 {
+  letter-spacing: 0.15px;
+}
+
+.adultos-mar .pro-cat-care-adultos {
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 1712px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span0-2 {
+  letter-spacing: 0.48px;
+}
+
+.adultos-mar .span-14 {
+  letter-spacing: 0.36px;
+}
+
+.adultos-mar .span7 {
+  letter-spacing: -0.27px;
+}
+
+.adultos-mar .te-ofrece {
+  left: 270px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 1712px;
+  white-space: nowrap;
+}
+
+.adultos-mar .dos-deliciosos-sabores-que-tus {
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 1737px;
+  white-space: nowrap;
+}
+
+.adultos-mar .gatos-amarn {
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 1763px;
+  white-space: nowrap;
+}
+
+.adultos-mar .path-1372 {
+  height: 1187px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 417px;
+}
+
+.adultos-mar .rectangle-247 {
+  height: 55px;
+  left: 158px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 97px;
+}
+
+.adultos-mar .rectangle-250 {
+  cursor: pointer;
+  height: 55px;
+  left: 158px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 97px;
+}
+
+.adultos-mar .line-5 {
+  height: 1px;
+  left: 10px;
+  top: 57px;
+  width: 394px;
+}
+
+.adultos-mar .nutre-su-vida-con {
+  left: 56px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 163px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span0-3 {
+  letter-spacing: -1.15px;
+}
+
+.adultos-mar .span-15 {
+  letter-spacing: -0.22px;
+}
+
+.adultos-mar .span3-2 {
+  letter-spacing: -0.43px;
+}
+
+.adultos-mar .una-alimentacin {
+  left: 62px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 200px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span1-6 {
+  letter-spacing: -0.47px;
+}
+
+.adultos-mar .premium {
+  left: 124px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 237px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span1-7 {
+  letter-spacing: -0.25px;
+}
+
+.adultos-mar .adultos-mar-1 {
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 686px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span1-8 {
+  letter-spacing: -3.36px;
+}
+
+.adultos-mar .span2-3 {
+  letter-spacing: -0.44px;
+}
+
+.adultos-mar .path-1380 {
+  height: 57px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 553px;
+  width: 336px;
+}
+
+.adultos-mar .group-707 {
+  align-items: center;
+  flex-direction: column;
+  gap: 1px;
+  left: 324px;
+  min-height: 49px;
+  top: 1182px;
+  width: 38px;
+}
+
+.adultos-mar .path-1382 {
+  height: 9px;
+  margin-left: 4.83px;
+  object-fit: cover;
+  width: 11px;
+}
+
+.adultos-mar .overlap-group1 {
+  height: 39px;
+  margin-right: 0;
+  position: relative;
+  width: 38px;
+}
+
+.adultos-mar .overlap-group2 {
+  height: 39px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.adultos-mar .path-container {
+  height: 37px;
+  left: 9px;
+  position: absolute;
+  top: 2px;
+  width: 27px;
+}
+
+.adultos-mar .path-1381 {
+  height: 28px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.adultos-mar .path-1383 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 10px;
+}
+
+.adultos-mar .path-1384 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.adultos-mar .path-1385 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 9px;
+}
+
+.adultos-mar .group-706 {
+  align-items: flex-end;
+  flex-direction: column;
+  gap: 1px;
+  left: 248px;
+  min-height: 40px;
+  top: 1185px;
+  width: 37px;
+}
+
+.adultos-mar .path-container-1 {
+  gap: 7px;
+  height: 11px;
+  margin-right: 4.46px;
+  min-width: 25px;
+}
+
+.adultos-mar .path-1389 {
+  align-self: flex-end;
+  height: 9px;
+  object-fit: cover;
+  width: 9px;
+}
+
+.adultos-mar .path-1387 {
+  height: 9px;
+  object-fit: cover;
+  width: 9px;
+}
+
+.adultos-mar .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 1px;
+  height: 27px;
+  margin-right: 0;
+  min-width: 37px;
+}
+
+.adultos-mar .path-container-2 {
+  align-self: flex-end;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 23px;
+  width: 13px;
+}
+
+.adultos-mar .path-1390 {
+  height: 9px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.adultos-mar .path-1388 {
+  height: 9px;
+  margin-left: 4.27px;
+  object-fit: cover;
+  width: 9px;
+}
+
+.adultos-mar .path-1386 {
+  height: 25px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.adultos-mar .path-1391 {
+  height: 25px;
+  left: 191px;
+  object-fit: cover;
+  position: absolute;
+  top: 1165px;
+  width: 21px;
+}
+
+.adultos-mar .path-1392 {
+  height: 7px;
+  left: 187px;
+  object-fit: cover;
+  position: absolute;
+  top: 1159px;
+  width: 9px;
+}
+
+.adultos-mar .path-1393 {
+  height: 8px;
+  left: 195px;
+  object-fit: cover;
+  position: absolute;
+  top: 1192px;
+  width: 9px;
+}
+
+.adultos-mar .path-1394 {
+  height: 7px;
+  left: 179px;
+  object-fit: cover;
+  position: absolute;
+  top: 1171px;
+  width: 9px;
+}
+
+.adultos-mar .path-1395 {
+  height: 8px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 1186px;
+  width: 8px;
+}
+
+.adultos-mar .path-1396 {
+  height: 24px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 1161px;
+  width: 22px;
+}
+
+.adultos-mar .path-1397 {
+  height: 8px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 1149px;
+  width: 9px;
+}
+
+.adultos-mar .path-1398 {
+  height: 8px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 1181px;
+  width: 9px;
+}
+
+.adultos-mar .path-1399 {
+  height: 8px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 1154px;
+  width: 9px;
+}
+
+.adultos-mar .path-1400 {
+  height: 8px;
+  left: 111px;
+  object-fit: cover;
+  position: absolute;
+  top: 1168px;
+  width: 8px;
+}
+
+.adultos-mar .path-1401 {
+  height: 58px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 769px;
+  width: 307px;
+}
+
+.adultos-mar .path-1402 {
+  height: 80px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 758px;
+  width: 80px;
+}
+
+.adultos-mar .ellipse-10 {
+  left: 35px;
+  top: 757px;
+  transform: rotate(-52.02deg);
+}
+
+.adultos-mar .salud-urinaria {
+  left: 165px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 780px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span-16 {
+  letter-spacing: 0.22px;
+}
+
+.adultos-mar .span-17 {
+  letter-spacing: 0.57px;
+}
+
+.adultos-mar .span2-4 {
+  letter-spacing: 0.29px;
+}
+
+.adultos-mar .span-18 {
+  letter-spacing: 0.26px;
+}
+
+.adultos-mar .path-1403 {
+  height: 58px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 898px;
+  width: 307px;
+}
+
+.adultos-mar .path-1404 {
+  height: 80px;
+  left: 297px;
+  object-fit: cover;
+  position: absolute;
+  top: 887px;
+  width: 80px;
+}
+
+.adultos-mar .ellipse-11 {
+  left: 296px;
+  top: 886px;
+  transform: rotate(-55.28deg);
+}
+
+.adultos-mar .control-de {
+  left: 117px;
+  line-height: 26.4px;
+  top: 899px;
+}
+
+.adultos-mar .bolas-de-pelo {
+  left: 101px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 920px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span-19 {
+  letter-spacing: 0.20px;
+}
+
+.adultos-mar .path-1405 {
+  height: 58px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 1032px;
+  width: 307px;
+}
+
+.adultos-mar .path-1406 {
+  height: 80px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 1021px;
+  width: 80px;
+}
+
+.adultos-mar .ellipse-12 {
+  left: 36px;
+  top: 1020px;
+  transform: rotate(-52.02deg);
+}
+
+.adultos-mar .salud-de-piel-y-pelaje {
+  left: 129px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 1045px;
+  white-space: nowrap;
+}
+
+.adultos-mar .path-1407 {
+  height: 44px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 1039px;
+  width: 32px;
+}
+
+.adultos-mar .path-1408 {
+  height: 54px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 1037px;
+  width: 37px;
+}
+
+.adultos-mar .path-1409 {
+  height: 2px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1078px;
+  width: 6px;
+}
+
+.adultos-mar .path-1410 {
+  height: 2px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 1082px;
+  width: 30px;
+}
+
+.adultos-mar .path-1411 {
+  height: 7px;
+  left: 79px;
+  object-fit: cover;
+  position: absolute;
+  top: 1044px;
+  width: 2px;
+}
+
+.adultos-mar .path-1412 {
+  height: 6px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 1048px;
+  width: 6px;
+}
+
+.adultos-mar .path-1413 {
+  height: 7px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 1044px;
+  width: 4px;
+}
+
+.adultos-mar .path-1414 {
+  height: 16px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 1068px;
+  width: 6px;
+}
+
+.adultos-mar .line-58 {
+  height: 60px;
+  left: 306px;
+  top: 898px;
+  width: 60px;
+}
+
+.adultos-mar .path-1415 {
+  height: 25px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 1157px;
+  width: 22px;
+}
+
+.adultos-mar .path-1416 {
+  height: 8px;
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 1153px;
+  width: 9px;
+}
+
+.adultos-mar .path-1417 {
+  height: 8px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 1186px;
+  width: 9px;
+}
+
+.adultos-mar .path-1418 {
+  height: 8px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 1166px;
+  width: 9px;
+}
+
+.adultos-mar .path-1419 {
+  height: 8px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 1181px;
+  width: 8px;
+}
+
+.adultos-mar .rectangle-259 {
+  height: 369px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 267px;
+  width: 291px;
+}
+
+.adultos-mar .path-1420 {
+  height: 23px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 792px;
+  width: 50px;
+}
+
+.adultos-mar .path-1421 {
+  height: 12px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 777px;
+  width: 13px;
+}
+
+.adultos-mar .path-1422 {
+  height: 7px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 776px;
+  width: 7px;
+}
+
+.adultos-mar .path-1423 {
+  height: 5px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 806px;
+  width: 8px;
+}
+
+.adultos-mar .path-1424 {
+  height: 2px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 803px;
+  width: 2px;
+}
+
+.adultos-mar .path-1425 {
+  height: 2px;
+  left: 77px;
+  object-fit: cover;
+  position: absolute;
+  top: 803px;
+  width: 2px;
+}
+
+.adultos-mar .path-1426 {
+  height: 2px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 805px;
+  width: 2px;
+}
+
+.adultos-mar .path-1427 {
+  height: 2px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 805px;
+  width: 1px;
+}
+
+.adultos-mar .path-1428 {
+  height: 43px;
+  left: 309px;
+  object-fit: cover;
+  position: absolute;
+  top: 908px;
+  width: 55px;
+}
+
+.adultos-mar .path-1429 {
+  height: 219px;
+  left: 164px;
+  object-fit: cover;
+  position: absolute;
+  top: 1308px;
+  width: 220px;
+}
+
+.adultos-mar .rectangle-263 {
+  height: 327px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 1257px;
+  width: 254px;
+}
+
+.adultos-mar .path-1430 {
+  height: 79px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 1257px;
+  width: 79px;
+}
+
+.adultos-mar .path-1431 {
+  height: 80px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 1257px;
+  width: 80px;
+}
+
+.adultos-mar .path-1432 {
+  height: 70px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 1262px;
+  width: 70px;
+}
+
+.adultos-mar .path-1433 {
+  height: 15px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 1284px;
+  width: 14px;
+}
+
+.adultos-mar .path-1434 {
+  height: 16px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 1283px;
+  width: 8px;
+}
+
+.adultos-mar .path-1435 {
+  height: 4px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 1284px;
+  width: 6px;
+}
+
+.adultos-mar .path-1436 {
+  height: 5px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 1284px;
+  width: 7px;
+}
+
+.adultos-mar .path-1437 {
+  height: 8px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 1278px;
+  width: 8px;
+}
+
+.adultos-mar .path-1438 {
+  height: 8px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 1278px;
+  width: 9px;
+}
+
+.adultos-mar .path-1439 {
+  height: 7px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 1274px;
+  width: 6px;
+}
+
+.adultos-mar .path-1440 {
+  height: 7px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 1274px;
+  width: 7px;
+}
+
+.adultos-mar .path-1441 {
+  height: 7px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 1270px;
+  width: 7px;
+}
+
+.adultos-mar .path-1442 {
+  height: 8px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 1270px;
+  width: 7px;
+}
+
+.adultos-mar .path-1443 {
+  height: 7px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 1268px;
+  width: 5px;
+}
+
+.adultos-mar .path-1444 {
+  height: 8px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 1268px;
+  width: 6px;
+}
+
+.adultos-mar .path-1445 {
+  height: 7px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1268px;
+  width: 5px;
+}
+
+.adultos-mar .path-1446 {
+  height: 7px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1267px;
+  width: 6px;
+}
+
+.adultos-mar .path-1447 {
+  height: 7px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 1268px;
+  width: 2px;
+}
+
+.adultos-mar .path-1448 {
+  height: 7px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 1268px;
+  width: 3px;
+}
+
+.adultos-mar .path-14 {
+  height: 8px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 1269px;
+  width: 6px;
+}
+
+.adultos-mar .path-1451 {
+  height: 8px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 1272px;
+  width: 8px;
+}
+
+.adultos-mar .path-1452 {
+  height: 9px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 1272px;
+  width: 8px;
+}
+
+.adultos-mar .path-145 {
+  height: 7px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 1276px;
+  width: 7px;
+}
+
+.adultos-mar .path-1455 {
+  height: 7px;
+  left: 98px;
+  object-fit: cover;
+  position: absolute;
+  top: 1282px;
+  width: 8px;
+}
+
+.adultos-mar .path-1456 {
+  height: 7px;
+  left: 98px;
+  object-fit: cover;
+  position: absolute;
+  top: 1281px;
+  width: 8px;
+}
+
+.adultos-mar .path-1457 {
+  height: 1px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 1303px;
+  width: 1px;
+}
+
+.adultos-mar .path-1458 {
+  height: 1px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 1303px;
+  width: 2px;
+}
+
+.adultos-mar .path-14-1 {
+  height: 7px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 5px;
+}
+
+.adultos-mar .path-1461 {
+  height: 7px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 5px;
+}
+
+.adultos-mar .path-1462 {
+  height: 7px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 5px;
+}
+
+.adultos-mar .path-1463 {
+  height: 7px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 6px;
+}
+
+.adultos-mar .path-1464 {
+  height: 8px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 7px;
+}
+
+.adultos-mar .path-1465 {
+  height: 7px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 5px;
+}
+
+.adultos-mar .path-1466 {
+  height: 7px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 5px;
+}
+
+.adultos-mar .path-1467 {
+  height: 7px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 4px;
+}
+
+.adultos-mar .path-1468 {
+  height: 7px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 5px;
+}
+
+.adultos-mar .path-1469 {
+  height: 7px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 1px;
+}
+
+.adultos-mar .path-1470 {
+  height: 7px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 2px;
+}
+
+.adultos-mar .path-1471 {
+  height: 7px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 5px;
+}
+
+.adultos-mar .path-1472 {
+  height: 7px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 6px;
+}
+
+.adultos-mar .path-147 {
+  height: 7px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 6px;
+}
+
+.adultos-mar .path-1475 {
+  height: 7px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 1315px;
+  width: 6px;
+}
+
+.adultos-mar .path-1476 {
+  height: 7px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 1314px;
+  width: 6px;
+}
+
+.adultos-mar .path-1477 {
+  height: 7px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 1315px;
+  width: 5px;
+}
+
+.adultos-mar .path-1478 {
+  height: 7px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 1314px;
+  width: 6px;
+}
+
+.adultos-mar .path-1479 {
+  height: 7px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 1315px;
+  width: 1px;
+}
+
+.adultos-mar .path-1480 {
+  height: 7px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 1314px;
+  width: 2px;
+}
+
+.adultos-mar .path-1481 {
+  height: 7px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1315px;
+  width: 6px;
+}
+
+.adultos-mar .path-1482 {
+  height: 7px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1314px;
+  width: 7px;
+}
+
+.adultos-mar .path-1483 {
+  height: 7px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 1315px;
+  width: 6px;
+}
+
+.adultos-mar .path-1484 {
+  height: 7px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 1314px;
+  width: 6px;
+}
+
+.adultos-mar .path-1485 {
+  height: 7px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 1315px;
+  width: 4px;
+}
+
+.adultos-mar .path-1486 {
+  height: 7px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 1314px;
+  width: 5px;
+}
+
+.adultos-mar .path-1487 {
+  height: 56px;
+  left: 285px;
+  object-fit: cover;
+  position: absolute;
+  top: 1286px;
+  width: 92px;
+}
+
+.adultos-mar .rectangle-265 {
+  border: 7px solid;
+  border-color: var(--tory-blue);
+  border-radius: 24.94px 24.94px 24.94px 24.94px;
+  height: 63px;
+  left: 282px;
+  position: absolute;
+  top: 1282px;
+  width: 99px;
+}
+
+.adultos-mar .protena {
+  left: 304px;
+  letter-spacing: 0;
+  line-height: 15.0px;
+  position: absolute;
+  top: 1316px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span2-5 {
+  letter-spacing: -0.30px;
+}
+
+.adultos-mar .span5-2 {
+  letter-spacing: 0.11px;
+}
+
+.adultos-mar .path-1488 {
+  height: 19px;
+  left: 308px;
+  object-fit: cover;
+  position: absolute;
+  top: 1296px;
+  width: 14px;
+}
+
+.adultos-mar .path-1489 {
+  height: 19px;
+  left: 322px;
+  object-fit: cover;
+  position: absolute;
+  top: 1296px;
+  width: 14px;
+}
+
+.adultos-mar .path-1490 {
+  height: 19px;
+  left: 339px;
+  object-fit: cover;
+  position: absolute;
+  top: 1296px;
+  width: 20px;
+}
+
+.adultos-mar .path-1491 {
+  height: 75px;
+  left: 141px;
+  object-fit: cover;
+  position: absolute;
+  top: 595px;
+  width: 132px;
+}
+
+.adultos-mar .rectangle-271 {
+  height: 61px;
+  left: 137px;
+  object-fit: cover;
+  position: absolute;
+  top: 613px;
+  width: 139px;
+}
+
+.adultos-mar .path-1492 {
+  height: 41px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 89px;
+  width: 179px;
+}
+
+.adultos-mar .adultos-1 {
+  left: 154px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 97px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span1-9 {
+  letter-spacing: -2.50px;
+}
+
+.adultos-mar .path-1493 {
+  height: 25px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 2696px;
+  width: 305px;
+}
+
+.adultos-mar .path-1494 {
+  height: 26px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 2696px;
+  width: 306px;
+}
+
+.adultos-mar .line-59 {
+  height: 19px;
+  left: 260px;
+  top: 2699px;
+  width: 1px;
+}
+
+.adultos-mar .line-60 {
+  height: 19px;
+  left: 143px;
+  top: 2699px;
+  width: 1px;
+}
+
+.adultos-mar .path-1495 {
+  height: 25px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 2602px;
+  width: 305px;
+}
+
+.adultos-mar .path-1496 {
+  height: 25px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 2669px;
+  width: 305px;
+}
+
+.adultos-mar .path-1497 {
+  height: 25px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 2563px;
+  width: 305px;
+}
+
+.adultos-mar .path-1498 {
+  height: 26px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 2563px;
+  width: 306px;
+}
+
+.adultos-mar .path-1499 {
+  height: 25px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 2536px;
+  width: 305px;
+}
+
+.adultos-mar .peso-kg {
+  left: 172px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 2540px;
+  white-space: nowrap;
+}
+
+.adultos-mar .path-1500 {
+  height: 25px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 2630px;
+  width: 305px;
+}
+
+.adultos-mar .path-1501 {
+  height: 26px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 2630px;
+  width: 306px;
+}
+
+.adultos-mar .line-61 {
+  height: 19px;
+  left: 265px;
+  top: 2634px;
+  width: 1px;
+}
+
+.adultos-mar .line-62 {
+  height: 19px;
+  left: 148px;
+  top: 2634px;
+  width: 1px;
+}
+
+.adultos-mar .cantidades-g {
+  left: 147px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 2607px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span1 {
+  letter-spacing: -0.23px;
+}
+
+.adultos-mar .span5-3 {
+  letter-spacing: -0.41px;
+}
+
+.adultos-mar .cantidad-tazas {
+  left: 139px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 2673px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span5-4 {
+  letter-spacing: -0.74px;
+}
+
+.adultos-mar .address {
+  left: 83px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 2563px;
+  white-space: nowrap;
+}
+
+.adultos-mar .address-1 {
+  left: 290px;
+  top: 2562px;
+}
+
+.adultos-mar .x13-a-12 {
+  left: 65px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 2695px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span-20 {
+  letter-spacing: -0.59px;
+}
+
+.adultos-mar .x34-a-1 {
+  left: 281px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 2695px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span-21 {
+  letter-spacing: -0.72px;
+}
+
+.adultos-mar .line-63 {
+  height: 19px;
+  left: 266px;
+  top: 2566px;
+  width: 1px;
+}
+
+.adultos-mar .address-2 {
+  left: 185px;
+  top: 2563px;
+}
+
+.adultos-mar .x12-a-34 {
+  left: 167px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 2695px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span1-10 {
+  letter-spacing: -0.58px;
+}
+
+.adultos-mar .line-64 {
+  height: 19px;
+  left: 149px;
+  top: 2566px;
+  width: 1px;
+}
+
+.adultos-mar .address-3 {
+  left: 72px;
+  top: 2630px;
+}
+
+.adultos-mar .address-4 {
+  left: 274px;
+  top: 2630px;
+}
+
+.adultos-mar .address-5 {
+  left: 174px;
+  top: 2630px;
+}
+
+.adultos-mar .kitten-white-isolated {
+  height: 197px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 1404px;
+  width: 284px;
+}
+
+.adultos-mar .path-2583 {
+  height: 1109px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2060px;
+  width: 412px;
+}
+
+.adultos-mar .path-2565 {
+  height: 164px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 1981px;
+  width: 234px;
+}
+
+.adultos-mar .path-2566 {
+  height: 157px;
+  left: 267px;
+  object-fit: cover;
+  position: absolute;
+  top: 1989px;
+  width: 114px;
+}
+
+.adultos-mar .path-2563 {
+  height: 42px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 1947px;
+  width: 348px;
+}
+
+.adultos-mar .percent {
+  left: 303px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 1991px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span-22 {
+  letter-spacing: 0.67px;
+}
+
+.adultos-mar .span-23 {
+  letter-spacing: 0.66px;
+}
+
+.adultos-mar .span-24 {
+  letter-spacing: 0.69px;
+}
+
+.adultos-mar .percent-1 {
+  left: 303px;
+  top: 2013px;
+}
+
+.adultos-mar .percent-2 {
+  left: 306px;
+  top: 2034px;
+}
+
+.adultos-mar .span-25 {
+  letter-spacing: 0.70px;
+}
+
+.adultos-mar .percent-3 {
+  left: 306px;
+  top: 2056px;
+}
+
+.adultos-mar .percent-4 {
+  left: 307px;
+  top: 2099px;
+}
+
+.adultos-mar .percent-5 {
+  left: 306px;
+  top: 2122px;
+}
+
+.adultos-mar .line-139 {
+  height: 1px;
+  left: 33px;
+  top: 2009px;
+  width: 348px;
+}
+
+.adultos-mar .line-141 {
+  height: 1px;
+  left: 33px;
+  top: 2031px;
+  width: 348px;
+}
+
+.adultos-mar .line-142 {
+  height: 1px;
+  left: 33px;
+  top: 2052px;
+  width: 348px;
+}
+
+.adultos-mar .line-143 {
+  height: 1px;
+  left: 33px;
+  top: 2074px;
+  width: 348px;
+}
+
+.adultos-mar .line-144 {
+  height: 1px;
+  left: 33px;
+  top: 2096px;
+  width: 348px;
+}
+
+.adultos-mar .line-145 {
+  height: 1px;
+  left: 33px;
+  top: 2119px;
+  width: 348px;
+}
+
+.adultos-mar .line-140 {
+  height: 157px;
+  left: 267px;
+  top: 1989px;
+  width: 1px;
+}
+
+.adultos-mar .path-2564 {
+  height: 199px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 1947px;
+  width: 349px;
+}
+
+.adultos-mar .anlisis-garantizado {
+  left: 82px;
+  letter-spacing: 0;
+  line-height: 23.0px;
+  position: absolute;
+  top: 1960px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span-26 {
+  letter-spacing: 1.15px;
+}
+
+.adultos-mar .span-27 {
+  letter-spacing: 1.13px;
+}
+
+.adultos-mar .percent-6 {
+  left: 303px;
+  top: 2078px;
+}
+
+.adultos-mar .path-2635 {
+  height: 10px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 8px;
+}
+
+.adultos-mar .path-2600 {
+  height: 10px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 8px;
+}
+
+.adultos-mar .path-2601 {
+  height: 10px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 9px;
+}
+
+.adultos-mar .path-2602 {
+  height: 10px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 8px;
+}
+
+.adultos-mar .path-2603 {
+  height: 10px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 7px;
+}
+
+.adultos-mar .path-2604 {
+  height: 12px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 1993px;
+  width: 4px;
+}
+
+.adultos-mar .path-2605 {
+  height: 10px;
+  left: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 8px;
+}
+
+.adultos-mar .path-2584 {
+  height: 10px;
+  left: 107px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 9px;
+}
+
+.adultos-mar .path-2585 {
+  height: 10px;
+  left: 127px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 8px;
+}
+
+.adultos-mar .path-2586 {
+  height: 10px;
+  left: 134px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 8px;
+}
+
+.adultos-mar .path-2587 {
+  height: 10px;
+  left: 142px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 8px;
+}
+
+.adultos-mar .path-2567 {
+  height: 10px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 9px;
+}
+
+.adultos-mar .path-2568 {
+  height: 11px;
+  left: 160px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 5px;
+}
+
+.adultos-mar .path-2569 {
+  height: 10px;
+  left: 165px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 10px;
+}
+
+.adultos-mar .path-2570 {
+  height: 12px;
+  left: 174px;
+  object-fit: cover;
+  position: absolute;
+  top: 1993px;
+  width: 4px;
+}
+
+.adultos-mar .path-2571 {
+  height: 10px;
+  left: 178px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 8px;
+}
+
+.adultos-mar .path-2572 {
+  height: 4px;
+  left: 185px;
+  object-fit: cover;
+  position: absolute;
+  top: 2002px;
+  width: 4px;
+}
+
+.adultos-mar .path-2573 {
+  height: 11px;
+  left: 188px;
+  object-fit: cover;
+  position: absolute;
+  top: 1995px;
+  width: 5px;
+}
+
+.adultos-mar .path-2636 {
+  height: 10px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 2016px;
+  width: 9px;
+}
+
+.adultos-mar .path-2606 {
+  height: 10px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 2016px;
+  width: 8px;
+}
+
+.adultos-mar .path-2607 {
+  height: 10px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 2016px;
+  width: 9px;
+}
+
+.adultos-mar .path-2608 {
+  height: 10px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 2016px;
+  width: 8px;
+}
+
+.adultos-mar .path-2609 {
+  height: 10px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 2016px;
+  width: 9px;
+}
+
+.adultos-mar .path-2610 {
+  height: 10px;
+  left: 101px;
+  object-fit: cover;
+  position: absolute;
+  top: 2016px;
+  width: 9px;
+}
+
+.adultos-mar .path-2588 {
+  height: 10px;
+  left: 109px;
+  object-fit: cover;
+  position: absolute;
+  top: 2016px;
+  width: 8px;
+}
+
+.adultos-mar .path-2589 {
+  height: 10px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 2016px;
+  width: 8px;
+}
+
+.adultos-mar .path-2590 {
+  height: 10px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 2016px;
+  width: 9px;
+}
+
+.adultos-mar .path-2591 {
+  height: 11px;
+  left: 143px;
+  object-fit: cover;
+  position: absolute;
+  top: 2015px;
+  width: 5px;
+}
+
+.adultos-mar .path-2574 {
+  height: 10px;
+  left: 147px;
+  object-fit: cover;
+  position: absolute;
+  top: 2016px;
+  width: 10px;
+}
+
+.adultos-mar .path-2575 {
+  height: 12px;
+  left: 157px;
+  object-fit: cover;
+  position: absolute;
+  top: 2014px;
+  width: 4px;
+}
+
+.adultos-mar .path-2576 {
+  height: 10px;
+  left: 160px;
+  object-fit: cover;
+  position: absolute;
+  top: 2016px;
+  width: 8px;
+}
+
+.adultos-mar .path-2577 {
+  height: 4px;
+  left: 168px;
+  object-fit: cover;
+  position: absolute;
+  top: 2022px;
+  width: 4px;
+}
+
+.adultos-mar .path-2578 {
+  height: 11px;
+  left: 171px;
+  object-fit: cover;
+  position: absolute;
+  top: 2015px;
+  width: 5px;
+}
+
+.adultos-mar .path-2637 {
+  height: 10px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 2038px;
+  width: 7px;
+}
+
+.adultos-mar .path-2638 {
+  height: 10px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 2038px;
+  width: 4px;
+}
+
+.adultos-mar .path-2611 {
+  height: 10px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 2038px;
+  width: 8px;
+}
+
+.adultos-mar .path-2612 {
+  height: 10px;
+  left: 77px;
+  object-fit: cover;
+  position: absolute;
+  top: 2038px;
+  width: 8px;
+}
+
+.adultos-mar .path-2613 {
+  height: 10px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 2038px;
+  width: 9px;
+}
+
+.adultos-mar .path-2614 {
+  height: 10px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 2038px;
+  width: 9px;
+}
+
+.adultos-mar .path-2615 {
+  height: 10px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 2038px;
+  width: 8px;
+}
+
+.adultos-mar .path-2592 {
+  height: 10px;
+  left: 111px;
+  object-fit: cover;
+  position: absolute;
+  top: 2038px;
+  width: 8px;
+}
+
+.adultos-mar .path-2593 {
+  height: 10px;
+  left: 126px;
+  object-fit: cover;
+  position: absolute;
+  top: 2038px;
+  width: 9px;
+}
+
+.adultos-mar .path-2594 {
+  height: 11px;
+  left: 137px;
+  object-fit: cover;
+  position: absolute;
+  top: 2038px;
+  width: 5px;
+}
+
+.adultos-mar .path-2595 {
+  height: 10px;
+  left: 141px;
+  object-fit: cover;
+  position: absolute;
+  top: 2038px;
+  width: 10px;
+}
+
+.adultos-mar .path-2579 {
+  height: 12px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 2036px;
+  width: 9px;
+}
+
+.adultos-mar .path-2580 {
+  height: 10px;
+  left: 159px;
+  object-fit: cover;
+  position: absolute;
+  top: 2038px;
+  width: 9px;
+}
+
+.adultos-mar .path-2581 {
+  height: 4px;
+  left: 167px;
+  object-fit: cover;
+  position: absolute;
+  top: 2044px;
+  width: 4px;
+}
+
+.adultos-mar .path-2582 {
+  height: 11px;
+  left: 170px;
+  object-fit: cover;
+  position: absolute;
+  top: 2038px;
+  width: 5px;
+}
+
+.adultos-mar .path-2639 {
+  height: 10px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 2060px;
+  width: 9px;
+}
+
+.adultos-mar .path-2616 {
+  height: 10px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 2060px;
+  width: 7px;
+}
+
+.adultos-mar .path-2617 {
+  height: 10px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 2060px;
+  width: 8px;
+}
+
+.adultos-mar .path-2618 {
+  height: 10px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 2060px;
+  width: 4px;
+}
+
+.adultos-mar .path-2619 {
+  height: 10px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 2060px;
+  width: 7px;
+}
+
+.adultos-mar .path-2620 {
+  height: 10px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 2060px;
+  width: 9px;
+}
+
+.adultos-mar .path-2621 {
+  height: 11px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 2060px;
+  width: 5px;
+}
+
+.adultos-mar .path-2596 {
+  height: 12px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 2058px;
+  width: 9px;
+}
+
+.adultos-mar .path-2597 {
+  height: 10px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 2060px;
+  width: 9px;
+}
+
+.adultos-mar .path-2598 {
+  height: 4px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 2067px;
+  width: 4px;
+}
+
+.adultos-mar .path-2599 {
+  height: 11px;
+  left: 136px;
+  object-fit: cover;
+  position: absolute;
+  top: 2060px;
+  width: 5px;
+}
+
+.adultos-mar .path-2640 {
+  height: 10px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 2103px;
+  width: 9px;
+}
+
+.adultos-mar .path-2641 {
+  height: 10px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 2103px;
+  width: 9px;
+}
+
+.adultos-mar .path-2642 {
+  height: 10px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 2103px;
+  width: 7px;
+}
+
+.adultos-mar .path-2643 {
+  height: 10px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 2103px;
+  width: 9px;
+}
+
+.adultos-mar .path-2644 {
+  height: 10px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 2103px;
+  width: 4px;
+}
+
+.adultos-mar .path-2645 {
+  height: 10px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 2103px;
+  width: 9px;
+}
+
+.adultos-mar .path-2622 {
+  height: 12px;
+  left: 118px;
+  object-fit: cover;
+  position: absolute;
+  top: 2101px;
+  width: 4px;
+}
+
+.adultos-mar .path-2646 {
+  height: 10px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 2103px;
+  width: 8px;
+}
+
+.adultos-mar .path-2647 {
+  height: 4px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 2110px;
+  width: 4px;
+}
+
+.adultos-mar .path-2623 {
+  height: 11px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 2103px;
+  width: 5px;
+}
+
+.adultos-mar .path-2648 {
+  height: 10px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 2126px;
+  width: 7px;
+}
+
+.adultos-mar .path-2649 {
+  height: 12px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 2123px;
+  width: 9px;
+}
+
+.adultos-mar .path-2650 {
+  height: 10px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 2126px;
+  width: 8px;
+}
+
+.adultos-mar .path-2651 {
+  height: 10px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 2126px;
+  width: 7px;
+}
+
+.adultos-mar .path-2652 {
+  height: 10px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 2126px;
+  width: 9px;
+}
+
+.adultos-mar .path-2653 {
+  height: 10px;
+  left: 97px;
+  object-fit: cover;
+  position: absolute;
+  top: 2126px;
+  width: 8px;
+}
+
+.adultos-mar .path-2654 {
+  height: 10px;
+  left: 104px;
+  object-fit: cover;
+  position: absolute;
+  top: 2126px;
+  width: 9px;
+}
+
+.adultos-mar .path-2655 {
+  height: 11px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 2125px;
+  width: 5px;
+}
+
+.adultos-mar .path-2656 {
+  height: 10px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 2126px;
+  width: 10px;
+}
+
+.adultos-mar .path-2657 {
+  height: 12px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 2123px;
+  width: 4px;
+}
+
+.adultos-mar .path-2658 {
+  height: 10px;
+  left: 133px;
+  object-fit: cover;
+  position: absolute;
+  top: 2126px;
+  width: 8px;
+}
+
+.adultos-mar .path-2661 {
+  height: 4px;
+  left: 141px;
+  object-fit: cover;
+  position: absolute;
+  top: 2132px;
+  width: 4px;
+}
+
+.adultos-mar .path-2659 {
+  height: 11px;
+  left: 144px;
+  object-fit: cover;
+  position: absolute;
+  top: 2125px;
+  width: 5px;
+}
+
+.adultos-mar .path-2660 {
+  height: 10px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 2082px;
+  width: 8px;
+}
+
+.adultos-mar .path-2624 {
+  height: 10px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 2082px;
+  width: 8px;
+}
+
+.adultos-mar .path-2625 {
+  height: 10px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 2082px;
+  width: 10px;
+}
+
+.adultos-mar .path-2626 {
+  height: 10px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 2082px;
+  width: 7px;
+}
+
+.adultos-mar .path-2627 {
+  height: 10px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 2082px;
+  width: 8px;
+}
+
+.adultos-mar .path-2628 {
+  height: 10px;
+  left: 98px;
+  object-fit: cover;
+  position: absolute;
+  top: 2082px;
+  width: 9px;
+}
+
+.adultos-mar .path-2629 {
+  height: 11px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 2081px;
+  width: 5px;
+}
+
+.adultos-mar .path-2630 {
+  height: 10px;
+  left: 121px;
+  object-fit: cover;
+  position: absolute;
+  top: 2082px;
+  width: 10px;
+}
+
+.adultos-mar .path-2631 {
+  height: 12px;
+  left: 130px;
+  object-fit: cover;
+  position: absolute;
+  top: 2080px;
+  width: 9px;
+}
+
+.adultos-mar .path-2632 {
+  height: 10px;
+  left: 138px;
+  object-fit: cover;
+  position: absolute;
+  top: 2082px;
+  width: 9px;
+}
+
+.adultos-mar .path-2633 {
+  height: 4px;
+  left: 146px;
+  object-fit: cover;
+  position: absolute;
+  top: 2088px;
+  width: 4px;
+}
+
+.adultos-mar .path-2634 {
+  height: 11px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 2081px;
+  width: 5px;
+}
+
+.adultos-mar .protena-cruda-mn {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 1993px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span0-4 {
+  letter-spacing: 0.85px;
+}
+
+.adultos-mar .span3-3 {
+  letter-spacing: 0.59px;
+}
+
+.adultos-mar .span-28 {
+  letter-spacing: 0.72px;
+}
+
+.adultos-mar .span-29 {
+  letter-spacing: 0.09px;
+}
+
+.adultos-mar .grasa-cruda-mn {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 2013px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span0-5 {
+  letter-spacing: 0.77px;
+}
+
+.adultos-mar .span-30 {
+  letter-spacing: 0.16px;
+}
+
+.adultos-mar .span2-6 {
+  letter-spacing: 0.42px;
+}
+
+.adultos-mar .span3-4 {
+  letter-spacing: 0.46px;
+}
+
+.adultos-mar .span-31 {
+  letter-spacing: 0.10px;
+}
+
+.adultos-mar .fibra-cruda-mx {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 2035px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span1-11 {
+  letter-spacing: 0.74px;
+}
+
+.adultos-mar .ceniza-mx {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 2056px;
+  white-space: nowrap;
+}
+
+.adultos-mar .span2 {
+  letter-spacing: 0.75px;
+}
+
+.adultos-mar .calcio-mn {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 2101px;
+  white-space: nowrap;
+}
+
+.adultos-mar .fsforo-mn {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 2125px;
+  white-space: nowrap;
+}
+
+.adultos-mar .humedad-mx {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 2079px;
+  white-space: nowrap;
+}
+
+.adultos-mar .group-712 {
+  align-items: center;
+  cursor: pointer;
+  height: 14px;
+  left: 27px;
+  min-width: 86px;
+  padding: 0 0.0px;
+  top: 23px;
+}
+
+.adultos-mar .path-container-3 {
+  flex-direction: column;
+  min-height: 14px;
+  width: 27px;
+}
+
+.adultos-mar .address-6 {
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.adultos-mar .group {
+  display: flex;
+  position: absolute;
+}
+
+.adultos-mar .line {
+  object-fit: cover;
+  position: absolute;
+}
+
+.adultos-mar .path-container-4 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.adultos-mar .percent-7 {
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  white-space: nowrap;
+}

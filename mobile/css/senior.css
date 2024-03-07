@@ -1,0 +1,3262 @@
+/* screen - senior */
+
+.senior {
+  background-color: var(--white);
+  height: 3198px;
+  overflow: hidden;
+  position: relative;
+  width: 412px;
+}
+
+.senior .path-1502 {
+  height: 556px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2708px;
+  width: 414px;
+}
+
+.senior .otros-productos {
+  left: 71px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  position: absolute;
+  top: 2869px;
+  white-space: nowrap;
+}
+
+.senior .span-1 {
+  letter-spacing: -0.36px;
+}
+
+.senior .span5 {
+  letter-spacing: -0.56px;
+}
+
+.senior .path-1503 {
+  height: 40px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 3065px;
+  width: 391px;
+}
+
+.senior .gatitos {
+  left: 61px;
+  letter-spacing: 0;
+  line-height: 16.1px;
+  position: absolute;
+  top: 3115px;
+  white-space: nowrap;
+}
+
+.senior .span1-1 {
+  letter-spacing: -0.20px;
+}
+
+.senior .span-2 {
+  letter-spacing: -0.09px;
+}
+
+.senior .adultos {
+  left: 195px;
+  line-height: 16.1px;
+  top: 3113px;
+}
+
+.senior .span-3 {
+  letter-spacing: -0.28px;
+}
+
+.senior .span-4 {
+  letter-spacing: -0.12px;
+}
+
+.senior .span2-1 {
+  letter-spacing: -0.08px;
+}
+
+.senior .span3 {
+  letter-spacing: -0.07px;
+}
+
+.senior .pollo {
+  color: var(--eerie-black);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 10.4px;
+  left: 206px;
+  letter-spacing: 0;
+  line-height: 12.5px;
+  position: absolute;
+  top: 3123px;
+  white-space: nowrap;
+}
+
+.senior .rectangle-287 {
+  height: 184px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 2918px;
+  width: 143px;
+}
+
+.senior .rectangle-289 {
+  cursor: pointer;
+  height: 184px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 2918px;
+  width: 143px;
+}
+
+.senior .rectangle-291 {
+  cursor: pointer;
+  height: 184px;
+  left: 139px;
+  object-fit: cover;
+  position: absolute;
+  top: 2918px;
+  width: 143px;
+}
+
+.senior .rectangle-293 {
+  cursor: pointer;
+  height: 182px;
+  left: 261px;
+  object-fit: cover;
+  position: absolute;
+  top: 2920px;
+  width: 142px;
+}
+
+.senior .adultos-1 {
+  left: 312px;
+  line-height: 15.8px;
+  top: 3114px;
+}
+
+.senior .span0 {
+  letter-spacing: -0.26px;
+}
+
+.senior .control-peso {
+  left: 304px;
+  letter-spacing: 0;
+  line-height: 12.3px;
+  position: absolute;
+  top: 3125px;
+  white-space: nowrap;
+}
+
+.senior .span1-2 {
+  letter-spacing: -0.19px;
+}
+
+.senior .path-1504 {
+  height: 977px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1881px;
+  width: 420px;
+}
+
+.senior .path-1505 {
+  height: 156px;
+  left: 286px;
+  object-fit: cover;
+  position: absolute;
+  top: 2335px;
+  width: 179px;
+}
+
+.senior .path-1506 {
+  height: 81px;
+  left: 318px;
+  object-fit: cover;
+  position: absolute;
+  top: 2228px;
+  width: 67px;
+}
+
+.senior .path-1507 {
+  height: 79px;
+  left: 247px;
+  object-fit: cover;
+  position: absolute;
+  top: 2260px;
+  width: 69px;
+}
+
+.senior .path-1508 {
+  height: 74px;
+  left: 398px;
+  object-fit: cover;
+  position: absolute;
+  top: 2261px;
+  width: 63px;
+}
+
+.senior .path-1509 {
+  height: 72px;
+  left: 216px;
+  object-fit: cover;
+  position: absolute;
+  top: 2343px;
+  width: 66px;
+}
+
+.senior .path-1510 {
+  height: 156px;
+  left: -53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2627px;
+  width: 179px;
+}
+
+.senior .path-1511 {
+  height: 81px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 2503px;
+  width: 67px;
+}
+
+.senior .path-1512 {
+  height: 79px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 2535px;
+  width: 69px;
+}
+
+.senior .path-1513 {
+  height: 74px;
+  left: -48px;
+  object-fit: cover;
+  position: absolute;
+  top: 2537px;
+  width: 63px;
+}
+
+.senior .path-1514 {
+  height: 72px;
+  left: 130px;
+  object-fit: cover;
+  position: absolute;
+  top: 2637px;
+  width: 66px;
+}
+
+.senior .path-1515 {
+  height: 1109px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 412px;
+}
+
+.senior .path-1516 {
+  height: 801px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1142px;
+  width: 422px;
+}
+
+.senior .path-1517 {
+  height: 1187px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 422px;
+}
+
+.senior .rectangle-298 {
+  height: 55px;
+  left: 156px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 97px;
+}
+
+.senior .rectangle-300 {
+  cursor: pointer;
+  height: 55px;
+  left: 156px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 97px;
+}
+
+.senior .line-6 {
+  height: 1px;
+  left: 7px;
+  top: 52px;
+  width: 394px;
+}
+
+.senior .cuidado-y {
+  left: 120px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 162px;
+  white-space: nowrap;
+}
+
+.senior .span0-1 {
+  letter-spacing: -0.22px;
+}
+
+.senior .span2-2 {
+  letter-spacing: -0.43px;
+}
+
+.senior .alimentacin {
+  left: 97px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 199px;
+  white-space: nowrap;
+}
+
+.senior .span1-3 {
+  letter-spacing: -0.50px;
+}
+
+.senior .excepcionales {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 236px;
+  white-space: nowrap;
+}
+
+.senior .span-5 {
+  letter-spacing: -0.14px;
+}
+
+.senior .path-1525 {
+  height: 256px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 304px;
+  width: 268px;
+}
+
+.senior .senior-1 {
+  left: 166px;
+  line-height: 25.2px;
+  top: 672px;
+}
+
+.senior .rectangle-304 {
+  height: 324px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 270px;
+  width: 252px;
+}
+
+.senior .rectangle-307 {
+  height: 342px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 264px;
+  width: 270px;
+}
+
+.senior .path-1526 {
+  height: 46px;
+  left: 302px;
+  object-fit: cover;
+  position: absolute;
+  top: 307px;
+  width: 33px;
+}
+
+.senior .path-1527 {
+  height: 40px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 449px;
+  width: 37px;
+}
+
+.senior .path-1528 {
+  height: 1px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 499px;
+  width: 1px;
+}
+
+.senior .path-1529 {
+  height: 28px;
+  left: 356px;
+  object-fit: cover;
+  position: absolute;
+  top: 1208px;
+  width: 24px;
+}
+
+.senior .path-1530 {
+  height: 9px;
+  left: 358px;
+  object-fit: cover;
+  position: absolute;
+  top: 1196px;
+  width: 11px;
+}
+
+.senior .path-1531 {
+  height: 9px;
+  left: 352px;
+  object-fit: cover;
+  position: absolute;
+  top: 1237px;
+  width: 10px;
+}
+
+.senior .path-1532 {
+  height: 9px;
+  left: 343px;
+  object-fit: cover;
+  position: absolute;
+  top: 1205px;
+  width: 10px;
+}
+
+.senior .path-1533 {
+  height: 9px;
+  left: 341px;
+  object-fit: cover;
+  position: absolute;
+  top: 1224px;
+  width: 9px;
+}
+
+.senior .path-1534 {
+  height: 25px;
+  left: 278px;
+  object-fit: cover;
+  position: absolute;
+  top: 1215px;
+  width: 24px;
+}
+
+.senior .path-1535 {
+  height: 9px;
+  left: 288px;
+  object-fit: cover;
+  position: absolute;
+  top: 1202px;
+  width: 9px;
+}
+
+.senior .path-1536 {
+  height: 9px;
+  left: 268px;
+  object-fit: cover;
+  position: absolute;
+  top: 1233px;
+  width: 9px;
+}
+
+.senior .path-1537 {
+  height: 9px;
+  left: 272px;
+  object-fit: cover;
+  position: absolute;
+  top: 1204px;
+  width: 9px;
+}
+
+.senior .path-1538 {
+  height: 9px;
+  left: 264px;
+  object-fit: cover;
+  position: absolute;
+  top: 1219px;
+  width: 8px;
+}
+
+.senior .path-1539 {
+  height: 25px;
+  left: 201px;
+  object-fit: cover;
+  position: absolute;
+  top: 1196px;
+  width: 21px;
+}
+
+.senior .path-1540 {
+  height: 7px;
+  left: 197px;
+  object-fit: cover;
+  position: absolute;
+  top: 1189px;
+  width: 9px;
+}
+
+.senior .path-1541 {
+  height: 8px;
+  left: 205px;
+  object-fit: cover;
+  position: absolute;
+  top: 1224px;
+  width: 9px;
+}
+
+.senior .path-1542 {
+  height: 7px;
+  left: 189px;
+  object-fit: cover;
+  position: absolute;
+  top: 1202px;
+  width: 9px;
+}
+
+.senior .path-1543 {
+  height: 8px;
+  left: 193px;
+  object-fit: cover;
+  position: absolute;
+  top: 1218px;
+  width: 8px;
+}
+
+.senior .path-1544 {
+  height: 24px;
+  left: 139px;
+  object-fit: cover;
+  position: absolute;
+  top: 1180px;
+  width: 22px;
+}
+
+.senior .path-1545 {
+  height: 8px;
+  left: 146px;
+  object-fit: cover;
+  position: absolute;
+  top: 1167px;
+  width: 9px;
+}
+
+.senior .path-1546 {
+  height: 8px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 1201px;
+  width: 9px;
+}
+
+.senior .path-1547 {
+  height: 8px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 1172px;
+  width: 9px;
+}
+
+.senior .path-1548 {
+  height: 8px;
+  left: 126px;
+  object-fit: cover;
+  position: absolute;
+  top: 1188px;
+  width: 8px;
+}
+
+.senior .path-1549 {
+  height: 25px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 1169px;
+  width: 22px;
+}
+
+.senior .path-1550 {
+  height: 8px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 1164px;
+  width: 9px;
+}
+
+.senior .path-1551 {
+  height: 8px;
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 1199px;
+  width: 9px;
+}
+
+.senior .path-1552 {
+  height: 8px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 1178px;
+  width: 9px;
+}
+
+.senior .path-1553 {
+  height: 8px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 1193px;
+  width: 8px;
+}
+
+.senior .a-partir-de-los-7-aos-de-edad-los {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 1651px;
+  white-space: nowrap;
+}
+
+.senior .span-6 {
+  letter-spacing: 0.18px;
+}
+
+.senior .span-7 {
+  letter-spacing: 0.16px;
+}
+
+.senior .span-8 {
+  letter-spacing: 0.11px;
+}
+
+.senior .gatos-requieren-de-una-alimentacin {
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 1674px;
+  white-space: nowrap;
+}
+
+.senior .span-9 {
+  letter-spacing: 0.29px;
+}
+
+.senior .span-10 {
+  letter-spacing: 0.23px;
+}
+
+.senior .span-11 {
+  letter-spacing: 0.05px;
+}
+
+.senior .span-12 {
+  letter-spacing: 0.04px;
+}
+
+.senior .span-13 {
+  letter-spacing: 0.22px;
+}
+
+.senior .span-14 {
+  letter-spacing: -0.16px;
+}
+
+.senior .span-15 {
+  letter-spacing: 0.13px;
+}
+
+.senior .path-1554 {
+  height: 18px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 1701px;
+  width: 284px;
+}
+
+.senior .salud-y-evitar-enfermades-propias-de {
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 1718px;
+  white-space: nowrap;
+}
+
+.senior .span1 {
+  letter-spacing: -0.58px;
+}
+
+.senior .span-16 {
+  letter-spacing: 0.32px;
+}
+
+.senior .esta-etapa-de-vida {
+  left: 61px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 1741px;
+  white-space: nowrap;
+}
+
+.senior .pro-cat-care {
+  left: 233px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 1741px;
+  white-space: nowrap;
+}
+
+.senior .span0-2 {
+  letter-spacing: 0.40px;
+}
+
+.senior .span3-1 {
+  letter-spacing: 0.31px;
+}
+
+.senior .senior-2 {
+  left: 60px;
+  line-height: 21.6px;
+  top: 1763px;
+}
+
+.senior .es-una-excelente-forma-de {
+  left: 115px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 1763px;
+  white-space: nowrap;
+}
+
+.senior .span6 {
+  letter-spacing: -0.40px;
+}
+
+.senior .alimentarlo-para-que-disfrute-de-una {
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 1786px;
+  white-space: nowrap;
+}
+
+.senior .span-17 {
+  letter-spacing: 0.70px;
+}
+
+.senior .vida-sana-junto-a-ti {
+  left: 120px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 1808px;
+  white-space: nowrap;
+}
+
+.senior .path-1555 {
+  height: 58px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 742px;
+  width: 307px;
+}
+
+.senior .path-1556 {
+  height: 80px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 731px;
+  width: 80px;
+}
+
+.senior .ellipse-13 {
+  left: 32px;
+  top: 730px;
+  transform: rotate(-52.02deg);
+}
+
+.senior .calidad-de-vida {
+  left: 154px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 754px;
+  white-space: nowrap;
+}
+
+.senior .span-18 {
+  letter-spacing: 0.20px;
+}
+
+.senior .span3-2 {
+  letter-spacing: 0.15px;
+}
+
+.senior .path-1557 {
+  height: 36px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 755px;
+  width: 39px;
+}
+
+.senior .path-1558 {
+  height: 7px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 775px;
+  width: 11px;
+}
+
+.senior .path-1559 {
+  height: 3px;
+  left: 77px;
+  object-fit: cover;
+  position: absolute;
+  top: 775px;
+  width: 3px;
+}
+
+.senior .path-1560 {
+  height: 3px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 770px;
+  width: 3px;
+}
+
+.senior .path-1561 {
+  height: 2px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 771px;
+  width: 3px;
+}
+
+.senior .path-1562 {
+  height: 2px;
+  left: 62px;
+  object-fit: cover;
+  position: absolute;
+  top: 774px;
+  width: 2px;
+}
+
+.senior .path-1563 {
+  height: 7px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 758px;
+  width: 6px;
+}
+
+.senior .path-1564 {
+  height: 58px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 876px;
+  width: 307px;
+}
+
+.senior .path-1565 {
+  height: 80px;
+  left: 294px;
+  object-fit: cover;
+  position: absolute;
+  top: 865px;
+  width: 80px;
+}
+
+.senior .ellipse-14 {
+  left: 293px;
+  top: 864px;
+  transform: rotate(-55.28deg);
+}
+
+.senior .salud-articular {
+  left: 91px;
+  top: 887px;
+}
+
+.senior .path-1566 {
+  height: 38px;
+  left: 318px;
+  object-fit: cover;
+  position: absolute;
+  top: 886px;
+  width: 30px;
+}
+
+.senior .path-1567 {
+  height: 4px;
+  left: 352px;
+  object-fit: cover;
+  position: absolute;
+  top: 912px;
+  width: 6px;
+}
+
+.senior .path-1568 {
+  height: 3px;
+  left: 349px;
+  object-fit: cover;
+  position: absolute;
+  top: 921px;
+  width: 4px;
+}
+
+.senior .path-1569 {
+  height: 3px;
+  left: 351px;
+  object-fit: cover;
+  position: absolute;
+  top: 917px;
+  width: 4px;
+}
+
+.senior .path-1570 {
+  height: 3px;
+  left: 310px;
+  object-fit: cover;
+  position: absolute;
+  top: 891px;
+  width: 4px;
+}
+
+.senior .path-1571 {
+  height: 2px;
+  left: 310px;
+  object-fit: cover;
+  position: absolute;
+  top: 898px;
+  width: 2px;
+}
+
+.senior .path-1572 {
+  height: 2px;
+  left: 309px;
+  object-fit: cover;
+  position: absolute;
+  top: 895px;
+  width: 3px;
+}
+
+.senior .path-1573 {
+  height: 7px;
+  left: 342px;
+  object-fit: cover;
+  position: absolute;
+  top: 884px;
+  width: 7px;
+}
+
+.senior .path-1574 {
+  height: 58px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 1015px;
+  width: 307px;
+}
+
+.senior .path-1575 {
+  height: 80px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 1005px;
+  width: 80px;
+}
+
+.senior .ellipse-15 {
+  left: 33px;
+  top: 1003px;
+  transform: rotate(-52.02deg);
+}
+
+.senior .salud-urinaria {
+  left: 164px;
+  top: 1029px;
+}
+
+.senior .span-19 {
+  letter-spacing: 0.57px;
+}
+
+.senior .span3-3 {
+  letter-spacing: 0.26px;
+}
+
+.senior .path-1576 {
+  height: 23px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 1039px;
+  width: 50px;
+}
+
+.senior .path-1577 {
+  height: 12px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 1023px;
+  width: 13px;
+}
+
+.senior .path-1578 {
+  height: 7px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 1021px;
+  width: 7px;
+}
+
+.senior .path-1579 {
+  height: 5px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 1052px;
+  width: 8px;
+}
+
+.senior .path-1580 {
+  height: 2px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 1050px;
+  width: 2px;
+}
+
+.senior .path-1581 {
+  height: 2px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1049px;
+  width: 2px;
+}
+
+.senior .path-1582 {
+  height: 2px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 1052px;
+  width: 2px;
+}
+
+.senior .path-1583 {
+  height: 2px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 1052px;
+  width: 1px;
+}
+
+.senior .path-1584 {
+  height: 25px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2672px;
+  width: 305px;
+}
+
+.senior .path-1585 {
+  height: 26px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2672px;
+  width: 306px;
+}
+
+.senior .line-6-1 {
+  height: 15px;
+  left: 205px;
+  object-fit: cover;
+  position: absolute;
+  top: 2677px;
+  width: 1px;
+}
+
+.senior .path-1586 {
+  height: 25px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2607px;
+  width: 305px;
+}
+
+.senior .path-1587 {
+  height: 26px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2606px;
+  width: 306px;
+}
+
+.senior .path-1588 {
+  height: 25px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2644px;
+  width: 305px;
+}
+
+.senior .path-1589 {
+  height: 25px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2711px;
+  width: 305px;
+}
+
+.senior .path-1590 {
+  height: 25px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 2578px;
+  width: 305px;
+}
+
+.senior .peso-kg {
+  left: 182px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 2583px;
+  white-space: nowrap;
+}
+
+.senior .cantidades-g {
+  left: 166px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 2650px;
+  white-space: nowrap;
+}
+
+.senior .cantidad-tazas {
+  left: 160px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 2716px;
+  white-space: nowrap;
+}
+
+.senior .span5-1 {
+  letter-spacing: -0.49px;
+}
+
+.senior .gua-de-alimentacin {
+  left: 80px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 2473px;
+  white-space: nowrap;
+}
+
+.senior .span0-3 {
+  letter-spacing: -0.17px;
+}
+
+.senior .span2-3 {
+  letter-spacing: -1.91px;
+}
+
+.senior .span3-4 {
+  letter-spacing: -0.90px;
+}
+
+.senior .span-20 {
+  letter-spacing: -0.13px;
+}
+
+.senior .diaria {
+  left: 170px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 2495px;
+  white-space: nowrap;
+}
+
+.senior .address {
+  left: 108px;
+  top: 2607px;
+}
+
+.senior .address-1 {
+  left: 263px;
+  top: 2606px;
+}
+
+.senior .address-2 {
+  left: 97px;
+  top: 2671px;
+}
+
+.senior .address-3 {
+  left: 247px;
+  top: 2669px;
+}
+
+.senior .path-1591 {
+  height: 25px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2738px;
+  width: 305px;
+}
+
+.senior .path-1592 {
+  height: 26px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2738px;
+  width: 306px;
+}
+
+.senior .line {
+  height: 15px;
+  left: 205px;
+  top: 2743px;
+  width: 1px;
+}
+
+.senior .x12-i-1 {
+  left: 106px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 2738px;
+  white-space: nowrap;
+}
+
+.senior .x112-i-2 {
+  left: 254px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 2736px;
+  white-space: nowrap;
+}
+
+.senior .line-7 {
+  height: 15px;
+  left: 205px;
+  top: 2612px;
+  width: 1px;
+}
+
+.senior .cmo-alimentar-a {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  position: absolute;
+  top: 2271px;
+  white-space: nowrap;
+}
+
+.senior .span1-4 {
+  letter-spacing: -2.55px;
+}
+
+.senior .tu-minino {
+  left: 125px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  position: absolute;
+  top: 2308px;
+  white-space: nowrap;
+}
+
+.senior .span1-5 {
+  letter-spacing: -0.64px;
+}
+
+.senior .span2-4 {
+  letter-spacing: -0.48px;
+}
+
+.senior .considera-su-peso-y-edad {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 23.1px;
+  position: absolute;
+  top: 2360px;
+  white-space: nowrap;
+}
+
+.senior .span3-5 {
+  letter-spacing: -0.06px;
+}
+
+.senior .mientras-ms-conozcas-a-tu-minino {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 23.1px;
+  position: absolute;
+  top: 2382px;
+  white-space: nowrap;
+}
+
+.senior .span1-6 {
+  letter-spacing: -0.37px;
+}
+
+.senior .span-21 {
+  letter-spacing: 0.06px;
+}
+
+.senior .mejor-lo-alimentars {
+  left: 107px;
+  letter-spacing: 0;
+  line-height: 23.1px;
+  position: absolute;
+  top: 2404px;
+  white-space: nowrap;
+}
+
+.senior .span6-1 {
+  letter-spacing: -0.38px;
+}
+
+.senior .path-1593 {
+  height: 164px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 2010px;
+  width: 235px;
+}
+
+.senior .path-1594 {
+  height: 157px;
+  left: 266px;
+  object-fit: cover;
+  position: absolute;
+  top: 2017px;
+  width: 114px;
+}
+
+.senior .path-1595 {
+  height: 42px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 1971px;
+  width: 348px;
+}
+
+.senior .percent {
+  left: 302px;
+  top: 2017px;
+}
+
+.senior .span0-4 {
+  letter-spacing: 0.65px;
+}
+
+.senior .span-22 {
+  letter-spacing: 0.67px;
+}
+
+.senior .span-23 {
+  letter-spacing: 0.69px;
+}
+
+.senior .percent-1 {
+  left: 302px;
+  top: 2039px;
+}
+
+.senior .percent-2 {
+  left: 305px;
+  top: 2061px;
+}
+
+.senior .percent-3 {
+  left: 305px;
+  top: 2084px;
+}
+
+.senior .percent-4 {
+  left: 305px;
+  top: 2129px;
+}
+
+.senior .percent-5 {
+  left: 305px;
+  top: 2152px;
+}
+
+.senior .line-73 {
+  height: 1px;
+  left: 32px;
+  top: 2035px;
+  width: 348px;
+}
+
+.senior .line-74 {
+  height: 1px;
+  left: 32px;
+  top: 2058px;
+  width: 348px;
+}
+
+.senior .line-75 {
+  height: 1px;
+  left: 32px;
+  top: 2079px;
+  width: 348px;
+}
+
+.senior .line-76 {
+  height: 1px;
+  left: 32px;
+  top: 2102px;
+  width: 348px;
+}
+
+.senior .line-77 {
+  height: 1px;
+  left: 32px;
+  top: 2125px;
+  width: 348px;
+}
+
+.senior .line-78 {
+  height: 1px;
+  left: 32px;
+  top: 2148px;
+  width: 348px;
+}
+
+.senior .line-79 {
+  height: 157px;
+  left: 266px;
+  top: 2018px;
+  width: 1px;
+}
+
+.senior .path-1596 {
+  height: 199px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 1975px;
+  width: 349px;
+}
+
+.senior .anlisis-garantizado {
+  left: 81px;
+  letter-spacing: 0;
+  line-height: 23.0px;
+  position: absolute;
+  top: 1984px;
+  white-space: nowrap;
+}
+
+.senior .span-24 {
+  letter-spacing: 1.15px;
+}
+
+.senior .span-25 {
+  letter-spacing: 1.13px;
+}
+
+.senior .percent-6 {
+  left: 302px;
+  top: 2106px;
+}
+
+.senior .path-1597 {
+  height: 10px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 2021px;
+  width: 8px;
+}
+
+.senior .path-1598 {
+  height: 10px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 2021px;
+  width: 8px;
+}
+
+.senior .path-1599 {
+  height: 10px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 2021px;
+  width: 9px;
+}
+
+.senior .path-1600 {
+  height: 10px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 2021px;
+  width: 8px;
+}
+
+.senior .path-1601 {
+  height: 10px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 2021px;
+  width: 7px;
+}
+
+.senior .path-1602 {
+  height: 12px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 2018px;
+  width: 4px;
+}
+
+.senior .path-1603 {
+  height: 10px;
+  left: 99px;
+  object-fit: cover;
+  position: absolute;
+  top: 2021px;
+  width: 8px;
+}
+
+.senior .path-1604 {
+  height: 10px;
+  left: 106px;
+  object-fit: cover;
+  position: absolute;
+  top: 2021px;
+  width: 9px;
+}
+
+.senior .path-1605 {
+  height: 10px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 2021px;
+  width: 9px;
+}
+
+.senior .path-1606 {
+  height: 10px;
+  left: 126px;
+  object-fit: cover;
+  position: absolute;
+  top: 2021px;
+  width: 8px;
+}
+
+.senior .path-1607 {
+  height: 10px;
+  left: 133px;
+  object-fit: cover;
+  position: absolute;
+  top: 2021px;
+  width: 8px;
+}
+
+.senior .path-1608 {
+  height: 10px;
+  left: 141px;
+  object-fit: cover;
+  position: absolute;
+  top: 2021px;
+  width: 8px;
+}
+
+.senior .path-1609 {
+  height: 10px;
+  left: 148px;
+  object-fit: cover;
+  position: absolute;
+  top: 2021px;
+  width: 9px;
+}
+
+.senior .path-1610 {
+  height: 11px;
+  left: 159px;
+  object-fit: cover;
+  position: absolute;
+  top: 2020px;
+  width: 5px;
+}
+
+.senior .path-1611 {
+  height: 10px;
+  left: 163px;
+  object-fit: cover;
+  position: absolute;
+  top: 2021px;
+  width: 10px;
+}
+
+.senior .path-1613 {
+  height: 10px;
+  left: 176px;
+  object-fit: cover;
+  position: absolute;
+  top: 2021px;
+  width: 8px;
+}
+
+.senior .path-1614 {
+  height: 4px;
+  left: 184px;
+  object-fit: cover;
+  position: absolute;
+  top: 2027px;
+  width: 4px;
+}
+
+.senior .path-1615 {
+  height: 11px;
+  left: 187px;
+  object-fit: cover;
+  position: absolute;
+  top: 2020px;
+  width: 5px;
+}
+
+.senior .path-1616 {
+  height: 10px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 2042px;
+  width: 9px;
+}
+
+.senior .path-1617 {
+  height: 10px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 2042px;
+  width: 8px;
+}
+
+.senior .path-1618 {
+  height: 10px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 2042px;
+  width: 9px;
+}
+
+.senior .path-1619 {
+  height: 10px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 2042px;
+  width: 8px;
+}
+
+.senior .path-1620 {
+  height: 10px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 2042px;
+  width: 9px;
+}
+
+.senior .path-1621 {
+  height: 10px;
+  left: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: 2042px;
+  width: 9px;
+}
+
+.senior .path-1622 {
+  height: 10px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 2042px;
+  width: 8px;
+}
+
+.senior .path-1623 {
+  height: 10px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 2042px;
+  width: 8px;
+}
+
+.senior .path-1624 {
+  height: 10px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 2042px;
+  width: 8px;
+}
+
+.senior .path-1625 {
+  height: 10px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 2042px;
+  width: 9px;
+}
+
+.senior .path-1626 {
+  height: 11px;
+  left: 142px;
+  object-fit: cover;
+  position: absolute;
+  top: 2041px;
+  width: 5px;
+}
+
+.senior .path-1627 {
+  height: 10px;
+  left: 146px;
+  object-fit: cover;
+  position: absolute;
+  top: 2042px;
+  width: 10px;
+}
+
+.senior .path-1628 {
+  height: 12px;
+  left: 155px;
+  object-fit: cover;
+  position: absolute;
+  top: 2040px;
+  width: 4px;
+}
+
+.senior .path-1629 {
+  height: 10px;
+  left: 159px;
+  object-fit: cover;
+  position: absolute;
+  top: 2042px;
+  width: 8px;
+}
+
+.senior .path-1630 {
+  height: 4px;
+  left: 167px;
+  object-fit: cover;
+  position: absolute;
+  top: 2048px;
+  width: 4px;
+}
+
+.senior .path-1631 {
+  height: 11px;
+  left: 170px;
+  object-fit: cover;
+  position: absolute;
+  top: 2041px;
+  width: 5px;
+}
+
+.senior .path-1632 {
+  height: 10px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 7px;
+}
+
+.senior .path-1633 {
+  height: 10px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 4px;
+}
+
+.senior .path-1634 {
+  height: 10px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 8px;
+}
+
+.senior .path-1635 {
+  height: 10px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 8px;
+}
+
+.senior .path-1636 {
+  height: 10px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 9px;
+}
+
+.senior .path-1637 {
+  height: 10px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 9px;
+}
+
+.senior .path-1638 {
+  height: 10px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 8px;
+}
+
+.senior .path-1639 {
+  height: 10px;
+  left: 110px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 8px;
+}
+
+.senior .path-1640 {
+  height: 10px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 8px;
+}
+
+.senior .path-1641 {
+  height: 10px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 9px;
+}
+
+.senior .path-1642 {
+  height: 11px;
+  left: 136px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 5px;
+}
+
+.senior .path-1643 {
+  height: 10px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 10px;
+}
+
+.senior .path-1644 {
+  height: 12px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 2063px;
+  width: 9px;
+}
+
+.senior .path-1645 {
+  height: 10px;
+  left: 157px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 9px;
+}
+
+.senior .path-1646 {
+  height: 4px;
+  left: 165px;
+  object-fit: cover;
+  position: absolute;
+  top: 2071px;
+  width: 4px;
+}
+
+.senior .path-1647 {
+  height: 11px;
+  left: 169px;
+  object-fit: cover;
+  position: absolute;
+  top: 2065px;
+  width: 5px;
+}
+
+.senior .path-1648 {
+  height: 10px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 2088px;
+  width: 9px;
+}
+
+.senior .path-1649 {
+  height: 10px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 2088px;
+  width: 7px;
+}
+
+.senior .path-1650 {
+  height: 10px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 2088px;
+  width: 8px;
+}
+
+.senior .path-1651 {
+  height: 10px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 2088px;
+  width: 4px;
+}
+
+.senior .path-1652 {
+  height: 10px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 2088px;
+  width: 7px;
+}
+
+.senior .path-1653 {
+  height: 10px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 2088px;
+  width: 9px;
+}
+
+.senior .path-1654 {
+  height: 11px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 2088px;
+  width: 5px;
+}
+
+.senior .path-1655 {
+  height: 10px;
+  left: 106px;
+  object-fit: cover;
+  position: absolute;
+  top: 2088px;
+  width: 10px;
+}
+
+.senior .path-1656 {
+  height: 12px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 2086px;
+  width: 9px;
+}
+
+.senior .path-1657 {
+  height: 10px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 2088px;
+  width: 9px;
+}
+
+.senior .path-1658 {
+  height: 4px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 2094px;
+  width: 4px;
+}
+
+.senior .path-1659 {
+  height: 11px;
+  left: 134px;
+  object-fit: cover;
+  position: absolute;
+  top: 2088px;
+  width: 5px;
+}
+
+.senior .path-1660 {
+  height: 10px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 2133px;
+  width: 9px;
+}
+
+.senior .path-1661 {
+  height: 10px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 2133px;
+  width: 9px;
+}
+
+.senior .path-1662 {
+  height: 10px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 2133px;
+  width: 7px;
+}
+
+.senior .path-1663 {
+  height: 10px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 2133px;
+  width: 9px;
+}
+
+.senior .path-1664 {
+  height: 10px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 2133px;
+  width: 4px;
+}
+
+.senior .path-1665 {
+  height: 10px;
+  left: 91px;
+  object-fit: cover;
+  position: absolute;
+  top: 2133px;
+  width: 9px;
+}
+
+.senior .path-1666 {
+  height: 11px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 2132px;
+  width: 5px;
+}
+
+.senior .path-1667 {
+  height: 10px;
+  left: 107px;
+  object-fit: cover;
+  position: absolute;
+  top: 2133px;
+  width: 10px;
+}
+
+.senior .path-1668 {
+  height: 12px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 2130px;
+  width: 4px;
+}
+
+.senior .path-1669 {
+  height: 10px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 2133px;
+  width: 8px;
+}
+
+.senior .path-1670 {
+  height: 4px;
+  left: 128px;
+  object-fit: cover;
+  position: absolute;
+  top: 2139px;
+  width: 4px;
+}
+
+.senior .path-1671 {
+  height: 11px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 2132px;
+  width: 5px;
+}
+
+.senior .path-1672 {
+  height: 10px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 2156px;
+  width: 7px;
+}
+
+.senior .path-1673 {
+  height: 12px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 2154px;
+  width: 9px;
+}
+
+.senior .path-1674 {
+  height: 10px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 2156px;
+  width: 8px;
+}
+
+.senior .path-1675 {
+  height: 10px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 2156px;
+  width: 7px;
+}
+
+.senior .path-1676 {
+  height: 10px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 2156px;
+  width: 9px;
+}
+
+.senior .path-1677 {
+  height: 10px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 2156px;
+  width: 8px;
+}
+
+.senior .path-1678 {
+  height: 10px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 2156px;
+  width: 9px;
+}
+
+.senior .path-1679 {
+  height: 11px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 2155px;
+  width: 5px;
+}
+
+.senior .path-1680 {
+  height: 10px;
+  left: 119px;
+  object-fit: cover;
+  position: absolute;
+  top: 2156px;
+  width: 10px;
+}
+
+.senior .path-1681 {
+  height: 12px;
+  left: 128px;
+  object-fit: cover;
+  position: absolute;
+  top: 2154px;
+  width: 4px;
+}
+
+.senior .path-1682 {
+  height: 10px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 2156px;
+  width: 8px;
+}
+
+.senior .path-1683 {
+  height: 4px;
+  left: 139px;
+  object-fit: cover;
+  position: absolute;
+  top: 2162px;
+  width: 4px;
+}
+
+.senior .path-1684 {
+  height: 11px;
+  left: 143px;
+  object-fit: cover;
+  position: absolute;
+  top: 2155px;
+  width: 5px;
+}
+
+.senior .path-1685 {
+  height: 10px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 2110px;
+  width: 8px;
+}
+
+.senior .path-1686 {
+  height: 10px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 2110px;
+  width: 8px;
+}
+
+.senior .path-1687 {
+  height: 10px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 2110px;
+  width: 10px;
+}
+
+.senior .path-1688 {
+  height: 10px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 2110px;
+  width: 7px;
+}
+
+.senior .path-1689 {
+  height: 10px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 2110px;
+  width: 8px;
+}
+
+.senior .path-1690 {
+  height: 10px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 2110px;
+  width: 9px;
+}
+
+.senior .path-1691 {
+  height: 10px;
+  left: 105px;
+  object-fit: cover;
+  position: absolute;
+  top: 2110px;
+  width: 8px;
+}
+
+.senior .path-1692 {
+  height: 11px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 2110px;
+  width: 5px;
+}
+
+.senior .path-1693 {
+  height: 10px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 2110px;
+  width: 10px;
+}
+
+.senior .path-1694 {
+  height: 12px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 2108px;
+  width: 9px;
+}
+
+.senior .path-1695 {
+  height: 10px;
+  left: 137px;
+  object-fit: cover;
+  position: absolute;
+  top: 2110px;
+  width: 9px;
+}
+
+.senior .path-1696 {
+  height: 4px;
+  left: 145px;
+  object-fit: cover;
+  position: absolute;
+  top: 2117px;
+  width: 4px;
+}
+
+.senior .path-1697 {
+  height: 11px;
+  left: 148px;
+  object-fit: cover;
+  position: absolute;
+  top: 2110px;
+  width: 5px;
+}
+
+.senior .protena-cruda-mn {
+  left: 58px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 2018px;
+  white-space: nowrap;
+}
+
+.senior .span0-5 {
+  letter-spacing: 0.85px;
+}
+
+.senior .span2-5 {
+  letter-spacing: 0.25px;
+}
+
+.senior .span3-6 {
+  letter-spacing: 0.60px;
+}
+
+.senior .span-26 {
+  letter-spacing: 0.66px;
+}
+
+.senior .span-27 {
+  letter-spacing: 0.72px;
+}
+
+.senior .span-28 {
+  letter-spacing: 0.09px;
+}
+
+.senior .grasa-cruda-mn {
+  left: 58px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 2041px;
+  white-space: nowrap;
+}
+
+.senior .span0-6 {
+  letter-spacing: 0.77px;
+}
+
+.senior .span2-6 {
+  letter-spacing: 0.41px;
+}
+
+.senior .span3-7 {
+  letter-spacing: 0.47px;
+}
+
+.senior .span-29 {
+  letter-spacing: 0.10px;
+}
+
+.senior .fibra-cruda-mx {
+  left: 58px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 2062px;
+  white-space: nowrap;
+}
+
+.senior .span1-7 {
+  letter-spacing: 0.74px;
+}
+
+.senior .ceniza-mx {
+  left: 58px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 2085px;
+  white-space: nowrap;
+}
+
+.senior .span2 {
+  letter-spacing: 0.75px;
+}
+
+.senior .calcio-mn {
+  left: 58px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 2131px;
+  white-space: nowrap;
+}
+
+.senior .fsforo-mn {
+  left: 58px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 2156px;
+  white-space: nowrap;
+}
+
+.senior .humedad-mx {
+  left: 58px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 2108px;
+  white-space: nowrap;
+}
+
+.senior .path-1698 {
+  height: 219px;
+  left: 152px;
+  object-fit: cover;
+  position: absolute;
+  top: 1342px;
+  width: 220px;
+}
+
+.senior .rectangle-327 {
+  height: 315px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 1297px;
+  width: 245px;
+}
+
+.senior .path-1699 {
+  height: 42px;
+  left: 165px;
+  object-fit: cover;
+  position: absolute;
+  top: 2206px;
+  width: 80px;
+}
+
+.senior .path-1700 {
+  height: 5px;
+  left: 202px;
+  object-fit: cover;
+  position: absolute;
+  top: 2237px;
+  width: 7px;
+}
+
+.senior .path-1701 {
+  height: 3px;
+  left: 206px;
+  object-fit: cover;
+  position: absolute;
+  top: 2233px;
+  width: 3px;
+}
+
+.senior .path-1702 {
+  height: 3px;
+  left: 202px;
+  object-fit: cover;
+  position: absolute;
+  top: 2233px;
+  width: 3px;
+}
+
+.senior .path-1703 {
+  height: 2px;
+  left: 200px;
+  object-fit: cover;
+  position: absolute;
+  top: 2236px;
+  width: 2px;
+}
+
+.senior .path-1704 {
+  height: 2px;
+  left: 209px;
+  object-fit: cover;
+  position: absolute;
+  top: 2236px;
+  width: 2px;
+}
+
+.senior .path-1705 {
+  height: 50px;
+  left: 244px;
+  object-fit: cover;
+  position: absolute;
+  top: 290px;
+  width: 52px;
+}
+
+.senior .path-1706 {
+  height: 52px;
+  left: 243px;
+  object-fit: cover;
+  position: absolute;
+  top: 289px;
+  width: 54px;
+}
+
+.senior .path-1707 {
+  height: 8px;
+  left: 251px;
+  object-fit: cover;
+  position: absolute;
+  top: 311px;
+  width: 7px;
+}
+
+.senior .path-1708 {
+  height: 9px;
+  left: 259px;
+  object-fit: cover;
+  position: absolute;
+  top: 311px;
+  width: 7px;
+}
+
+.senior .path-1709 {
+  height: 8px;
+  left: 268px;
+  object-fit: cover;
+  position: absolute;
+  top: 311px;
+  width: 5px;
+}
+
+.senior .path-1710 {
+  height: 8px;
+  left: 274px;
+  object-fit: cover;
+  position: absolute;
+  top: 311px;
+  width: 7px;
+}
+
+.senior .path-1711 {
+  height: 9px;
+  left: 282px;
+  object-fit: cover;
+  position: absolute;
+  top: 311px;
+  width: 8px;
+}
+
+.senior .rectangle-331 {
+  height: 75px;
+  left: 145px;
+  object-fit: cover;
+  position: absolute;
+  top: 585px;
+  width: 130px;
+}
+
+.senior .path-1712 {
+  height: 79px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 1286px;
+  width: 79px;
+}
+
+.senior .path-1713 {
+  height: 80px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 1286px;
+  width: 80px;
+}
+
+.senior .path-1714 {
+  height: 70px;
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 1291px;
+  width: 70px;
+}
+
+.senior .path-1715 {
+  height: 15px;
+  left: 79px;
+  object-fit: cover;
+  position: absolute;
+  top: 1313px;
+  width: 14px;
+}
+
+.senior .path-1716 {
+  height: 16px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 1312px;
+  width: 8px;
+}
+
+.senior .path-1717 {
+  height: 4px;
+  left: 62px;
+  object-fit: cover;
+  position: absolute;
+  top: 1313px;
+  width: 6px;
+}
+
+.senior .path-1718 {
+  height: 5px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 1313px;
+  width: 7px;
+}
+
+.senior .path-1719 {
+  height: 8px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 1307px;
+  width: 8px;
+}
+
+.senior .path-1720 {
+  height: 8px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 1307px;
+  width: 9px;
+}
+
+.senior .path-1721 {
+  height: 7px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 1302px;
+  width: 6px;
+}
+
+.senior .path-1722 {
+  height: 7px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 1302px;
+  width: 7px;
+}
+
+.senior .path-1723 {
+  height: 7px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 1298px;
+  width: 7px;
+}
+
+.senior .path-1724 {
+  height: 8px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 1298px;
+  width: 7px;
+}
+
+.senior .path-1725 {
+  height: 7px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 1296px;
+  width: 5px;
+}
+
+.senior .path-1726 {
+  height: 8px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 1296px;
+  width: 6px;
+}
+
+.senior .path-1727 {
+  height: 7px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 1296px;
+  width: 5px;
+}
+
+.senior .path-1728 {
+  height: 7px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 1296px;
+  width: 6px;
+}
+
+.senior .path-1729 {
+  height: 7px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 1297px;
+  width: 2px;
+}
+
+.senior .path-1730 {
+  height: 7px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 1296px;
+  width: 3px;
+}
+
+.senior .path-173 {
+  height: 8px;
+  left: 99px;
+  object-fit: cover;
+  position: absolute;
+  top: 1297px;
+  width: 6px;
+}
+
+.senior .path-1733 {
+  height: 8px;
+  left: 104px;
+  object-fit: cover;
+  position: absolute;
+  top: 1300px;
+  width: 8px;
+}
+
+.senior .path-1734 {
+  height: 9px;
+  left: 104px;
+  object-fit: cover;
+  position: absolute;
+  top: 1300px;
+  width: 8px;
+}
+
+.senior .path-1735 {
+  height: 7px;
+  left: 110px;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 7px;
+}
+
+.senior .path-1736 {
+  height: 7px;
+  left: 110px;
+  object-fit: cover;
+  position: absolute;
+  top: 1304px;
+  width: 7px;
+}
+
+.senior .path-173-1 {
+  height: 7px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 1310px;
+  width: 8px;
+}
+
+.senior .path-1739 {
+  height: 1px;
+  left: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: 1332px;
+  width: 1px;
+}
+
+.senior .path-1740 {
+  height: 1px;
+  left: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: 1332px;
+  width: 2px;
+}
+
+.senior .path-174 {
+  height: 7px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 1334px;
+  width: 5px;
+}
+
+.senior .path-174-1 {
+  left: 73px;
+}
+
+.senior .path-1745 {
+  height: 7px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 1334px;
+  width: 6px;
+}
+
+.senior .path-1746 {
+  height: 8px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 1334px;
+  width: 7px;
+}
+
+.senior .path-174-2 {
+  left: 87px;
+}
+
+.senior .path-1749 {
+  height: 7px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 1334px;
+  width: 4px;
+}
+
+.senior .path-1750 {
+  height: 7px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 1334px;
+  width: 5px;
+}
+
+.senior .path-1751 {
+  height: 7px;
+  left: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: 1334px;
+  width: 1px;
+}
+
+.senior .path-1752 {
+  height: 7px;
+  left: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: 1334px;
+  width: 2px;
+}
+
+.senior .path-1753 {
+  height: 7px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 1334px;
+  width: 5px;
+}
+
+.senior .path-1754 {
+  height: 7px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 1334px;
+  width: 6px;
+}
+
+.senior .path-175 {
+  height: 7px;
+  left: 110px;
+  object-fit: cover;
+  position: absolute;
+  top: 1334px;
+  width: 6px;
+}
+
+.senior .path-175-1 {
+  height: 7px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 1344px;
+  width: 6px;
+}
+
+.senior .path-1759 {
+  height: 7px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 1344px;
+  width: 5px;
+}
+
+.senior .path-1760 {
+  height: 7px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 1344px;
+  width: 6px;
+}
+
+.senior .path-1761 {
+  height: 7px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 1344px;
+  width: 1px;
+}
+
+.senior .path-1762 {
+  height: 7px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 1344px;
+  width: 2px;
+}
+
+.senior .path-1763 {
+  height: 7px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 1344px;
+  width: 6px;
+}
+
+.senior .path-1764 {
+  height: 7px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 1344px;
+  width: 7px;
+}
+
+.senior .path-176 {
+  height: 7px;
+  left: 98px;
+  object-fit: cover;
+  position: absolute;
+  top: 1344px;
+  width: 6px;
+}
+
+.senior .path-1767 {
+  height: 7px;
+  left: 106px;
+  object-fit: cover;
+  position: absolute;
+  top: 1344px;
+  width: 4px;
+}
+
+.senior .path-1768 {
+  height: 7px;
+  left: 105px;
+  object-fit: cover;
+  position: absolute;
+  top: 1344px;
+  width: 5px;
+}
+
+.senior .path-1769 {
+  height: 56px;
+  left: 274px;
+  object-fit: cover;
+  position: absolute;
+  top: 1300px;
+  width: 92px;
+}
+
+.senior .rectangle-334 {
+  border: 7px solid;
+  border-color: var(--bay-of-many-2);
+  border-radius: 24.94px 24.94px 24.94px 24.94px;
+  height: 63px;
+  left: 271px;
+  position: absolute;
+  top: 1297px;
+  width: 99px;
+}
+
+.senior .protena {
+  left: 290px;
+  letter-spacing: 0;
+  line-height: 15.0px;
+  position: absolute;
+  top: 1330px;
+  white-space: nowrap;
+}
+
+.senior .span2-7 {
+  letter-spacing: -0.30px;
+}
+
+.senior .path-1770 {
+  height: 19px;
+  left: 294px;
+  object-fit: cover;
+  position: absolute;
+  top: 1312px;
+  width: 14px;
+}
+
+.senior .path-1771 {
+  height: 19px;
+  left: 309px;
+  object-fit: cover;
+  position: absolute;
+  top: 1312px;
+  width: 15px;
+}
+
+.senior .path-1772 {
+  height: 19px;
+  left: 326px;
+  object-fit: cover;
+  position: absolute;
+  top: 1312px;
+  width: 20px;
+}
+
+.senior .path-1773 {
+  height: 41px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 179px;
+}
+
+.senior .senior-3 {
+  left: 161px;
+  line-height: 28.8px;
+  top: 95px;
+}
+
+.senior .rectangle-339 {
+  height: 275px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 1340px;
+  width: 275px;
+}
+
+.senior .group-712 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 14px;
+  left: 27px;
+  min-width: 86px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 23px;
+}
+
+.senior .path-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 14px;
+  width: 27px;
+}
+
+.senior .address-4 {
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.senior .adultos-2 {
+  letter-spacing: 0;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.senior .path-174-3 {
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 1334px;
+  width: 5px;
+}
+
+.senior .percent-7 {
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.senior .salud {
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.senior .senior-4 {
+  letter-spacing: 0;
+  position: absolute;
+  white-space: nowrap;
+}

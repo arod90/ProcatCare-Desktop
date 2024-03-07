@@ -1,0 +1,354 @@
+/* screen - tqpets */
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+.tqpets {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1557.87px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.tqpets .overlap-group4 {
+  height: 1628px;
+  margin-top: -2.36px;
+  position: relative;
+  width: 1920px;
+}
+
+.tqpets .path-9 {
+  height: 1624px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1920px;
+}
+
+.tqpets .title {
+  height: 170px;
+  left: 309px;
+  letter-spacing: 0;
+  line-height: 127px;
+  position: absolute;
+  text-align: center;
+  top: 250px;
+  width: 1304px;
+}
+
+.tqpets .en-tqpets-somos-una {
+  height: 200px;
+  left: 260px;
+  letter-spacing: 0;
+  line-height: 50.4px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 406px;
+  width: 1401px;
+}
+
+.tqpets .span1 {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+}
+
+.tqpets .group {
+  height: 155px;
+  left: 69px;
+  position: absolute;
+  top: 0;
+  width: 1781px;
+}
+
+.tqpets .overlap-group {
+  height: 155px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1781px;
+}
+
+.tqpets .line-3 {
+  top: 128px;
+}
+
+.tqpets .group-15 {
+  background-image: url(../img/group-130@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 155px;
+  left: 753px;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+
+.tqpets .sobre-nosotros {
+  cursor: pointer;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.tqpets .productos {
+  cursor: pointer;
+  left: 478px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.tqpets .tqpets-1 {
+  left: 1133px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.tqpets .contctanos {
+  cursor: pointer;
+  left: 1494px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.tqpets .conoce-tips-de-nutri {
+  height: 217px;
+  left: 406px;
+  letter-spacing: 0;
+  line-height: 50.4px;
+  position: absolute;
+  text-align: center;
+  top: 633px;
+  width: 1121px;
+}
+
+.tqpets .group-18 {
+  align-items: flex-start;
+  background-color: var(--congress-blue);
+  border-radius: 43.1px;
+  display: flex;
+  height: 86px;
+  justify-content: flex-end;
+  left: 741px;
+  min-width: 438px;
+  padding: 23.7px 75.2px;
+  position: absolute;
+  top: 807px;
+  transition: 0.2s;
+}
+
+.tqpets .group-18:hover {
+  transform: scale(1.05);
+}
+
+.tqpets .group-17 {
+  align-items: flex-end;
+  display: flex;
+  min-width: 288px;
+}
+
+.tqpets .path-10 {
+  height: 36px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.tqpets .path-11 {
+  height: 26px;
+  margin-left: 5px;
+  object-fit: cover;
+  width: 25px;
+}
+
+.tqpets .path-12 {
+  height: 26px;
+  margin-bottom: 0.47px;
+  margin-left: 6px;
+  object-fit: cover;
+  width: 21px;
+}
+
+.tqpets .path-13 {
+  height: 26px;
+  margin-left: 6px;
+  object-fit: cover;
+  width: 25px;
+}
+
+.tqpets .path-14 {
+  height: 26px;
+  margin-left: 5px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.tqpets .path-15 {
+  height: 26px;
+  margin-left: 5px;
+  object-fit: cover;
+  width: 23px;
+}
+
+.tqpets .path-16 {
+  height: 26px;
+  margin-bottom: 0.47px;
+  margin-left: 17px;
+  object-fit: cover;
+  width: 36px;
+}
+
+.tqpets .path-17 {
+  height: 38px;
+  margin-left: 6px;
+  object-fit: cover;
+  width: 25px;
+}
+
+.tqpets .path-18 {
+  height: 26px;
+  margin-left: 6px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.tqpets .overlap-group3 {
+  height: 252px;
+  left: 0;
+  position: absolute;
+  top: 1308px;
+  width: 1920px;
+}
+
+.tqpets .rectangle-24 {
+  background-color: var(--white);
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 143px;
+  width: 1920px;
+}
+
+.tqpets .line-4 {
+  top: 142px;
+}
+
+.tqpets .group-20 {
+  background-image: url(../img/group-130@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 155px;
+  left: 753px;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+
+.tqpets .group-888 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 71px;
+  left: 1557px;
+  min-width: 224px;
+  position: absolute;
+  top: 53px;
+}
+
+.tqpets .group-892 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  min-width: 147px;
+}
+
+.tqpets .group-895 {
+  align-self: flex-end;
+  background-image: url(../img/group-894-7@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 71px;
+  margin-bottom: 0;
+  width: 71px;
+}
+
+.tqpets .overlap-group-1 {
+  align-items: flex-end;
+  background-image: url(../img/path-2490-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 69px;
+  justify-content: flex-end;
+  min-width: 69px;
+  padding: 11.9px 24.5px;
+}
+
+.tqpets .overlap-group1 {
+  height: 69px;
+  margin-top: 0;
+  position: relative;
+  width: 69px;
+}
+
+.tqpets .group-893 {
+  align-items: flex-end;
+  background-image: url(../img/path-2491-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 69px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 69px;
+  padding: 17.6px 18.3px;
+  position: absolute;
+  top: 0;
+}
+
+.tqpets .x2024-pro-cat-care {
+  left: 460px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: center;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.tqpets .little-kitty-with-la {
+  height: 372px;
+  left: 676px;
+  object-fit: cover;
+  position: absolute;
+  top: 909px;
+  width: 569px;
+}
+
+.tqpets .line {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 1781px;
+}

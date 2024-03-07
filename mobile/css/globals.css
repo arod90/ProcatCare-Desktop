@@ -1,0 +1,1315 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Be+Vietnam:400,700|Be+Vietnam+Pro:400,400italic,600");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/658300279050c74364a36633.658300279050c74364a36636.6xh7STf.hcp.png");
+
+@font-face {
+  font-family: "RichardSamuels";
+  font-style: normal;
+  font-weight: 1 1000;
+  src: url("../fonts/Richard Samuels.otf") format("opentype");
+}
+@font-face {
+  font-family: "RichardSamuels-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Richard Samuels.otf") format("opentype");
+}
+@font-face {
+  font-family: "CaustenRound-Black";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/causten-round-black.otf") format("opentype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.path-11-1 {
+  height: 19px;
+  left: 235px;
+  object-fit: cover;
+  position: absolute;
+  top: 1500px;
+  width: 15px;
+}
+
+.todo-lo-que-necesitas-saber-del-mundo {
+  left: 160px;
+  letter-spacing: 0;
+  line-height: 14.6px;
+  position: absolute;
+  top: 1534px;
+  white-space: nowrap;
+}
+
+.gatuno-curiosidades-consejos-tips-y {
+  left: 164px;
+  letter-spacing: 0;
+  line-height: 14.6px;
+  position: absolute;
+  top: 1548px;
+  white-space: nowrap;
+}
+
+.mucho-ms {
+  left: 238px;
+  letter-spacing: 0;
+  line-height: 14.6px;
+  position: absolute;
+  top: 1563px;
+  white-space: nowrap;
+}
+
+.comparte-a-tu {
+  left: 194px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 1811px;
+  white-space: nowrap;
+}
+
+.michi {
+  left: 244px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 1835px;
+  white-space: nowrap;
+}
+
+.etiquetanos-en-las-fotos-de-tu-michi {
+  left: 180px;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  position: absolute;
+  top: 1876px;
+  white-space: nowrap;
+}
+
+.tqpets {
+  left: 236px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 1889px;
+  white-space: nowrap;
+}
+
+.nueva-lnea-de-productos {
+  left: 145px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 448px;
+  white-space: nowrap;
+}
+
+.span14 {
+  letter-spacing: -0.11px;
+}
+
+.la-protena-animal-es-un {
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 771px;
+  white-space: nowrap;
+}
+
+.ingrediente-de-alto-valor {
+  left: 152px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 797px;
+  white-space: nowrap;
+}
+
+.biolgico-para-los-gatos-debido {
+  left: 113px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 822px;
+  white-space: nowrap;
+}
+
+.a-que-contiene-aminoacidos {
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 847px;
+  white-space: nowrap;
+}
+
+.esenciales-para-mantenerlos {
+  left: 128px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 872px;
+  white-space: nowrap;
+}
+
+.sanos-y-activos {
+  left: 196px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 897px;
+  white-space: nowrap;
+}
+
+.path-100 {
+  height: 199px;
+  left: 177px;
+  object-fit: cover;
+  position: absolute;
+  top: 528px;
+  width: 199px;
+}
+
+.path-101 {
+  height: 200px;
+  left: 177px;
+  object-fit: cover;
+  position: absolute;
+  top: 528px;
+  width: 200px;
+}
+
+.path-102 {
+  height: 175px;
+  left: 189px;
+  object-fit: cover;
+  position: absolute;
+  top: 540px;
+  width: 175px;
+}
+
+.path-103 {
+  height: 38px;
+  left: 247px;
+  object-fit: cover;
+  position: absolute;
+  top: 596px;
+  width: 35px;
+}
+
+.path-104 {
+  height: 41px;
+  left: 287px;
+  object-fit: cover;
+  position: absolute;
+  top: 594px;
+  width: 20px;
+}
+
+.path-105 {
+  height: 11px;
+  left: 202px;
+  object-fit: cover;
+  position: absolute;
+  top: 596px;
+  width: 17px;
+}
+
+.path-106 {
+  height: 12px;
+  left: 201px;
+  object-fit: cover;
+  position: absolute;
+  top: 596px;
+  width: 17px;
+}
+
+.path-107 {
+  height: 21px;
+  left: 207px;
+  object-fit: cover;
+  position: absolute;
+  top: 581px;
+  width: 21px;
+}
+
+.path-108 {
+  height: 21px;
+  left: 206px;
+  object-fit: cover;
+  position: absolute;
+  top: 581px;
+  width: 22px;
+}
+
+.path-109 {
+  height: 17px;
+  left: 223px;
+  object-fit: cover;
+  position: absolute;
+  top: 570px;
+  width: 17px;
+}
+
+.path-110 {
+  height: 18px;
+  left: 222px;
+  object-fit: cover;
+  position: absolute;
+  top: 569px;
+  width: 17px;
+}
+
+.path-111 {
+  height: 19px;
+  left: 238px;
+  object-fit: cover;
+  position: absolute;
+  top: 560px;
+  width: 18px;
+}
+
+.path-112 {
+  height: 20px;
+  left: 238px;
+  object-fit: cover;
+  position: absolute;
+  top: 560px;
+  width: 18px;
+}
+
+.path-115 {
+  height: 17px;
+  left: 272px;
+  object-fit: cover;
+  position: absolute;
+  top: 554px;
+  width: 14px;
+}
+
+.path-116 {
+  height: 18px;
+  left: 272px;
+  object-fit: cover;
+  position: absolute;
+  top: 554px;
+  width: 14px;
+}
+
+.path-117 {
+  height: 18px;
+  left: 289px;
+  object-fit: cover;
+  position: absolute;
+  top: 556px;
+  width: 7px;
+}
+
+.path-124 {
+  height: 18px;
+  left: 324px;
+  object-fit: cover;
+  position: absolute;
+  top: 575px;
+  width: 18px;
+}
+
+.path-125 {
+  height: 18px;
+  left: 331px;
+  object-fit: cover;
+  position: absolute;
+  top: 589px;
+  width: 20px;
+}
+
+.path-126 {
+  height: 19px;
+  left: 331px;
+  object-fit: cover;
+  position: absolute;
+  top: 589px;
+  width: 21px;
+}
+
+.path-127 {
+  height: 3px;
+  left: 298px;
+  object-fit: cover;
+  position: absolute;
+  top: 642px;
+  width: 4px;
+}
+
+.path-128 {
+  height: 4px;
+  left: 298px;
+  object-fit: cover;
+  position: absolute;
+  top: 642px;
+  width: 4px;
+}
+
+.path-129 {
+  height: 18px;
+  left: 214px;
+  object-fit: cover;
+  position: absolute;
+  top: 648px;
+  width: 13px;
+}
+
+.path-130 {
+  height: 19px;
+  left: 214px;
+  object-fit: cover;
+  position: absolute;
+  top: 647px;
+  width: 13px;
+}
+
+.path-131 {
+  height: 18px;
+  left: 231px;
+  object-fit: cover;
+  position: absolute;
+  top: 648px;
+  width: 13px;
+}
+
+.path-132 {
+  height: 19px;
+  left: 230px;
+  object-fit: cover;
+  position: absolute;
+  top: 647px;
+  width: 14px;
+}
+
+.path-133 {
+  height: 19px;
+  left: 247px;
+  object-fit: cover;
+  position: absolute;
+  top: 647px;
+  width: 16px;
+}
+
+.path-134 {
+  height: 19px;
+  left: 247px;
+  object-fit: cover;
+  position: absolute;
+  top: 647px;
+  width: 17px;
+}
+
+.path-135 {
+  height: 18px;
+  left: 266px;
+  object-fit: cover;
+  position: absolute;
+  top: 648px;
+  width: 13px;
+}
+
+.path-136 {
+  height: 19px;
+  left: 266px;
+  object-fit: cover;
+  position: absolute;
+  top: 647px;
+  width: 14px;
+}
+
+.path-137 {
+  height: 18px;
+  left: 283px;
+  object-fit: cover;
+  position: absolute;
+  top: 648px;
+  width: 11px;
+}
+
+.path-138 {
+  height: 19px;
+  left: 282px;
+  object-fit: cover;
+  position: absolute;
+  top: 647px;
+  width: 12px;
+}
+
+.path-139 {
+  height: 18px;
+  left: 298px;
+  object-fit: cover;
+  position: absolute;
+  top: 648px;
+  width: 4px;
+}
+
+.path-140 {
+  height: 19px;
+  left: 297px;
+  object-fit: cover;
+  position: absolute;
+  top: 647px;
+  width: 4px;
+}
+
+.path-141 {
+  height: 18px;
+  left: 305px;
+  object-fit: cover;
+  position: absolute;
+  top: 648px;
+  width: 14px;
+}
+
+.path-142 {
+  height: 19px;
+  left: 305px;
+  object-fit: cover;
+  position: absolute;
+  top: 647px;
+  width: 14px;
+}
+
+.path-143 {
+  height: 18px;
+  left: 323px;
+  object-fit: cover;
+  position: absolute;
+  top: 648px;
+  width: 16px;
+}
+
+.path-144 {
+  height: 19px;
+  left: 322px;
+  object-fit: cover;
+  position: absolute;
+  top: 647px;
+  width: 16px;
+}
+
+.path-146 {
+  height: 19px;
+  left: 228px;
+  object-fit: cover;
+  position: absolute;
+  top: 672px;
+  width: 16px;
+}
+
+.path-148 {
+  height: 19px;
+  left: 247px;
+  object-fit: cover;
+  position: absolute;
+  top: 672px;
+  width: 14px;
+}
+
+.path-149 {
+  height: 18px;
+  left: 265px;
+  object-fit: cover;
+  position: absolute;
+  top: 672px;
+  width: 4px;
+}
+
+.path-150 {
+  height: 19px;
+  left: 265px;
+  object-fit: cover;
+  position: absolute;
+  top: 672px;
+  width: 4px;
+}
+
+.path-151 {
+  height: 18px;
+  left: 273px;
+  object-fit: cover;
+  position: absolute;
+  top: 672px;
+  width: 17px;
+}
+
+.path-152 {
+  height: 19px;
+  left: 273px;
+  object-fit: cover;
+  position: absolute;
+  top: 672px;
+  width: 17px;
+}
+
+.path-153 {
+  height: 18px;
+  left: 293px;
+  object-fit: cover;
+  position: absolute;
+  top: 672px;
+  width: 16px;
+}
+
+.path-154 {
+  height: 19px;
+  left: 293px;
+  object-fit: cover;
+  position: absolute;
+  top: 672px;
+  width: 16px;
+}
+
+.path-155 {
+  height: 18px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 672px;
+  width: 11px;
+}
+
+.path-156 {
+  height: 19px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 672px;
+  width: 12px;
+}
+
+.path-157 {
+  height: 130px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 1033px;
+  width: 120px;
+}
+
+.path-158 {
+  height: 9px;
+  left: 104px;
+  object-fit: cover;
+  position: absolute;
+  top: 1112px;
+  width: 18px;
+}
+
+.path-159 {
+  height: 4px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 1092px;
+  width: 5px;
+}
+
+.path-160 {
+  height: 5px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 1089px;
+  width: 3px;
+}
+
+.path-161 {
+  height: 4px;
+  left: 104px;
+  object-fit: cover;
+  position: absolute;
+  top: 1108px;
+  width: 4px;
+}
+
+.path-162 {
+  height: 4px;
+  left: 114px;
+  object-fit: cover;
+  position: absolute;
+  top: 1106px;
+  width: 4px;
+}
+
+.path-163 {
+  height: 9px;
+  left: 104px;
+  object-fit: cover;
+  position: absolute;
+  top: 1041px;
+  width: 7px;
+}
+
+.path-164 {
+  height: 10px;
+  left: 105px;
+  object-fit: cover;
+  position: absolute;
+  top: 1036px;
+  width: 8px;
+}
+
+.path-165 {
+  height: 124px;
+  left: 400px;
+  object-fit: cover;
+  position: absolute;
+  top: 1316px;
+  width: 114px;
+}
+
+.path-166 {
+  height: 9px;
+  left: 432px;
+  object-fit: cover;
+  position: absolute;
+  top: 1392px;
+  width: 17px;
+}
+
+.path-167 {
+  height: 4px;
+  left: 458px;
+  object-fit: cover;
+  position: absolute;
+  top: 1373px;
+  width: 4px;
+}
+
+.path-168 {
+  height: 4px;
+  left: 430px;
+  object-fit: cover;
+  position: absolute;
+  top: 1370px;
+  width: 3px;
+}
+
+.path-169 {
+  height: 2px;
+  left: 432px;
+  object-fit: cover;
+  position: absolute;
+  top: 1388px;
+  width: 5px;
+}
+
+.path-170 {
+  height: 2px;
+  left: 444px;
+  object-fit: cover;
+  position: absolute;
+  top: 1389px;
+  width: 5px;
+}
+
+.path-171 {
+  height: 9px;
+  left: 442px;
+  object-fit: cover;
+  position: absolute;
+  top: 1324px;
+  width: 7px;
+}
+
+.path-172 {
+  height: 9px;
+  left: 440px;
+  object-fit: cover;
+  position: absolute;
+  top: 1319px;
+  width: 8px;
+}
+
+.path-177 {
+  height: 8px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 1363px;
+  width: 9px;
+}
+
+.path-178 {
+  height: 8px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 1379px;
+  width: 9px;
+}
+
+.path-179 {
+  height: 40px;
+  left: 170px;
+  object-fit: cover;
+  position: absolute;
+  top: 1368px;
+  width: 204px;
+}
+
+.path-180 {
+  height: 40px;
+  left: 167px;
+  object-fit: cover;
+  position: absolute;
+  top: 1158px;
+  width: 204px;
+}
+
+.path-185 {
+  height: 149px;
+  left: 392px;
+  object-fit: cover;
+  position: absolute;
+  top: 2011px;
+  width: 62px;
+}
+
+.path-186 {
+  height: 33px;
+  left: 421px;
+  object-fit: cover;
+  position: absolute;
+  top: 2101px;
+  width: 24px;
+}
+
+.path-187 {
+  height: 23px;
+  left: 411px;
+  object-fit: cover;
+  position: absolute;
+  top: 2038px;
+  width: 26px;
+}
+
+.path-188 {
+  height: 12px;
+  left: 411px;
+  object-fit: cover;
+  position: absolute;
+  top: 2019px;
+  width: 12px;
+}
+
+.path-189 {
+  height: 13px;
+  left: 399px;
+  object-fit: cover;
+  position: absolute;
+  top: 2029px;
+  width: 11px;
+}
+
+.path-190 {
+  height: 12px;
+  left: 426px;
+  object-fit: cover;
+  position: absolute;
+  top: 2019px;
+  width: 11px;
+}
+
+.path-191 {
+  height: 12px;
+  left: 438px;
+  object-fit: cover;
+  position: absolute;
+  top: 2030px;
+  width: 11px;
+}
+
+.path-197 {
+  height: 4px;
+  object-fit: cover;
+  width: 27px;
+}
+
+.path-198 {
+  height: 4px;
+  margin-top: 2px;
+  object-fit: cover;
+  width: 27px;
+}
+
+.path-199 {
+  height: 4px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 27px;
+}
+
+.path-200 {
+  height: 12px;
+  margin-bottom: 0.38px;
+  margin-left: 17px;
+  object-fit: cover;
+  width: 13px;
+}
+
+.path-201 {
+  align-self: flex-end;
+  height: 9px;
+  margin-bottom: 0.96px;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.path-202 {
+  align-self: flex-end;
+  height: 8px;
+  margin-bottom: 1.33px;
+  object-fit: cover;
+  width: 10px;
+}
+
+.path-203 {
+  height: 12px;
+  margin-bottom: 0.07px;
+  object-fit: cover;
+  width: 10px;
+}
+
+.span0-7 {
+  letter-spacing: 0.34px;
+}
+
+.ellipse {
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 39.83px;
+  height: 82px;
+  position: absolute;
+  width: 82px;
+}
+
+.line-1 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.path-1259 {
+  height: 40px;
+  left: 104px;
+  object-fit: cover;
+  position: absolute;
+  top: 566px;
+  width: 204px;
+}
+
+.control {
+  letter-spacing: 0;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.path-1936 {
+  height: 25px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 2533px;
+  width: 305px;
+}
+
+.path-1937 {
+  height: 26px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2533px;
+  width: 306px;
+}
+
+.line-89 {
+  height: 15px;
+  left: 150px;
+  top: 2537px;
+  width: 1px;
+}
+
+.path-1938 {
+  height: 25px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2464px;
+  width: 305px;
+}
+
+.path-1939 {
+  height: 26px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 2463px;
+  width: 306px;
+}
+
+.line-91 {
+  height: 15px;
+  left: 149px;
+  top: 2468px;
+  width: 1px;
+}
+
+.path-1940 {
+  height: 25px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2397px;
+  width: 305px;
+}
+
+.path-1941 {
+  height: 26px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 2397px;
+  width: 306px;
+}
+
+.line-93 {
+  height: 15px;
+  left: 149px;
+  top: 2401px;
+  width: 1px;
+}
+
+.line-94 {
+  height: 15px;
+  left: 260px;
+  top: 2401px;
+  width: 1px;
+}
+
+.line-137 {
+  height: 15px;
+  left: 260px;
+  top: 2469px;
+  width: 1px;
+}
+
+.line-138 {
+  height: 15px;
+  left: 260px;
+  top: 2538px;
+  width: 1px;
+}
+
+.path-1942 {
+  height: 25px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2369px;
+  width: 305px;
+}
+
+.path-1943 {
+  height: 26px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2368px;
+  width: 306px;
+}
+
+.path-1944 {
+  height: 25px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 2436px;
+  width: 305px;
+}
+
+.path-1945 {
+  height: 26px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2435px;
+  width: 306px;
+}
+
+.path-1946 {
+  height: 25px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2331px;
+  width: 305px;
+}
+
+.path-1947 {
+  height: 26px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 2330px;
+  width: 306px;
+}
+
+.path-1948 {
+  height: 25px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 2303px;
+  width: 305px;
+}
+
+.path-1949 {
+  height: 26px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2302px;
+  width: 306px;
+}
+
+.path-1950 {
+  height: 25px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 2505px;
+  width: 305px;
+}
+
+.path-1951 {
+  height: 26px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 2504px;
+  width: 306px;
+}
+
+.line-95 {
+  height: 15px;
+  left: 149px;
+  top: 2336px;
+  width: 1px;
+}
+
+.line-96 {
+  height: 15px;
+  left: 260px;
+  top: 2336px;
+  width: 1px;
+}
+
+.rectangle-137 {
+  background-color: var(--lochmara);
+  border-radius: 0px 0px 0px 16.96px;
+  height: 164px;
+  left: 1px;
+  position: absolute;
+  top: 35px;
+  width: 234px;
+}
+
+.rectangle-138 {
+  background-color: var(--white);
+  border-radius: 0px 0px 16.74px 0px;
+  height: 156px;
+  left: 235px;
+  position: absolute;
+  top: 43px;
+  width: 114px;
+}
+
+.group-225 {
+  background-image: url(../img/path-768-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 63px;
+  width: 347px;
+}
+
+.group-227 {
+  background-image: url(../img/path-768-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 85px;
+  width: 347px;
+}
+
+.group-229 {
+  background-image: url(../img/path-768-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 106px;
+  width: 347px;
+}
+
+.group-231 {
+  background-image: url(../img/path-768-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 128px;
+  width: 347px;
+}
+
+.group-233 {
+  background-image: url(../img/path-768-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 150px;
+  width: 347px;
+}
+
+.group-235 {
+  background-image: url(../img/path-768-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 172px;
+  width: 347px;
+}
+
+.group-237 {
+  background-image: url(../img/path-774-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 156px;
+  left: 235px;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.path-2519 {
+  height: 176px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 350px;
+}
+
+.x2-meses {
+  left: 76px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  text-align: center;
+  top: 2332px;
+  white-space: nowrap;
+}
+
+.hasta-225 {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  text-align: center;
+  top: 2399px;
+  white-space: nowrap;
+}
+
+.de-12-meses {
+  left: 270px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  text-align: center;
+  top: 2331px;
+  white-space: nowrap;
+}
+
+.number {
+  left: 299px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  text-align: center;
+  top: 2398px;
+  white-space: nowrap;
+}
+
+.number-1 {
+  left: 305px;
+  top: 2464px;
+}
+
+.number-2 {
+  left: 196px;
+  top: 2399px;
+}
+
+.number-3 {
+  left: 202px;
+  top: 2465px;
+}
+
+.fibra-cruda {
+  position: absolute;
+  white-space: nowrap;
+}
+
+.humedad {
+  position: absolute;
+  white-space: nowrap;
+}
+
+.number-4 {
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}

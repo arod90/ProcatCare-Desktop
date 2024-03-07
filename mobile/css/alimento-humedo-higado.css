@@ -1,0 +1,2388 @@
+/* screen - alimento-humedo-higado */
+
+.alimento-humedo-higado {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 3082px;
+  overflow: hidden;
+  width: 412px;
+}
+
+.alimento-humedo-higado .overlap-group1 {
+  height: 3128px;
+  margin-top: 0;
+  position: relative;
+  width: 412px;
+}
+
+.alimento-humedo-higado .path-1774 {
+  height: 490px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2638px;
+  width: 412px;
+}
+
+.alimento-humedo-higado .path-1775 {
+  height: 1089px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1611px;
+  width: 412px;
+}
+
+.alimento-humedo-higado .path-1776 {
+  height: 694px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 994px;
+  width: 412px;
+}
+
+.alimento-humedo-higado .path-1777 {
+  height: 1056px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 412px;
+}
+
+.alimento-humedo-higado .group-469 {
+  height: 55px;
+  left: 157px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 97px;
+}
+
+.alimento-humedo-higado .group-473 {
+  cursor: pointer;
+  height: 55px;
+  left: 157px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 97px;
+}
+
+.alimento-humedo-higado .line-8 {
+  height: 1px;
+  left: 9px;
+  top: 54px;
+  width: 394px;
+}
+
+.alimento-humedo-higado .path-1785 {
+  height: 28px;
+  left: 339px;
+  object-fit: cover;
+  position: absolute;
+  top: 1040px;
+  width: 24px;
+}
+
+.alimento-humedo-higado .path-1786 {
+  height: 9px;
+  left: 341px;
+  object-fit: cover;
+  position: absolute;
+  top: 1028px;
+  width: 11px;
+}
+
+.alimento-humedo-higado .path-1787 {
+  height: 9px;
+  left: 336px;
+  object-fit: cover;
+  position: absolute;
+  top: 1067px;
+  width: 10px;
+}
+
+.alimento-humedo-higado .path-1788 {
+  height: 9px;
+  left: 327px;
+  object-fit: cover;
+  position: absolute;
+  top: 1037px;
+  width: 10px;
+}
+
+.alimento-humedo-higado .path-1789 {
+  height: 9px;
+  left: 325px;
+  object-fit: cover;
+  position: absolute;
+  top: 1055px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1790 {
+  height: 40px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 2936px;
+  width: 391px;
+}
+
+.alimento-humedo-higado .title {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  position: absolute;
+  top: 2747px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span-1 {
+  letter-spacing: -0.36px;
+}
+
+.alimento-humedo-higado .span5 {
+  letter-spacing: -0.59px;
+}
+
+.alimento-humedo-higado .alimento {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 15.8px;
+  position: absolute;
+  top: 2983px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span-2 {
+  letter-spacing: -0.17px;
+}
+
+.alimento-humedo-higado .hmedo {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 15.8px;
+  position: absolute;
+  top: 2996px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .place {
+  left: 99px;
+  letter-spacing: 0;
+  line-height: 15.8px;
+  position: absolute;
+  top: 3009px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span0 {
+  letter-spacing: -0.20px;
+}
+
+.alimento-humedo-higado .span1 {
+  letter-spacing: -0.22px;
+}
+
+.alimento-humedo-higado .span-3 {
+  letter-spacing: -0.12px;
+}
+
+.alimento-humedo-higado .alimento-1 {
+  left: 249px;
+  letter-spacing: 0;
+  line-height: 15.8px;
+  position: absolute;
+  top: 2983px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span1-2 {
+  letter-spacing: -0.18px;
+}
+
+.alimento-humedo-higado .hmedo-1 {
+  left: 251px;
+  letter-spacing: 0;
+  line-height: 15.8px;
+  position: absolute;
+  top: 2996px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .pollo {
+  left: 261px;
+  letter-spacing: 0;
+  line-height: 15.8px;
+  position: absolute;
+  top: 3009px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span3-1 {
+  letter-spacing: -0.05px;
+}
+
+.alimento-humedo-higado .path-1791 {
+  height: 99px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 2622px;
+  width: 129px;
+}
+
+.alimento-humedo-higado .path-1792 {
+  height: 21px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 2655px;
+  width: 12px;
+}
+
+.alimento-humedo-higado .path-1793 {
+  height: 11px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 2675px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .path-1794 {
+  height: 12px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 2648px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .path-1795 {
+  height: 25px;
+  left: 268px;
+  object-fit: cover;
+  position: absolute;
+  top: 1043px;
+  width: 24px;
+}
+
+.alimento-humedo-higado .path-1796 {
+  height: 9px;
+  left: 279px;
+  object-fit: cover;
+  position: absolute;
+  top: 1031px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1797 {
+  height: 9px;
+  left: 259px;
+  object-fit: cover;
+  position: absolute;
+  top: 1062px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1798 {
+  height: 9px;
+  left: 263px;
+  object-fit: cover;
+  position: absolute;
+  top: 1033px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1799 {
+  height: 9px;
+  left: 255px;
+  object-fit: cover;
+  position: absolute;
+  top: 1047px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1800 {
+  height: 25px;
+  left: 197px;
+  object-fit: cover;
+  position: absolute;
+  top: 1018px;
+  width: 21px;
+}
+
+.alimento-humedo-higado .path-1801 {
+  height: 7px;
+  left: 193px;
+  object-fit: cover;
+  position: absolute;
+  top: 1012px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1802 {
+  height: 8px;
+  left: 201px;
+  object-fit: cover;
+  position: absolute;
+  top: 1046px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1803 {
+  height: 7px;
+  left: 184px;
+  object-fit: cover;
+  position: absolute;
+  top: 1025px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1804 {
+  height: 8px;
+  left: 188px;
+  object-fit: cover;
+  position: absolute;
+  top: 1040px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1805 {
+  height: 24px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 992px;
+  width: 22px;
+}
+
+.alimento-humedo-higado .path-1806 {
+  height: 8px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 980px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1807 {
+  height: 8px;
+  left: 118px;
+  object-fit: cover;
+  position: absolute;
+  top: 1013px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1808 {
+  height: 8px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 985px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1809 {
+  height: 8px;
+  left: 111px;
+  object-fit: cover;
+  position: absolute;
+  top: 1000px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1810 {
+  height: 25px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 989px;
+  width: 22px;
+}
+
+.alimento-humedo-higado .path-1811 {
+  height: 8px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 984px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1812 {
+  height: 8px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1018px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1813 {
+  height: 8px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 998px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1814 {
+  height: 8px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 1012px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1815 {
+  height: 58px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 549px;
+  width: 307px;
+}
+
+.alimento-humedo-higado .path-1816 {
+  height: 80px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 538px;
+  width: 80px;
+}
+
+.alimento-humedo-higado .ellipse-16 {
+  left: 35px;
+  top: 537px;
+  transform: rotate(-52.02deg);
+}
+
+.alimento-humedo-higado .con-taurina {
+  left: 177px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 560px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span-4 {
+  letter-spacing: 0.22px;
+}
+
+.alimento-humedo-higado .span-5 {
+  letter-spacing: 0.20px;
+}
+
+.alimento-humedo-higado .span-6 {
+  letter-spacing: 0.29px;
+}
+
+.alimento-humedo-higado .span5-1 {
+  letter-spacing: 0.57px;
+}
+
+.alimento-humedo-higado .span-7 {
+  letter-spacing: 0.26px;
+}
+
+.alimento-humedo-higado .path-1817 {
+  height: 58px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 678px;
+  width: 307px;
+}
+
+.alimento-humedo-higado .path-1818 {
+  height: 80px;
+  left: 297px;
+  object-fit: cover;
+  position: absolute;
+  top: 667px;
+  width: 80px;
+}
+
+.alimento-humedo-higado .ellipse-17 {
+  left: 296px;
+  top: 666px;
+  transform: rotate(-55.28deg);
+}
+
+.alimento-humedo-higado .fuente-de-hidratacin {
+  left: 56px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 691px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span-8 {
+  letter-spacing: 0.04px;
+}
+
+.alimento-humedo-higado .span-9 {
+  letter-spacing: 0.13px;
+}
+
+.alimento-humedo-higado .path-1819 {
+  height: 58px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 812px;
+  width: 307px;
+}
+
+.alimento-humedo-higado .path-1820 {
+  height: 80px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 801px;
+  width: 80px;
+}
+
+.alimento-humedo-higado .ellipse-18 {
+  left: 36px;
+  top: 800px;
+  transform: rotate(-52.02deg);
+}
+
+.alimento-humedo-higado .estimula-su-apetito {
+  left: 140px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+  position: absolute;
+  top: 826px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .path-1821 {
+  height: 38px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 818px;
+  width: 28px;
+}
+
+.alimento-humedo-higado .path-1822 {
+  height: 46px;
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 816px;
+  width: 32px;
+}
+
+.alimento-humedo-higado .path-1823 {
+  height: 2px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 852px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .path-1824 {
+  height: 2px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 855px;
+  width: 26px;
+}
+
+.alimento-humedo-higado .path-1825 {
+  height: 13px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 843px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .line-82 {
+  height: 1px;
+  left: 32px;
+  top: 1788px;
+  width: 348px;
+}
+
+.alimento-humedo-higado .line-83 {
+  height: 1px;
+  left: 32px;
+  top: 1810px;
+  width: 348px;
+}
+
+.alimento-humedo-higado .line-84 {
+  height: 1px;
+  left: 32px;
+  top: 1831px;
+  width: 348px;
+}
+
+.alimento-humedo-higado .line-85 {
+  height: 1px;
+  left: 32px;
+  top: 1853px;
+  width: 348px;
+}
+
+.alimento-humedo-higado .line-86 {
+  height: 1px;
+  left: 32px;
+  top: 1875px;
+  width: 348px;
+}
+
+.alimento-humedo-higado .line-87 {
+  height: 1px;
+  left: 32px;
+  top: 1898px;
+  width: 348px;
+}
+
+.alimento-humedo-higado .line-88 {
+  height: 157px;
+  left: 266px;
+  top: 1768px;
+  width: 1px;
+}
+
+.alimento-humedo-higado .protena-cruda-mn {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 1773px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span-10 {
+  letter-spacing: 0.67px;
+}
+
+.alimento-humedo-higado .span-11 {
+  letter-spacing: 0.56px;
+}
+
+.alimento-humedo-higado .span-12 {
+  letter-spacing: 0.34px;
+}
+
+.alimento-humedo-higado .span-13 {
+  letter-spacing: 0.66px;
+}
+
+.alimento-humedo-higado .span7 {
+  letter-spacing: 0.10px;
+}
+
+.alimento-humedo-higado .path-1830 {
+  height: 10px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1831 {
+  height: 10px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1832 {
+  height: 10px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1833 {
+  height: 10px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1834 {
+  height: 10px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 7px;
+}
+
+.alimento-humedo-higado .path-1835 {
+  height: 12px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 1772px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1836 {
+  height: 10px;
+  left: 99px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1837 {
+  height: 10px;
+  left: 107px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1838 {
+  height: 10px;
+  left: 118px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1839 {
+  height: 10px;
+  left: 126px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1840 {
+  height: 10px;
+  left: 134px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1841 {
+  height: 10px;
+  left: 141px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1842 {
+  height: 10px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1843 {
+  height: 11px;
+  left: 160px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .path-1844 {
+  height: 10px;
+  left: 164px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 10px;
+}
+
+.alimento-humedo-higado .path-1845 {
+  height: 12px;
+  left: 173px;
+  object-fit: cover;
+  position: absolute;
+  top: 1772px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1846 {
+  height: 10px;
+  left: 177px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1847 {
+  height: 4px;
+  left: 185px;
+  object-fit: cover;
+  position: absolute;
+  top: 1781px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1848 {
+  height: 11px;
+  left: 188px;
+  object-fit: cover;
+  position: absolute;
+  top: 1774px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .grasa-cruda-mn {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 1794px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span-14 {
+  letter-spacing: 0.45px;
+}
+
+.alimento-humedo-higado .span-15 {
+  letter-spacing: 0.11px;
+}
+
+.alimento-humedo-higado .path-1849 {
+  height: 10px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1795px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1850 {
+  height: 10px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 1795px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1851 {
+  height: 10px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1795px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1852 {
+  height: 10px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 1795px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1853 {
+  height: 10px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 1795px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1854 {
+  height: 10px;
+  left: 101px;
+  object-fit: cover;
+  position: absolute;
+  top: 1795px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1855 {
+  height: 10px;
+  left: 109px;
+  object-fit: cover;
+  position: absolute;
+  top: 1795px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1856 {
+  height: 10px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 1795px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1857 {
+  height: 10px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 1795px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1858 {
+  height: 10px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 1795px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1859 {
+  height: 11px;
+  left: 142px;
+  object-fit: cover;
+  position: absolute;
+  top: 1794px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .path-1860 {
+  height: 10px;
+  left: 147px;
+  object-fit: cover;
+  position: absolute;
+  top: 1795px;
+  width: 10px;
+}
+
+.alimento-humedo-higado .path-1861 {
+  height: 12px;
+  left: 156px;
+  object-fit: cover;
+  position: absolute;
+  top: 1793px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1862 {
+  height: 10px;
+  left: 160px;
+  object-fit: cover;
+  position: absolute;
+  top: 1795px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1863 {
+  height: 4px;
+  left: 167px;
+  object-fit: cover;
+  position: absolute;
+  top: 1801px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1864 {
+  height: 11px;
+  left: 171px;
+  object-fit: cover;
+  position: absolute;
+  top: 1794px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .fibra-cruda-mx {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  top: 1816px;
+}
+
+.alimento-humedo-higado .path-1865 {
+  height: 10px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1817px;
+  width: 7px;
+}
+
+.alimento-humedo-higado .path-1866 {
+  height: 10px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 1817px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1867 {
+  height: 10px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 1817px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1868 {
+  height: 10px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 1817px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1869 {
+  height: 10px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 1817px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1870 {
+  height: 10px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 1817px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1871 {
+  height: 10px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 1817px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1872 {
+  height: 10px;
+  left: 110px;
+  object-fit: cover;
+  position: absolute;
+  top: 1817px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1873 {
+  height: 10px;
+  left: 118px;
+  object-fit: cover;
+  position: absolute;
+  top: 1817px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1874 {
+  height: 10px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 1817px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1875 {
+  height: 11px;
+  left: 136px;
+  object-fit: cover;
+  position: absolute;
+  top: 1817px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .path-1876 {
+  height: 10px;
+  left: 141px;
+  object-fit: cover;
+  position: absolute;
+  top: 1817px;
+  width: 10px;
+}
+
+.alimento-humedo-higado .path-1877 {
+  height: 12px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 1815px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1878 {
+  height: 10px;
+  left: 158px;
+  object-fit: cover;
+  position: absolute;
+  top: 1817px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1879 {
+  height: 4px;
+  left: 166px;
+  object-fit: cover;
+  position: absolute;
+  top: 1823px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1880 {
+  height: 11px;
+  left: 169px;
+  object-fit: cover;
+  position: absolute;
+  top: 1817px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .ceniza-mx {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 1838px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .path-1881 {
+  height: 10px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1839px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1882 {
+  height: 10px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 1839px;
+  width: 7px;
+}
+
+.alimento-humedo-higado .path-1883 {
+  height: 10px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 1839px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1884 {
+  height: 10px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 1839px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1885 {
+  height: 10px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 1839px;
+  width: 7px;
+}
+
+.alimento-humedo-higado .path-1886 {
+  height: 10px;
+  left: 91px;
+  object-fit: cover;
+  position: absolute;
+  top: 1839px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1887 {
+  height: 11px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 1839px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .path-1888 {
+  height: 10px;
+  left: 106px;
+  object-fit: cover;
+  position: absolute;
+  top: 1839px;
+  width: 10px;
+}
+
+.alimento-humedo-higado .path-1889 {
+  height: 12px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 1837px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1890 {
+  height: 10px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 1839px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1891 {
+  height: 4px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 1846px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1892 {
+  height: 11px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 1839px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .calcio-mn {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 1881px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .path-1893 {
+  height: 10px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1882px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1894 {
+  height: 10px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 1882px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1895 {
+  height: 10px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1882px;
+  width: 7px;
+}
+
+.alimento-humedo-higado .path-1896 {
+  height: 10px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 1882px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1897 {
+  height: 10px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 1882px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1898 {
+  height: 10px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 1882px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1899 {
+  height: 11px;
+  left: 104px;
+  object-fit: cover;
+  position: absolute;
+  top: 1882px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .path-1900 {
+  height: 10px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 1882px;
+  width: 10px;
+}
+
+.alimento-humedo-higado .path-1901 {
+  height: 12px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 1880px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1902 {
+  height: 10px;
+  left: 121px;
+  object-fit: cover;
+  position: absolute;
+  top: 1882px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1903 {
+  height: 4px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 1889px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1904 {
+  height: 11px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 1882px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .fsforo-mn {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 1904px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span3-2 {
+  letter-spacing: 0.32px;
+}
+
+.alimento-humedo-higado .path-1905 {
+  height: 10px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1905px;
+  width: 7px;
+}
+
+.alimento-humedo-higado .path-1906 {
+  height: 12px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 1902px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1907 {
+  height: 10px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 1904px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1908 {
+  height: 10px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 1905px;
+  width: 7px;
+}
+
+.alimento-humedo-higado .path-1909 {
+  height: 10px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 1905px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1910 {
+  height: 10px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 1905px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1911 {
+  height: 10px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 1905px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1912 {
+  height: 11px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 1904px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .path-1913 {
+  height: 10px;
+  left: 119px;
+  object-fit: cover;
+  position: absolute;
+  top: 1905px;
+  width: 10px;
+}
+
+.alimento-humedo-higado .path-1914 {
+  height: 12px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 1902px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1915 {
+  height: 10px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 1905px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1916 {
+  height: 4px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 1911px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1917 {
+  height: 11px;
+  left: 143px;
+  object-fit: cover;
+  position: absolute;
+  top: 1904px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .humedad-mx {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  top: 1860px;
+}
+
+.alimento-humedo-higado .path-1918 {
+  height: 10px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 1861px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1919 {
+  height: 10px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 1861px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1920 {
+  height: 10px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1861px;
+  width: 10px;
+}
+
+.alimento-humedo-higado .path-1921 {
+  height: 10px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 1861px;
+  width: 7px;
+}
+
+.alimento-humedo-higado .path-1922 {
+  height: 10px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 1861px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1923 {
+  height: 10px;
+  left: 97px;
+  object-fit: cover;
+  position: absolute;
+  top: 1861px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1924 {
+  height: 10px;
+  left: 105px;
+  object-fit: cover;
+  position: absolute;
+  top: 1861px;
+  width: 8px;
+}
+
+.alimento-humedo-higado .path-1925 {
+  height: 11px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 1860px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .path-1926 {
+  height: 10px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 1861px;
+  width: 10px;
+}
+
+.alimento-humedo-higado .path-1927 {
+  height: 12px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 1859px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1928 {
+  height: 10px;
+  left: 138px;
+  object-fit: cover;
+  position: absolute;
+  top: 1861px;
+  width: 9px;
+}
+
+.alimento-humedo-higado .path-1929 {
+  height: 4px;
+  left: 146px;
+  object-fit: cover;
+  position: absolute;
+  top: 1867px;
+  width: 4px;
+}
+
+.alimento-humedo-higado .path-1930 {
+  height: 11px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 1860px;
+  width: 5px;
+}
+
+.alimento-humedo-higado .path-1931 {
+  height: 156px;
+  left: 139px;
+  object-fit: cover;
+  position: absolute;
+  top: 2105px;
+  width: 179px;
+}
+
+.alimento-humedo-higado .path-1932 {
+  height: 81px;
+  left: 171px;
+  object-fit: cover;
+  position: absolute;
+  top: 2004px;
+  width: 67px;
+}
+
+.alimento-humedo-higado .path-1933 {
+  height: 79px;
+  left: 99px;
+  object-fit: cover;
+  position: absolute;
+  top: 2035px;
+  width: 69px;
+}
+
+.alimento-humedo-higado .path-1934 {
+  height: 74px;
+  left: 251px;
+  object-fit: cover;
+  position: absolute;
+  top: 2036px;
+  width: 63px;
+}
+
+.alimento-humedo-higado .path-1935 {
+  height: 72px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 2115px;
+  width: 66px;
+}
+
+.alimento-humedo-higado .cmo-alimentar-a {
+  left: 60px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  position: absolute;
+  top: 2048px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span1-3 {
+  letter-spacing: -2.55px;
+}
+
+.alimento-humedo-higado .tu-gatito {
+  left: 124px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  position: absolute;
+  top: 2084px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span1-4 {
+  letter-spacing: -2.63px;
+}
+
+.alimento-humedo-higado .span3-3 {
+  letter-spacing: -0.48px;
+}
+
+.alimento-humedo-higado .edad-meses {
+  left: 168px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 2307px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span-16 {
+  letter-spacing: -0.49px;
+}
+
+.alimento-humedo-higado .cantidades-g {
+  left: 166px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 2375px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span1-1 {
+  letter-spacing: -0.16px;
+}
+
+.alimento-humedo-higado .span3 {
+  letter-spacing: -0.14px;
+}
+
+.alimento-humedo-higado .span5-2 {
+  letter-spacing: -0.28px;
+}
+
+.alimento-humedo-higado .cantidad-tazas {
+  left: 160px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 2440px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .veces-al-da {
+  left: 172px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 2510px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span0-1 {
+  letter-spacing: -0.83px;
+}
+
+.alimento-humedo-higado .gua-de-alimentacin {
+  left: 81px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 2223px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span2 {
+  letter-spacing: -1.91px;
+}
+
+.alimento-humedo-higado .span3-4 {
+  letter-spacing: -0.90px;
+}
+
+.alimento-humedo-higado .span-17 {
+  letter-spacing: -0.13px;
+}
+
+.alimento-humedo-higado .diaria {
+  left: 170px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 2244px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .considera-su-peso-y-edad {
+  left: 87px;
+  letter-spacing: 0;
+  line-height: 23.1px;
+  position: absolute;
+  top: 2134px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span3-5 {
+  letter-spacing: -0.06px;
+}
+
+.alimento-humedo-higado .mientras-ms-conozcas-a-tu-minino {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: 23.1px;
+  position: absolute;
+  top: 2155px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span1-5 {
+  letter-spacing: -0.37px;
+}
+
+.alimento-humedo-higado .span-18 {
+  letter-spacing: 0.06px;
+}
+
+.alimento-humedo-higado .mejor-lo-alimentars {
+  left: 108px;
+  letter-spacing: 0;
+  line-height: 23.1px;
+  position: absolute;
+  top: 2176px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span5-3 {
+  letter-spacing: -0.38px;
+}
+
+.alimento-humedo-higado .path-1952 {
+  height: 42px;
+  left: 166px;
+  object-fit: cover;
+  position: absolute;
+  top: 1970px;
+  width: 80px;
+}
+
+.alimento-humedo-higado .path-1953 {
+  height: 5px;
+  left: 203px;
+  object-fit: cover;
+  position: absolute;
+  top: 2001px;
+  width: 7px;
+}
+
+.alimento-humedo-higado .path-1954 {
+  height: 3px;
+  left: 207px;
+  object-fit: cover;
+  position: absolute;
+  top: 1997px;
+  width: 3px;
+}
+
+.alimento-humedo-higado .path-1955 {
+  height: 3px;
+  left: 203px;
+  object-fit: cover;
+  position: absolute;
+  top: 1997px;
+  width: 3px;
+}
+
+.alimento-humedo-higado .path-1956 {
+  height: 2px;
+  left: 200px;
+  object-fit: cover;
+  position: absolute;
+  top: 2000px;
+  width: 2px;
+}
+
+.alimento-humedo-higado .path-1957 {
+  height: 2px;
+  left: 209px;
+  object-fit: cover;
+  position: absolute;
+  top: 2000px;
+  width: 2px;
+}
+
+.alimento-humedo-higado .path-1958 {
+  height: 41px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 234px;
+}
+
+.alimento-humedo-higado .gatos-y-gatitos {
+  left: 102px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 89px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span-19 {
+  letter-spacing: -2.26px;
+}
+
+.alimento-humedo-higado .hgado {
+  left: 164px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 460px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .path-1959 {
+  height: 42px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 557px;
+  width: 44px;
+}
+
+.alimento-humedo-higado .path-1960 {
+  height: 8px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 565px;
+  width: 7px;
+}
+
+.alimento-humedo-higado .path-1961 {
+  height: 48px;
+  left: 317px;
+  object-fit: cover;
+  position: absolute;
+  top: 682px;
+  width: 37px;
+}
+
+.alimento-humedo-higado .path-1962 {
+  height: 13px;
+  left: 335px;
+  object-fit: cover;
+  position: absolute;
+  top: 711px;
+  width: 14px;
+}
+
+.alimento-humedo-higado .path-1963 {
+  height: 188px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 1223px;
+  width: 215px;
+}
+
+.alimento-humedo-higado .path-1964 {
+  height: 98px;
+  left: 160px;
+  object-fit: cover;
+  position: absolute;
+  top: 1102px;
+  width: 81px;
+}
+
+.alimento-humedo-higado .path-1965 {
+  height: 95px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1139px;
+  width: 83px;
+}
+
+.alimento-humedo-higado .path-1966 {
+  height: 90px;
+  left: 256px;
+  object-fit: cover;
+  position: absolute;
+  top: 1141px;
+  width: 75px;
+}
+
+.alimento-humedo-higado .path-1967 {
+  height: 87px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 1236px;
+  width: 80px;
+}
+
+.alimento-humedo-higado .path-1968 {
+  height: 66px;
+  left: 181px;
+  object-fit: cover;
+  position: absolute;
+  top: 1159px;
+  width: 84px;
+}
+
+.alimento-humedo-higado .rectangle-377 {
+  border: 4px solid;
+  border-color: var(--white);
+  border-radius: 10.94px 10.94px 10.94px 10.94px;
+  height: 70px;
+  left: 179px;
+  position: absolute;
+  top: 1157px;
+  width: 88px;
+}
+
+.alimento-humedo-higado .path-1969 {
+  height: 31px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 1192px;
+  width: 79px;
+}
+
+.alimento-humedo-higado .alto-en {
+  left: 197px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 1167px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span1-6 {
+  letter-spacing: -1.25px;
+}
+
+.alimento-humedo-higado .protena {
+  left: 194px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 1179px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span3-6 {
+  letter-spacing: -0.24px;
+}
+
+.alimento-humedo-higado .address {
+  left: 193px;
+  letter-spacing: 0;
+  line-height: 10.8px;
+  position: absolute;
+  top: 1193px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span1-7 {
+  letter-spacing: 0.08px;
+}
+
+.alimento-humedo-higado .span3-7 {
+  letter-spacing: -0.65px;
+}
+
+.alimento-humedo-higado .span-20 {
+  letter-spacing: 0.05px;
+}
+
+.alimento-humedo-higado .span8 {
+  letter-spacing: -0.19px;
+}
+
+.alimento-humedo-higado .y-minerales {
+  left: 196px;
+  letter-spacing: 0;
+  line-height: 10.8px;
+  position: absolute;
+  top: 1204px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .span5-4 {
+  letter-spacing: -0.41px;
+}
+
+.alimento-humedo-higado .rectangle-382 {
+  cursor: pointer;
+  height: 168px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 2803px;
+  width: 137px;
+}
+
+.alimento-humedo-higado .group-532 {
+  cursor: pointer;
+  height: 168px;
+  left: 208px;
+  object-fit: cover;
+  position: absolute;
+  top: 2803px;
+  width: 137px;
+}
+
+.alimento-humedo-higado .rectangle-140 {
+  height: 310px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 258px;
+}
+
+.alimento-humedo-higado .rectangle-560 {
+  height: 186px;
+  left: 186px;
+  object-fit: cover;
+  position: absolute;
+  top: 1254px;
+  width: 156px;
+}
+
+.alimento-humedo-higado .x8626172 {
+  height: 230px;
+  left: 97px;
+  object-fit: cover;
+  position: absolute;
+  top: 1216px;
+  width: 171px;
+}
+
+.alimento-humedo-higado .pro-cat-care-delicia {
+  left: 38px;
+  letter-spacing: 0.18px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 1434px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .overlap-group {
+  height: 200px;
+  left: 31px;
+  position: absolute;
+  top: 1734px;
+  width: 350px;
+}
+
+.alimento-humedo-higado .path-767 {
+  height: 44px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 349px;
+}
+
+.alimento-humedo-higado .anlisis-garantizado {
+  left: 49px;
+  letter-spacing: 1.14px;
+  line-height: 19px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .percent {
+  left: 273px;
+  letter-spacing: 0.60px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .percent-1 {
+  left: 273px;
+  top: 66px;
+}
+
+.alimento-humedo-higado .percent-2 {
+  left: 273px;
+  top: 88px;
+}
+
+.alimento-humedo-higado .percent-3 {
+  left: 273px;
+  top: 110px;
+}
+
+.alimento-humedo-higado .protena-cruda-mn-1 {
+  -webkit-text-stroke: 0.4px var(--white);
+  left: 28px;
+  letter-spacing: 0.90px;
+  line-height: 20px;
+  position: absolute;
+  top: 43px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .grasa-cruda-mn-1 {
+  -webkit-text-stroke: 0.4px var(--white);
+  left: 28px;
+  letter-spacing: 0.90px;
+  line-height: 20px;
+  position: absolute;
+  top: 64px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .fibra-cruda-max {
+  -webkit-text-stroke: 0.4px var(--white);
+  left: 28px;
+  letter-spacing: 0.90px;
+  line-height: 20px;
+  top: 86px;
+}
+
+.alimento-humedo-higado .minerales-totales-max {
+  -webkit-text-stroke: 0.4px var(--white);
+  left: 28px;
+  letter-spacing: 0.90px;
+  line-height: 20px;
+  position: absolute;
+  top: 106px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .humedad-max {
+  -webkit-text-stroke: 0.4px var(--white);
+  left: 28px;
+  letter-spacing: 0.90px;
+  line-height: 20px;
+  top: 129px;
+}
+
+.alimento-humedo-higado .calcio-mn-1 {
+  -webkit-text-stroke: 0.4px var(--white);
+  left: 28px;
+  letter-spacing: 0.90px;
+  line-height: 20px;
+  position: absolute;
+  top: 151px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .fsforo-mn-1 {
+  -webkit-text-stroke: 0.4px var(--white);
+  left: 28px;
+  letter-spacing: 0.90px;
+  line-height: 20px;
+  position: absolute;
+  top: 174px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .percent-4 {
+  left: 269px;
+  top: 154px;
+}
+
+.alimento-humedo-higado .percent-5 {
+  left: 269px;
+  top: 176px;
+}
+
+.alimento-humedo-higado .percent-6 {
+  left: 269px;
+  top: 132px;
+}
+
+.alimento-humedo-higado .text-1 {
+  left: 93px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  text-align: center;
+  top: 2465px;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .address-1 {
+  left: 81px;
+  top: 2534px;
+}
+
+.alimento-humedo-higado .address-2 {
+  left: 296px;
+  top: 2533px;
+}
+
+.alimento-humedo-higado .address-3 {
+  left: 170px;
+  top: 2332px;
+}
+
+.alimento-humedo-higado .address-4 {
+  left: 184px;
+  top: 2534px;
+}
+
+.alimento-humedo-higado .group-712 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 14px;
+  left: 27px;
+  min-width: 86px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 23px;
+}
+
+.alimento-humedo-higado .path-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 14px;
+  width: 27px;
+}
+
+.alimento-humedo-higado .address-5 {
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.alimento-humedo-higado .line {
+  object-fit: cover;
+  position: absolute;
+}
+
+.alimento-humedo-higado .percent-7 {
+  letter-spacing: 0.60px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
