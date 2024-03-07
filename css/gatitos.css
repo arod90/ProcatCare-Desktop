@@ -1,0 +1,4426 @@
+/* screen - gatitos */
+
+.gatitos {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 6141.34px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.gatitos .group-container {
+  height: 6301px;
+  margin-top: -159.49px;
+  position: relative;
+  width: 4137px;
+}
+
+.gatitos .group-778 {
+  display: flex;
+  height: 6301px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.gatitos .group-777 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 111.3px 0;
+  width: 1920px;
+}
+
+.gatitos .overlap-group20 {
+  height: 6032px;
+  margin-left: -104px;
+  position: relative;
+  width: 2152px;
+}
+
+.gatitos .rectangle-333 {
+  background-color: var(--banana);
+  height: 1440px;
+  left: 104px;
+  position: absolute;
+  top: 4592px;
+  width: 1920px;
+}
+
+.gatitos .path-2119 {
+  height: 2701px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 2206px;
+  width: 1926px;
+}
+
+.gatitos .path-2120 {
+  height: 1250px;
+  left: 104px;
+  object-fit: cover;
+  position: absolute;
+  top: 1226px;
+  width: 1924px;
+}
+
+.gatitos .path-2121 {
+  height: 1406px;
+  left: 104px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1920px;
+}
+
+.gatitos .nutricin-con-amor {
+  left: 628px;
+  letter-spacing: 0;
+  line-height: 126.9px;
+  position: absolute;
+  text-align: center;
+  top: 301px;
+  white-space: nowrap;
+}
+
+.gatitos .group-731 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 631px;
+  left: 518px;
+  min-width: 1091px;
+  position: absolute;
+  top: 492px;
+}
+
+.gatitos .overlap-group-1 {
+  height: 629px;
+  position: relative;
+  width: 624px;
+}
+
+.gatitos .group-709 {
+  background-image: url(../img/path-2122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 434px;
+  left: 118px;
+  position: absolute;
+  top: 68px;
+  width: 448px;
+}
+
+.gatitos .group-712 {
+  display: flex;
+  height: 560px;
+  left: 126px;
+  position: absolute;
+  top: 0;
+  width: 435px;
+}
+
+.gatitos .group-711 {
+  display: flex;
+  flex: 1;
+  width: 435.26px;
+}
+
+.gatitos .group-710 {
+  background-image: url(../img/rectangle-334@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  width: 435.26px;
+}
+
+.gatitos .rectangle-335 {
+  flex: 1;
+  margin-bottom: -12px;
+  margin-left: -9px;
+  margin-right: -9px;
+  margin-top: -6px;
+  object-fit: cover;
+  width: 453.26px;
+}
+
+.gatitos .gatitos-1 {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam_pro);
+  font-size: 36.4px;
+  font-style: italic;
+  height: 102px;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 43.7px;
+  position: absolute;
+  text-align: center;
+  top: 527px;
+  width: 559px;
+}
+
+.gatitos .group-713 {
+  background-image: url(../img/path-2123@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 76px;
+  left: 485px;
+  position: absolute;
+  top: 73px;
+  width: 55px;
+}
+
+.gatitos .group-714 {
+  background-image: url(../img/path-2124@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 104px;
+  left: 146px;
+  position: absolute;
+  top: 202px;
+  width: 46px;
+}
+
+.gatitos .group-715 {
+  align-items: flex-end;
+  background-image: url(../img/path-2125@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 99px;
+  left: 491px;
+  min-width: 67px;
+  padding: 24.1px 18.4px;
+  position: absolute;
+  top: 384px;
+}
+
+.gatitos .path-2126 {
+  height: 23px;
+  object-fit: cover;
+  width: 15px;
+}
+
+.gatitos .gatitos-3psd {
+  background-image: url(../img/group-716@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 186px;
+  left: 0;
+  position: absolute;
+  top: 335px;
+  width: 279px;
+}
+
+.gatitos .gatitos-1_1psd {
+  background-image: url(../img/group-717@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 169px;
+  left: 72px;
+  position: absolute;
+  top: 397px;
+  width: 243px;
+}
+
+.gatitos .overlap-group-container {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 43.03px;
+  min-height: 458px;
+  width: 455px;
+}
+
+.gatitos .overlap-group1-2 {
+  height: 107px;
+  position: relative;
+  width: 455px;
+}
+
+.gatitos .overlap-group {
+  height: 107px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 455px;
+}
+
+.gatitos .rectangle-338 {
+  background-color: var(--congress-blue);
+  border-radius: 38.77px;
+  height: 78px;
+  left: 46px;
+  position: absolute;
+  top: 15px;
+  width: 409px;
+}
+
+.gatitos .ellipse-5 {
+  background-color: var(--red-violet);
+  border: 1.2px solid;
+  border-color: var(--white);
+  border-radius: 53.05px;
+  height: 107px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.gatitos .desarrollo-cerebral {
+  height: 65px;
+  left: 116px;
+  letter-spacing: 0.3px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 314px;
+  margin-top: 10px;
+}
+
+.gatitos .go-yrp-k {
+  display: flex;
+  height: 47px;
+  left: 23px;
+  position: absolute;
+  top: 31px;
+  width: 58px;
+}
+
+.gatitos .group-721 {
+  display: flex;
+  flex: 1;
+  width: 58.35px;
+}
+
+.gatitos .group-720 {
+  align-items: flex-start;
+  background-image: url(../img/path-2127@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 58.35px;
+  padding: 10.4px 6.9px;
+}
+
+.gatitos .path-container-6 {
+  height: 25px;
+  position: relative;
+  width: 36px;
+}
+
+.gatitos .path-2128 {
+  height: 19px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 17px;
+}
+
+.gatitos .path-2129 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.gatitos .path-2130 {
+  height: 4px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 7px;
+}
+
+.gatitos .overlap-group2-1 {
+  height: 122px;
+  margin-left: 2.79px;
+  margin-top: 65px;
+  position: relative;
+  width: 452px;
+}
+
+.gatitos .overlap-group-2 {
+  height: 107px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 452px;
+}
+
+.gatitos .rectangle-339 {
+  background-color: var(--congress-blue);
+  border-radius: 38.77px;
+  height: 78px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 409px;
+}
+
+.gatitos .ellipse-56 {
+  background-color: var(--red-violet);
+  border: 1.2px solid;
+  border-color: var(--white);
+  border-radius: 53.05px;
+  height: 107px;
+  left: 344px;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.gatitos .refuerza-el-sistema-inmune {
+  height: 109px;
+  left: 21px;
+  letter-spacing: 0.3px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 319px;
+  margin-top: 10px;
+}
+
+.gatitos .ir-fmi-p {
+  display: flex;
+  height: 61px;
+  left: 371px;
+  position: absolute;
+  top: 23px;
+  width: 51px;
+}
+
+.gatitos .group-725 {
+  align-items: flex-end;
+  background-image: url(../img/path-2131@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  min-width: 50.94px;
+  padding: 18px 15.1px;
+}
+
+.gatitos .path-2132 {
+  height: 17px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.gatitos .overlap-group3 {
+  height: 107px;
+  margin-left: 0.49px;
+  margin-top: 57px;
+  position: relative;
+  width: 455px;
+}
+
+.gatitos .rectangle-340 {
+  background-color: var(--congress-blue);
+  border-radius: 38.77px;
+  height: 78px;
+  left: 45px;
+  position: absolute;
+  top: 15px;
+  width: 409px;
+}
+
+.gatitos .sano-crecimiento {
+  height: 65px;
+  left: 119px;
+  letter-spacing: 0.3px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  width: 314px;
+  margin-top: 10px;
+}
+
+.gatitos .overlap-group1-3 {
+  height: 62px;
+  left: 21px;
+  position: absolute;
+  top: 21px;
+  width: 54px;
+}
+
+.gatitos .path-container-7 {
+  height: 62px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.gatitos .path-2133 {
+  height: 50px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 37px;
+}
+
+.gatitos .path-2134 {
+  height: 62px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.gatitos .path-2135 {
+  height: 3px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 7px;
+}
+
+.gatitos .path-2136 {
+  height: 3px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 35px;
+}
+
+.gatitos .path-2137 {
+  height: 18px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 6px;
+}
+
+.gatitos .path-2138 {
+  height: 37px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 31px;
+}
+
+.gatitos .group-732 {
+  height: 410px;
+  left: 1727px;
+  position: absolute;
+  top: 4161px;
+  width: 397px;
+}
+
+.gatitos .path-container-8 {
+  height: 360px;
+  left: 49px;
+  position: absolute;
+  top: 49px;
+  width: 348px;
+}
+
+.gatitos .path-2139 {
+  height: 249px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 111px;
+  width: 285px;
+}
+
+.gatitos .path-2141 {
+  height: 127px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 110px;
+}
+
+.gatitos .path-2142 {
+  height: 119px;
+  left: 242px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 100px;
+}
+
+.gatitos .path-2140 {
+  height: 129px;
+  left: 163px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.gatitos .path-2143 {
+  height: 115px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 177px;
+  width: 106px;
+}
+
+.gatitos .group-738 {
+  align-items: flex-start;
+  display: flex;
+  height: 295px;
+  left: 296px;
+  min-width: 1535px;
+  position: absolute;
+  top: 1174px;
+}
+
+.gatitos .group-737 {
+  align-self: flex-end;
+  height: 182px;
+  position: relative;
+  width: 155px;
+}
+
+.gatitos .path-container {
+  height: 158px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 130px;
+}
+
+.gatitos .path-2 {
+  height: 110px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 96px;
+}
+
+.gatitos .path-2-1 {
+  height: 34px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.gatitos .path-2-2 {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 124px;
+  width: 37px;
+}
+
+.gatitos .path-2-3 {
+  height: 35px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 40px;
+}
+
+.gatitos .path-2-4 {
+  height: 34px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 38px;
+}
+
+.gatitos .group-736 {
+  align-self: flex-end;
+  height: 181px;
+  margin-bottom: 20.99px;
+  margin-left: 250px;
+  position: relative;
+  width: 157px;
+}
+
+.gatitos .path-container-1 {
+  height: 159px;
+  left: 25px;
+  position: absolute;
+  top: 22px;
+  width: 133px;
+}
+
+.gatitos .path-2-5 {
+  height: 107px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 98px;
+}
+
+.gatitos .path-2-6 {
+  height: 38px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 121px;
+  width: 38px;
+}
+
+.gatitos .path-2-7 {
+  height: 36px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.gatitos .path-2-8 {
+  height: 36px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.gatitos .path-2-9 {
+  height: 36px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 87px;
+  width: 36px;
+}
+
+.gatitos .group-735 {
+  align-self: center;
+  height: 184px;
+  margin-bottom: 39.28px;
+  margin-left: 177px;
+  position: relative;
+  width: 149px;
+}
+
+.gatitos .path-container-2 {
+  height: 135px;
+  left: 38px;
+  position: absolute;
+  top: 0;
+  width: 112px;
+}
+
+.gatitos .path-2-10 {
+  height: 109px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 92px;
+}
+
+.gatitos .path-2-11 {
+  height: 33px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.gatitos .path-2-12 {
+  height: 35px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 149px;
+  width: 39px;
+}
+
+.gatitos .path-2-13 {
+  height: 33px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 38px;
+}
+
+.gatitos .path-2-14 {
+  height: 34px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 120px;
+  width: 37px;
+}
+
+.gatitos .group-734 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-left: 169px;
+  min-height: 175px;
+  width: 166px;
+}
+
+.gatitos .path-container-9 {
+  align-items: flex-start;
+  display: flex;
+  gap: 30px;
+  height: 49px;
+  margin-left: 17.59px;
+  min-width: 109px;
+}
+
+.gatitos .path-2-15 {
+  align-self: flex-end;
+  height: 38px;
+  object-fit: cover;
+  width: 39px;
+}
+
+.gatitos .path-2-16 {
+  height: 39px;
+  object-fit: cover;
+  width: 40px;
+}
+
+.gatitos .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 3px;
+  height: 121px;
+  margin-left: 0;
+  min-width: 166px;
+}
+
+.gatitos .path-container-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  min-height: 103px;
+  width: 58px;
+}
+
+.gatitos .path-2-17 {
+  height: 38px;
+  object-fit: cover;
+  width: 37px;
+}
+
+.gatitos .path-2-18 {
+  align-self: flex-end;
+  height: 40px;
+  object-fit: cover;
+  width: 39px;
+}
+
+.gatitos .path-2-19 {
+  height: 110px;
+  object-fit: cover;
+  width: 105px;
+}
+
+.gatitos .group-733 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-left: 143px;
+  margin-top: 6.98px;
+  min-height: 216px;
+  width: 169px;
+}
+
+.gatitos .path-2-20 {
+  height: 39px;
+  margin-left: 21.33px;
+  object-fit: cover;
+  width: 47px;
+}
+
+.gatitos .overlap-group1 {
+  height: 174px;
+  margin-left: 0;
+  position: relative;
+  width: 169px;
+}
+
+.gatitos .overlap-group2 {
+  height: 174px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.gatitos .path-container-4 {
+  height: 164px;
+  left: 40px;
+  position: absolute;
+  top: 10px;
+  width: 120px;
+}
+
+.gatitos .path-2-21 {
+  height: 125px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 106px;
+}
+
+.gatitos .path-2-22 {
+  height: 41px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 123px;
+  width: 44px;
+}
+
+.gatitos .path-2-23 {
+  height: 39px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.gatitos .path-2-24 {
+  height: 40px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 42px;
+}
+
+.gatitos .group-739 {
+  height: 482px;
+  left: 24px;
+  position: absolute;
+  top: 2482px;
+  width: 469px;
+}
+
+.gatitos .path-container-10 {
+  height: 482px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 422px;
+}
+
+.gatitos .path-2169 {
+  height: 295px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 187px;
+  width: 329px;
+}
+
+.gatitos .path-2170 {
+  height: 147px;
+  left: 290px;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 132px;
+}
+
+.gatitos .path-2171 {
+  height: 151px;
+  left: 165px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 127px;
+}
+
+.gatitos .path-2173 {
+  height: 139px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 118px;
+}
+
+.gatitos .path-2172 {
+  height: 133px;
+  left: 344px;
+  object-fit: cover;
+  position: absolute;
+  top: 221px;
+  width: 126px;
+}
+
+.gatitos .group-740 {
+  height: 398px;
+  left: 0;
+  position: absolute;
+  top: 3719px;
+  width: 386px;
+}
+
+.gatitos .path-container-11 {
+  height: 350px;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: 339px;
+}
+
+.gatitos .path-2174 {
+  height: 242px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 108px;
+  width: 277px;
+}
+
+.gatitos .path-2176 {
+  height: 123px;
+  left: 232px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.gatitos .path-2177 {
+  height: 116px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 97px;
+}
+
+.gatitos .path-2175 {
+  height: 126px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 104px;
+}
+
+.gatitos .path-2178 {
+  height: 112px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 172px;
+  width: 103px;
+}
+
+.gatitos .overlap-group-container-1 {
+  height: 517px;
+  left: 454px;
+  position: absolute;
+  top: 1602px;
+  width: 1210px;
+}
+
+.gatitos .overlap-group3-1 {
+  height: 517px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 1198px;
+}
+
+.gatitos .en-el-primer-ao-de {
+  height: 330px;
+  left: 0;
+  letter-spacing: 0.38px;
+  line-height: 46px;
+  position: absolute;
+  top: 187px;
+  width: 600px;
+}
+
+.gatitos .span1-1 {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+}
+
+.gatitos .group-container-1 {
+  height: 513px;
+  left: 585px;
+  position: absolute;
+  top: 0;
+  width: 613px;
+}
+
+.gatitos .group-741 {
+  background-image: url(../img/path-2179@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 347px;
+  left: 265px;
+  position: absolute;
+  top: 79px;
+  width: 348px;
+}
+
+.gatitos .group-744 {
+  display: flex;
+  height: 511px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 397px;
+}
+
+.gatitos .group-743 {
+  display: flex;
+  flex: 1;
+  width: 397.37px;
+}
+
+.gatitos .group-742 {
+  background-image: url(../img/rectangle-341@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  width: 397.37px;
+}
+
+.gatitos .rectangle-342 {
+  flex: 1;
+  margin-bottom: -17px;
+  margin-left: -12px;
+  margin-right: -12px;
+  margin-top: -7px;
+  object-fit: cover;
+  width: 421.37px;
+}
+
+.gatitos .overlap-group1-4 {
+  height: 119px;
+  left: 42px;
+  position: absolute;
+  top: 0;
+  width: 119px;
+}
+
+.gatitos .overlap-group-3 {
+  align-items: flex-end;
+  background-image: url(../img/path-2180@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 119px;
+  left: 0;
+  min-width: 119px;
+  padding: 7.3px 7.3px;
+  position: absolute;
+  top: 0;
+}
+
+.gatitos .ellipse-58 {
+  background-color: var(--white);
+  border-radius: 52.34px;
+  height: 105px;
+  width: 105px;
+}
+
+.gatitos .path-2181 {
+  height: 23px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 21px;
+}
+
+.gatitos .path-2182 {
+  height: 24px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 12px;
+}
+
+.gatitos .group-748 {
+  height: 32px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 90px;
+}
+
+.gatitos .group-749 {
+  height: 29px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 68px;
+  width: 74px;
+}
+
+.gatitos .overlap-group4 {
+  background-color: var(--white);
+  border: 17.22px solid;
+  border-color: var(--cerulean);
+  border-radius: 68.93px;
+  height: 155px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 244px;
+}
+
+.gatitos .protena {
+  color: var(--cerulean);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 30.8px;
+  height: 65px;
+  left: 24px;
+  letter-spacing: 0.31px;
+  line-height: 36.9px;
+  top: 59px;
+  width: 156px;
+}
+
+.gatitos .group-754 {
+  display: flex;
+  height: 42px;
+  left: 49px;
+  position: absolute;
+  top: 22px;
+  width: 118px;
+}
+
+.gatitos .group-753 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 4px;
+  min-width: 118.06px;
+}
+
+.gatitos .path-2209 {
+  height: 42px;
+  object-fit: cover;
+  width: 31px;
+}
+
+.gatitos .path-2210 {
+  align-self: center;
+  height: 41px;
+  margin-bottom: 0.06px;
+  object-fit: cover;
+  width: 36px;
+}
+
+.gatitos .path-2211 {
+  align-self: flex-end;
+  height: 42px;
+  object-fit: cover;
+  width: 44px;
+}
+
+.gatitos .overlap-group9 {
+  height: 548px;
+  left: 583px;
+  position: absolute;
+  top: 2561px;
+  width: 961px;
+}
+
+.gatitos .overlap-group-4 {
+  height: 548px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 961px;
+}
+
+.gatitos .rectangle-346 {
+  background-color: var(--lochmara);
+  border-radius: 0px 0px 0px 11.42px;
+  height: 453px;
+  left: 0;
+  position: absolute;
+  top: 94px;
+  width: 647px;
+}
+
+.gatitos .rectangle-347 {
+  background-color: var(--white);
+  border-radius: 0px 0px 11.27px 0px;
+  height: 432px;
+  left: 647px;
+  position: absolute;
+  top: 116px;
+  width: 314px;
+}
+
+.gatitos .path-2212 {
+  height: 115px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 959px;
+}
+
+.gatitos .percent {
+  left: 738px;
+  letter-spacing: 2.06px;
+  line-height: 34px;
+  top: 122px;
+}
+
+.gatitos .percent-1 {
+  left: 740px;
+  letter-spacing: 2.06px;
+  line-height: 34px;
+  top: 181px;
+}
+
+.gatitos .percent-2 {
+  left: 750px;
+  letter-spacing: 2.06px;
+  line-height: 34px;
+  top: 240px;
+}
+
+.gatitos .percent-3 {
+  left: 750px;
+  letter-spacing: 2.06px;
+  line-height: 34px;
+  top: 301px;
+}
+
+.gatitos .percent-4 {
+  left: 753px;
+  letter-spacing: 2.06px;
+  line-height: 34px;
+  top: 420px;
+}
+
+.gatitos .percent-5 {
+  left: 750px;
+  letter-spacing: 2.06px;
+  line-height: 34px;
+  top: 481px;
+}
+
+.gatitos .line-118 {
+  height: 1px;
+  left: 2px;
+  top: 172px;
+  width: 959px;
+}
+
+.gatitos .line-119 {
+  height: 1px;
+  left: 2px;
+  top: 233px;
+  width: 959px;
+}
+
+.gatitos .line-120 {
+  height: 1px;
+  left: 2px;
+  top: 290px;
+  width: 959px;
+}
+
+.gatitos .line-121 {
+  height: 1px;
+  left: 2px;
+  top: 351px;
+  width: 959px;
+}
+
+.gatitos .line-122 {
+  height: 1px;
+  left: 2px;
+  top: 413px;
+  width: 959px;
+}
+
+.gatitos .line-123 {
+  height: 1px;
+  left: 2px;
+  top: 474px;
+  width: 959px;
+}
+
+.gatitos .line-124 {
+  height: 432px;
+  left: 647px;
+  top: 116px;
+  width: 1px;
+}
+
+.gatitos .rectangle-348 {
+  border: 0.66px solid;
+  border-color: var(--congress-blue-3);
+  border-radius: 98.52px 98.52px 10.81px 10.81px;
+  height: 548px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 959px;
+}
+
+.gatitos .anlisis-garantizado {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 58.7px;
+  left: 136px;
+  letter-spacing: 3.52px;
+  line-height: 58.3px;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.gatitos .percent-6 {
+  left: 740px;
+  letter-spacing: 2.06px;
+  line-height: 34px;
+  top: 360px;
+}
+
+.gatitos .protena-cruda-mn {
+  left: 74px;
+  letter-spacing: 2.06px;
+  line-height: 34px;
+  position: absolute;
+  top: 126px;
+  white-space: nowrap;
+}
+
+.gatitos .grasa-cruda-mn {
+  left: 74px;
+  letter-spacing: 2.06px;
+  line-height: 34px;
+  position: absolute;
+  top: 183px;
+  white-space: nowrap;
+}
+
+.gatitos .fibra-cruda-mx {
+  left: 74px;
+  letter-spacing: 2.06px;
+  line-height: 34px;
+  position: absolute;
+  top: 244px;
+  white-space: nowrap;
+}
+
+.gatitos .ceniza-mx {
+  left: 74px;
+  letter-spacing: 2.06px;
+  line-height: 34px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+}
+
+.gatitos .calcio-mn {
+  left: 74px;
+  letter-spacing: 2.06px;
+  line-height: 34px;
+  position: absolute;
+  top: 424px;
+  white-space: nowrap;
+}
+
+.gatitos .fsforo-mn {
+  left: 74px;
+  letter-spacing: 2.06px;
+  line-height: 34px;
+  position: absolute;
+  top: 485px;
+  white-space: nowrap;
+}
+
+.gatitos .humedad-mx {
+  left: 74px;
+  letter-spacing: 2.06px;
+  line-height: 34px;
+  position: absolute;
+  top: 364px;
+  white-space: nowrap;
+}
+
+.gatitos .rectangle-349 {
+  background-color: var(--congress-blue);
+  border: 0.92px solid;
+  border-radius: 22.01px;
+  height: 71px;
+  left: 744px;
+  position: absolute;
+  top: 3845px;
+  width: 293px;
+}
+
+.gatitos .rectangle-350 {
+  background-color: var(--congress-blue);
+  border: 0.92px solid;
+  border-radius: 22.39px;
+  height: 71px;
+  left: 1053px;
+  position: absolute;
+  top: 3845px;
+  width: 316px;
+}
+
+.gatitos .rectangle-351 {
+  background-color: var(--white);
+  border: 0.86px solid;
+  border-color: var(--congress-blue);
+  border-radius: 30.26px;
+  height: 227px;
+  left: 432px;
+  position: absolute;
+  top: 3923px;
+  width: 297px;
+}
+
+.gatitos .rectangle-352 {
+  background-color: var(--congress-blue);
+  border: 0.92px solid;
+  border-radius: 24.36px;
+  height: 71px;
+  left: 432px;
+  position: absolute;
+  top: 3844px;
+  width: 299px;
+}
+
+.gatitos .edad-meses {
+  height: 52px;
+  left: 474px;
+  letter-spacing: 0;
+  line-height: 39.9px;
+  position: absolute;
+  text-align: center;
+  top: 3863px;
+  width: 236px;
+}
+
+.gatitos .address {
+  height: 210px;
+  left: 511px;
+  line-height: 71px;
+  top: 3921px;
+  width: 141px;
+}
+
+.gatitos .rectangle-353 {
+  background-color: var(--white);
+  border: 0.86px solid;
+  border-color: var(--congress-blue);
+  border-radius: 36.4px;
+  height: 228px;
+  left: 746px;
+  position: absolute;
+  top: 3923px;
+  width: 292px;
+}
+
+.gatitos .address-1 {
+  height: 213px;
+  left: 743px;
+  line-height: 71px;
+  top: 3918px;
+  width: 294px;
+}
+
+.gatitos .cantidades-g {
+  height: 52px;
+  left: 777px;
+  letter-spacing: 0;
+  line-height: 39.9px;
+  position: absolute;
+  text-align: center;
+  top: 3864px;
+  width: 236px;
+}
+
+.gatitos .rectangle-354 {
+  background-color: var(--white);
+  border: 0.86px solid;
+  border-color: var(--congress-blue);
+  border-radius: 28.11px;
+  height: 228px;
+  left: 1053px;
+  position: absolute;
+  top: 3923px;
+  width: 314px;
+}
+
+.gatitos .x15-a-12-12 {
+  height: 214px;
+  left: 1079px;
+  letter-spacing: 0;
+  line-height: 71px;
+  position: absolute;
+  text-align: center;
+  top: 3917px;
+  width: 246px;
+}
+
+.gatitos .cantidad-tazas {
+  height: 52px;
+  left: 1082px;
+  line-height: 39.9px;
+  top: 3863px;
+  width: 260px;
+}
+
+.gatitos .rectangle-355 {
+  background-color: var(--congress-blue);
+  border: 0.92px solid;
+  border-radius: 22.32px;
+  height: 71px;
+  left: 1381px;
+  position: absolute;
+  top: 3845px;
+  width: 314px;
+}
+
+.gatitos .rectangle-356 {
+  background-color: var(--white);
+  border: 0.86px solid;
+  border-color: var(--congress-blue);
+  border-radius: 32.64px;
+  height: 228px;
+  left: 1381px;
+  position: absolute;
+  top: 3923px;
+  width: 314px;
+}
+
+.gatitos .address-2 {
+  height: 209px;
+  left: 1403px;
+  line-height: 71px;
+  top: 3922px;
+  width: 253px;
+}
+
+.gatitos .veces-al-da {
+  height: 52px;
+  left: 1409px;
+  letter-spacing: 0;
+  line-height: 39.9px;
+  position: absolute;
+  text-align: center;
+  top: 3861px;
+  width: 260px;
+}
+
+.gatitos .gua-de-alimentacin-diaria {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 112px;
+  left: 205px;
+  letter-spacing: 0;
+  line-height: 50.8px;
+  position: absolute;
+  text-align: center;
+  top: 3747px;
+  white-space: nowrap;
+}
+
+.gatitos .otros-productos {
+  height: 211px;
+  left: 649px;
+  letter-spacing: 0;
+  line-height: 73.1px;
+  position: absolute;
+  text-align: center;
+  top: 5091px;
+  width: 811px;
+}
+
+.gatitos .group-762 {
+  background-image: url(../img/path-2219@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 235px;
+  left: 1581px;
+  position: absolute;
+  top: 4620px;
+  width: 305px;
+}
+
+.gatitos .path-container-12 {
+  height: 72px;
+  left: 82px;
+  position: absolute;
+  top: 79px;
+  width: 36px;
+}
+
+.gatitos .path-2220 {
+  height: 50px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.gatitos .path-2221 {
+  height: 27px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 45px;
+  width: 12px;
+}
+
+.gatitos .path-2222 {
+  height: 28px;
+  left: 77px;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 12px;
+}
+
+.gatitos .group-763 {
+  align-items: flex-end;
+  background-color: var(--congress-blue-2);
+  border-radius: 43.74px;
+  display: flex;
+  height: 87px;
+  justify-content: flex-end;
+  left: 871px;
+  min-width: 385px;
+  padding: 0 82.3px;
+  position: absolute;
+  top: 184px;
+}
+
+.gatitos .gatitos-2 {
+  letter-spacing: 0;
+  line-height: 61.8px;
+  margin-bottom: -2.07px;
+  min-height: 72px;
+  min-width: 218px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.gatitos .line-125 {
+  height: 2px;
+  left: 487px;
+  top: 4000px;
+  width: 186px;
+}
+
+.gatitos .line-126 {
+  height: 2px;
+  left: 487px;
+  top: 4079px;
+  width: 186px;
+}
+
+.gatitos .line-127 {
+  height: 2px;
+  left: 801px;
+  top: 4000px;
+  width: 186px;
+}
+
+.gatitos .line-128 {
+  height: 2px;
+  left: 801px;
+  top: 4076px;
+  width: 186px;
+}
+
+.gatitos .line-129 {
+  height: 2px;
+  left: 1107px;
+  top: 4000px;
+  width: 186px;
+}
+
+.gatitos .line-130 {
+  height: 2px;
+  left: 1107px;
+  top: 4076px;
+  width: 186px;
+}
+
+.gatitos .line-131 {
+  height: 2px;
+  left: 1441px;
+  top: 4000px;
+  width: 186px;
+}
+
+.gatitos .line-132 {
+  height: 2px;
+  left: 1441px;
+  top: 4076px;
+  width: 186px;
+}
+
+.gatitos .group-770 {
+  align-items: flex-start;
+  display: flex;
+  gap: 15px;
+  height: 274px;
+  justify-content: flex-end;
+  left: 180px;
+  min-width: 1766px;
+  position: absolute;
+  top: 4213px;
+}
+
+.gatitos .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 0.57px;
+  min-height: 270px;
+  width: 877px;
+}
+
+.gatitos .overlap-group15 {
+  height: 72px;
+  position: relative;
+  width: 877px;
+}
+
+.gatitos .rectangle-36 {
+  background-color: var(--congress-blue);
+  border: 0.92px solid;
+  border-radius: 25.76px;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 877px;
+}
+
+.gatitos .gatas-en-perodo-de-gestacin {
+  font-size: 32.9px;
+  height: 54px;
+  left: 140px;
+  line-height: 39.5px;
+  top: 18px;
+  width: 599px;
+}
+
+.gatitos .overlap-group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 0.65px;
+  min-width: 845px;
+}
+
+.gatitos .overlap-group14 {
+  background-color: var(--white);
+  border: 0.86px solid;
+  border-color: var(--congress-blue);
+  border-radius: 32.57px;
+  height: 192px;
+  position: relative;
+  width: 275px;
+}
+
+.gatitos .overlap-group1-5 {
+  height: 158px;
+  left: 54px;
+  position: absolute;
+  top: 9px;
+  width: 167px;
+}
+
+.gatitos .peso-kg {
+  color: var(--congress-blue);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 35.3px;
+  height: 63px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 42.3px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 167px;
+}
+
+.gatitos .address-3 {
+  color: var(--congress-blue);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 35.3px;
+  left: 12px;
+  line-height: 61.7px;
+  top: 43px;
+  white-space: nowrap;
+}
+
+.gatitos .line-135 {
+  height: 2px;
+  left: 44px;
+  top: 121px;
+  width: 186px;
+}
+
+.gatitos .overlap-group11 {
+  background-color: var(--white);
+  border: 0.86px solid;
+  border-color: var(--congress-blue);
+  border-radius: 27.8px;
+  height: 192px;
+  margin-left: 10px;
+  position: relative;
+  width: 275px;
+}
+
+.gatitos .overlap-group2-2 {
+  height: 148px;
+  left: 27px;
+  position: absolute;
+  top: 19px;
+  width: 210px;
+}
+
+.gatitos .cantidad-g {
+  color: var(--congress-blue);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 32.9px;
+  height: 59px;
+  left: 0;
+  line-height: 39.5px;
+  top: 0;
+  width: 210px;
+}
+
+.gatitos .address-4 {
+  color: var(--congress-blue);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 32.9px;
+  left: 39px;
+  line-height: 57.6px;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.gatitos .line-134 {
+  height: 2px;
+  left: 38px;
+  top: 121px;
+  width: 186px;
+}
+
+.gatitos .overlap-group12 {
+  background-color: var(--white);
+  border: 0.86px solid;
+  border-color: var(--congress-blue);
+  border-radius: 29.35px;
+  height: 192px;
+  margin-left: 9px;
+  position: relative;
+  width: 275px;
+}
+
+.gatitos .overlap-group-5 {
+  height: 148px;
+  left: 16px;
+  position: absolute;
+  top: 19px;
+  width: 251px;
+}
+
+.gatitos .cantidad-tazas-1 {
+  color: var(--congress-blue);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 32.9px;
+  height: 59px;
+  left: 0;
+  line-height: 39.5px;
+  position: absolute;
+  top: 0;
+  width: 251px;
+}
+
+.gatitos .x12-a-3434-a-1-18 {
+  color: var(--congress-blue);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 32.9px;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: 57.6px;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.gatitos .line-133 {
+  height: 2px;
+  left: 42px;
+  top: 121px;
+  width: 186px;
+}
+
+.gatitos .overlap-group13 {
+  height: 273px;
+  margin-top: -0.92px;
+  position: relative;
+  width: 877px;
+}
+
+.gatitos .rectangle-358 {
+  background-color: var(--white);
+  border: 0.86px solid;
+  border-color: var(--congress-blue);
+  border-radius: 29.35px;
+  height: 192px;
+  left: 587px;
+  position: absolute;
+  top: 81px;
+  width: 275px;
+}
+
+.gatitos .rectangle-359 {
+  background-color: var(--white);
+  border: 0.86px solid;
+  border-color: var(--congress-blue);
+  border-radius: 32.57px;
+  height: 192px;
+  left: 17px;
+  position: absolute;
+  top: 81px;
+  width: 275px;
+}
+
+.gatitos .rectangle-360 {
+  background-color: var(--white);
+  border: 0.86px solid;
+  border-color: var(--congress-blue);
+  border-radius: 27.8px;
+  height: 192px;
+  left: 302px;
+  position: absolute;
+  top: 81px;
+  width: 275px;
+}
+
+.gatitos .gatas-en-perodo-de-lactancia {
+  font-size: 33.8px;
+  height: 86px;
+  left: 137px;
+  line-height: 40.6px;
+  top: 16px;
+  width: 574px;
+}
+
+.gatitos .overlap-group3-2 {
+  height: 162px;
+  left: 50px;
+  position: absolute;
+  top: 102px;
+  width: 188px;
+}
+
+.gatitos .peso-kg-1 {
+  height: 61px;
+  left: 14px;
+  line-height: 40.6px;
+  top: 0;
+  width: 160px;
+}
+
+.gatitos .address-5 {
+  height: 128px;
+  left: 0;
+  line-height: 59.2px;
+  top: 34px;
+  width: 188px;
+}
+
+.gatitos .overlap-group4-1 {
+  height: 163px;
+  left: 338px;
+  position: absolute;
+  top: 101px;
+  width: 202px;
+}
+
+.gatitos .cantidad-g-1 {
+  height: 61px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40.6px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 202px;
+}
+
+.gatitos .address-6 {
+  height: 129px;
+  left: 7px;
+  line-height: 59.2px;
+  top: 34px;
+  width: 188px;
+}
+
+.gatitos .overlap-group5 {
+  height: 166px;
+  left: 605px;
+  position: absolute;
+  top: 98px;
+  width: 241px;
+}
+
+.gatitos .cantidad-tazas-2 {
+  height: 61px;
+  left: 0;
+  line-height: 40.6px;
+  position: absolute;
+  top: 0;
+  width: 241px;
+}
+
+.gatitos .x34-a-11-a-1-23 {
+  height: 132px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 59.2px;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: 188px;
+}
+
+.gatitos .line-136 {
+  height: 2px;
+  left: 51px;
+  top: 204px;
+  width: 186px;
+}
+
+.gatitos .line-137 {
+  height: 2px;
+  left: 342px;
+  top: 204px;
+  width: 186px;
+}
+
+.gatitos .line-138 {
+  height: 2px;
+  left: 627px;
+  top: 204px;
+  width: 186px;
+}
+
+.gatitos .group-772 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 487px;
+  min-height: 722px;
+  position: absolute;
+  top: 5171px;
+  width: 1149px;
+}
+
+.gatitos .overlap-group16 {
+  height: 564px;
+  margin-left: 0;
+  margin-top: -3px;
+  position: relative;
+  width: 1149px;
+}
+
+.gatitos .ellipse-59 {
+  background-color: var(--sunglow);
+  border-radius: 574.39px/59.3px;
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 446px;
+  width: 1149px;
+}
+
+.gatitos .path-2508 {
+  cursor: pointer;
+  height: 550px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 433px;
+  transition: 0.2s;
+}
+
+.gatitos .path-2508:hover {
+  transform: scale(1.05);
+}
+
+.gatitos .rectangle-367 {
+  cursor: pointer;
+  height: 564px;
+  left: 683px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 443px;
+  transition: 0.2s;
+}
+
+.gatitos .rectangle-367:hover {
+  transform: scale(1.05);
+}
+
+.gatitos .group-771 {
+  cursor: pointer;
+  display: flex;
+  height: 537px;
+  left: 366px;
+  position: absolute;
+  top: 5px;
+  width: 418px;
+}
+
+.gatitos .rectangle-368 {
+  flex: 1;
+  margin-bottom: -17.5px;
+  margin-left: -10.5px;
+  margin-right: -10.5px;
+  margin-top: -3.5px;
+  object-fit: cover;
+  width: 438.61px;
+  transition: 0.2s;
+}
+
+.gatitos .rectangle-368:hover {
+  transform: scale(1.05);
+}
+
+.gatitos .flex-row-1 {
+  height: 145px;
+  margin-left: 22.95px;
+  min-width: 914px;
+}
+
+.gatitos .adultos-pollo {
+  height: 132px;
+  line-height: 30px;
+  width: 246px;
+}
+
+.gatitos .span1 {
+  color: var(--eerie-black);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 30px;
+}
+
+.gatitos .adultos-mar {
+  height: 132px;
+  line-height: 30px;
+  margin-left: 78px;
+  width: 246px;
+}
+
+.gatitos .senior {
+  margin-left: 83px;
+}
+
+.gatitos .group-773 {
+  height: 520px;
+  left: 1645px;
+  position: absolute;
+  top: 3004px;
+  width: 507px;
+}
+
+.gatitos .path-container-13 {
+  height: 520px;
+  left: 51px;
+  position: absolute;
+  top: 0;
+  width: 456px;
+}
+
+.gatitos .path-2223 {
+  height: 319px;
+  left: 101px;
+  object-fit: cover;
+  position: absolute;
+  top: 201px;
+  width: 355px;
+}
+
+.gatitos .path-2224 {
+  height: 159px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 142px;
+}
+
+.gatitos .path-2225 {
+  height: 163px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.gatitos .path-2227 {
+  height: 150px;
+  left: 306px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 128px;
+}
+
+.gatitos .path-2226 {
+  height: 143px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 239px;
+  width: 136px;
+}
+
+.gatitos .group-776 {
+  height: 155px;
+  left: 173px;
+  position: absolute;
+  top: 0;
+  width: 1781px;
+}
+
+.gatitos .overlap-group1-1 {
+  height: 155px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1781px;
+}
+
+.gatitos .line-1 {
+  height: 3px;
+  left: 0;
+  top: 128px;
+  width: 1781px;
+}
+
+.gatitos .group-775 {
+  background-image: url(../img/group-130@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 155px;
+  left: 753px;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+
+.gatitos .sobre-nosotros {
+  cursor: pointer;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.gatitos .productos {
+  cursor: pointer;
+}
+
+.gatitos .tqpets {
+  cursor: pointer;
+}
+
+.gatitos .contctanos {
+  cursor: pointer;
+}
+
+.gatitos .group-761 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  left: 179px;
+  min-height: 361px;
+  position: absolute;
+  top: 3196px;
+  width: 1771px;
+}
+
+.gatitos .group-760 {
+  align-items: flex-start;
+  background-image: url(../img/path-2213@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10.23px;
+  min-height: 89px;
+  padding: 12.8px 73.4px;
+  width: 170px;
+}
+
+.gatitos .path-container-14 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 2px;
+  margin-left: 0.09px;
+  margin-top: 44px;
+  min-width: 13px;
+}
+
+.gatitos .path-2216 {
+  height: 6px;
+  object-fit: cover;
+  width: 5px;
+}
+
+.gatitos .path-2215 {
+  align-self: flex-end;
+  height: 6px;
+  object-fit: cover;
+  width: 5px;
+}
+
+.gatitos .path-container-5 {
+  height: 14px;
+  position: relative;
+  width: 23px;
+}
+
+.gatitos .path-2-25 {
+  height: 11px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.gatitos .path-2-26 {
+  height: 4px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.gatitos .path-2-27 {
+  height: 4px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.gatitos .overlap-group19 {
+  height: 231px;
+  position: relative;
+  width: 1771px;
+}
+
+.gatitos .cmo-alimentar-a-tu-gatito {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 101.7px;
+  height: 231px;
+  left: 0;
+  line-height: 76.3px;
+  width: 1771px;
+}
+
+.gatitos .considera-su-peso-y {
+  left: 129px;
+  letter-spacing: 0;
+  line-height: 64px;
+  position: absolute;
+  text-align: center;
+  top: 80px;
+  white-space: nowrap;
+}
+
+.gatitos .x137800343_9225633a-9 {
+  height: 394px;
+  left: 1238px;
+  object-fit: cover;
+  position: absolute;
+  top: 1743px;
+  width: 393px;
+}
+
+.gatitos .overlap-group21 {
+  height: 5832px;
+  left: 1883px;
+  position: absolute;
+  top: 157px;
+  width: 2254px;
+}
+
+.gatitos .rectangle-373 {
+  background-color: var(--banana);
+  height: 1420px;
+  left: 191px;
+  position: absolute;
+  top: 4413px;
+  width: 1920px;
+}
+
+.gatitos .path-2228 {
+  height: 2325px;
+  left: 191px;
+  object-fit: cover;
+  position: absolute;
+  top: 2265px;
+  width: 1926px;
+}
+
+.gatitos .path-2229 {
+  height: 1207px;
+  left: 191px;
+  object-fit: cover;
+  position: absolute;
+  top: 1291px;
+  width: 1924px;
+}
+
+.gatitos .path-2230 {
+  height: 1454px;
+  left: 191px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1920px;
+}
+
+.gatitos .group-779 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 1719px;
+  min-height: 216px;
+  position: absolute;
+  top: 1246px;
+  width: 169px;
+}
+
+.gatitos .group-780 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 1410px;
+  min-height: 175px;
+  position: absolute;
+  top: 1239px;
+  width: 166px;
+}
+
+.gatitos .path-container-15 {
+  align-items: flex-start;
+  display: flex;
+  gap: 30px;
+  height: 49px;
+  margin-left: 17.6px;
+  min-width: 109px;
+}
+
+.gatitos .flex-row-2 {
+  gap: 3px;
+  height: 121px;
+  margin-right: 0;
+  min-width: 166px;
+}
+
+.gatitos .group-781 {
+  height: 184px;
+  left: 1092px;
+  position: absolute;
+  top: 1275px;
+  width: 149px;
+}
+
+.gatitos .group-783 {
+  display: flex;
+  height: 467px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 3715px;
+  width: 453px;
+}
+
+.gatitos .group-782 {
+  flex: 1;
+  position: relative;
+  width: 452.8px;
+}
+
+.gatitos .path-container-16 {
+  height: 411px;
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 397px;
+}
+
+.gatitos .path-2246 {
+  height: 284px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 127px;
+  width: 325px;
+}
+
+.gatitos .path-2248 {
+  height: 144px;
+  left: 272px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 125px;
+}
+
+.gatitos .path-2249 {
+  height: 135px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 114px;
+}
+
+.gatitos .path-2247 {
+  height: 147px;
+  left: 145px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 122px;
+}
+
+.gatitos .path-2250 {
+  height: 131px;
+  left: 332px;
+  object-fit: cover;
+  position: absolute;
+  top: 202px;
+  width: 120px;
+}
+
+.gatitos .group-784 {
+  height: 181px;
+  left: 758px;
+  position: absolute;
+  top: 1332px;
+  width: 157px;
+}
+
+.gatitos .group-785 {
+  height: 182px;
+  left: 353px;
+  position: absolute;
+  top: 1352px;
+  width: 155px;
+}
+
+.gatitos .group-787 {
+  display: flex;
+  height: 492px;
+  left: 105px;
+  opacity: 0.5;
+  position: absolute;
+  top: 2543px;
+  width: 479px;
+}
+
+.gatitos .group-786 {
+  flex: 1;
+  position: relative;
+  width: 479.17px;
+}
+
+.gatitos .path-container-17 {
+  height: 492px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 431px;
+}
+
+.gatitos .path-2261 {
+  height: 301px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 190px;
+  width: 335px;
+}
+
+.gatitos .path-2262 {
+  height: 150px;
+  left: 296px;
+  object-fit: cover;
+  position: absolute;
+  top: 68px;
+  width: 135px;
+}
+
+.gatitos .path-2263 {
+  height: 154px;
+  left: 169px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 129px;
+}
+
+.gatitos .path-2265 {
+  height: 142px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 121px;
+}
+
+.gatitos .path-2264 {
+  height: 135px;
+  left: 351px;
+  object-fit: cover;
+  position: absolute;
+  top: 226px;
+  width: 128px;
+}
+
+.gatitos .group-789 {
+  display: flex;
+  height: 471px;
+  left: 1769px;
+  opacity: 0.5;
+  position: absolute;
+  top: 3082px;
+  width: 456px;
+}
+
+.gatitos .group-788 {
+  flex: 1;
+  position: relative;
+  width: 456.29px;
+}
+
+.gatitos .path-container-18 {
+  height: 414px;
+  left: 56px;
+  position: absolute;
+  top: 57px;
+  width: 400px;
+}
+
+.gatitos .path-2266 {
+  height: 286px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 128px;
+  width: 327px;
+}
+
+.gatitos .path-2268 {
+  height: 145px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 126px;
+}
+
+.gatitos .path-2269 {
+  height: 137px;
+  left: 277px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 115px;
+}
+
+.gatitos .path-2267 {
+  height: 149px;
+  left: 187px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.gatitos .path-2270 {
+  height: 132px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 204px;
+  width: 121px;
+}
+
+.gatitos .group-container-2 {
+  height: 545px;
+  left: 520px;
+  position: absolute;
+  top: 1610px;
+  width: 1252px;
+}
+
+.gatitos .group-796 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: 535px;
+  left: 12px;
+  min-width: 1241px;
+  position: absolute;
+  top: 9px;
+}
+
+.gatitos .los-gatos-adultos-re {
+  align-self: flex-end;
+  height: 370px;
+  letter-spacing: 0.38px;
+  line-height: 46px;
+  margin-bottom: 10.31px;
+  width: 600px;
+}
+
+.gatitos .overlap-group2-3 {
+  height: 516px;
+  margin-top: -0.56px;
+  position: relative;
+  width: 589px;
+}
+
+.gatitos .ellipse-60 {
+  background-color: var(--midnight-moss);
+  border-radius: 137.67px/42.72px;
+  height: 85px;
+  left: 277px;
+  mix-blend-mode: difference;
+  position: absolute;
+  top: 413px;
+  width: 275px;
+}
+
+.gatitos .group-790 {
+  background-image: url(../img/path-2045@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 347px;
+  left: 241px;
+  position: absolute;
+  top: 47px;
+  width: 348px;
+}
+
+.gatitos .group-791 {
+  background-image: url(../img/rectangle-374@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 509px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 396px;
+}
+
+.gatitos .overlap-group1-6 {
+  height: 127px;
+  left: 37px;
+  position: absolute;
+  top: 0;
+  width: 127px;
+}
+
+.gatitos .overlap-group-6 {
+  align-items: flex-end;
+  background-image: url(../img/path-2046@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 127px;
+  left: 0;
+  min-width: 127px;
+  padding: 8px 8px;
+  position: absolute;
+  top: 0;
+}
+
+.gatitos .ellipse-61 {
+  background-color: var(--white);
+  border-radius: 55.4px;
+  height: 111px;
+  width: 111px;
+}
+
+.gatitos .path-2273 {
+  height: 24px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 22px;
+}
+
+.gatitos .path-2274 {
+  height: 26px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 12px;
+}
+
+.gatitos .group-793 {
+  height: 34px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 95px;
+}
+
+.gatitos .group-794 {
+  height: 30px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 73px;
+  width: 78px;
+}
+
+.gatitos .overlap-group3-3 {
+  background-color: var(--white);
+  border: 17.23px solid;
+  border-color: var(--congress-blue);
+  border-radius: 67.01px;
+  height: 155px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 244px;
+}
+
+.gatitos .protena-1 {
+  height: 60px;
+  left: 33px;
+  letter-spacing: 0.28px;
+  line-height: 33.9px;
+  top: 61px;
+  width: 143px;
+}
+
+.gatitos .group-797 {
+  align-items: flex-start;
+  display: flex;
+  height: 43px;
+  left: 46px;
+  min-width: 116px;
+  position: absolute;
+  top: 22px;
+}
+
+.gatitos .path-2301 {
+  height: 43px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.gatitos .path-2302 {
+  height: 43px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.gatitos .path-2303 {
+  align-self: flex-end;
+  height: 43px;
+  margin-left: 4px;
+  object-fit: cover;
+  width: 46px;
+}
+
+.gatitos .group-802 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  left: 197px;
+  min-height: 377px;
+  position: absolute;
+  top: 3312px;
+  width: 1910px;
+}
+
+.gatitos .group-801 {
+  align-items: flex-start;
+  background-image: url(../img/path-2078@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10.13px;
+  min-height: 88px;
+  padding: 12.7px 72.8px;
+  width: 169px;
+}
+
+.gatitos .path-container-19 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 2px;
+  margin-left: 0.09px;
+  margin-top: 43px;
+  min-width: 13px;
+}
+
+.gatitos .path-2307 {
+  height: 5px;
+  object-fit: cover;
+  width: 5px;
+}
+
+.gatitos .path-2306 {
+  align-self: flex-end;
+  height: 5px;
+  object-fit: cover;
+  width: 5px;
+}
+
+.gatitos .overlap-group7 {
+  height: 264px;
+  position: relative;
+  width: 1910px;
+}
+
+.gatitos .cmo-alimentar-a-tu-minino {
+  height: 230px;
+  left: 403px;
+  line-height: 75.7px;
+  width: 1105px;
+}
+
+.gatitos .considera-su-peso-y-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 44.1px;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  white-space: nowrap;
+}
+
+.gatitos .otros-productos-1 {
+  left: 748px;
+  letter-spacing: 0;
+  line-height: 73.1px;
+  position: absolute;
+  text-align: center;
+  top: 4783px;
+  white-space: nowrap;
+}
+
+.gatitos .group-803 {
+  background-image: url(../img/path-2084@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 238px;
+  left: 1359px;
+  position: absolute;
+  top: 4322px;
+  width: 310px;
+}
+
+.gatitos .path-container-20 {
+  height: 73px;
+  left: 83px;
+  position: absolute;
+  top: 80px;
+  width: 37px;
+}
+
+.gatitos .path-2311 {
+  height: 50px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.gatitos .path-2312 {
+  height: 27px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 13px;
+}
+
+.gatitos .path-2313 {
+  height: 28px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 12px;
+}
+
+.gatitos .overlap-group9-1 {
+  height: 499px;
+  left: 517px;
+  position: absolute;
+  top: 3750px;
+  width: 1267px;
+}
+
+.gatitos .gua-de-alimentacin-diaria-1 {
+  height: 211px;
+  left: 93px;
+  letter-spacing: 0;
+  line-height: 48.3px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1051px;
+}
+
+.gatitos .group-804 {
+  align-items: flex-end;
+  display: flex;
+  height: 414px;
+  left: 0;
+  min-width: 1267px;
+  position: absolute;
+  top: 85px;
+}
+
+.gatitos .overlap-group-container-3 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin-left: -1px;
+  min-height: 413px;
+  width: 404px;
+}
+
+.gatitos .overlap-group3-4 {
+  height: 94px;
+  margin-left: 0.58px;
+  position: relative;
+  width: 403px;
+}
+
+.gatitos .rectangle-380 {
+  background-color: var(--cerulean);
+  border-radius: 41.33px;
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 403px;
+}
+
+.gatitos .peso-kg-2 {
+  height: 70px;
+  left: 57px;
+  line-height: 54.1px;
+  top: 24px;
+  width: 318px;
+}
+
+.gatitos .overlap-group1-7 {
+  height: 310px;
+  position: relative;
+  width: 402px;
+}
+
+.gatitos .rectangle-379 {
+  background-color: var(--white);
+  border: 1.17px solid;
+  border-color: var(--congress-blue);
+  border-radius: 46.77px;
+  height: 308px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 402px;
+}
+
+.gatitos .address-7 {
+  height: 284px;
+  left: 107px;
+  line-height: 96.2px;
+  top: 0;
+  width: 191px;
+}
+
+.gatitos .line-140 {
+  height: 2px;
+  left: 74px;
+  top: 106px;
+  width: 252px;
+}
+
+.gatitos .line-141 {
+  height: 2px;
+  left: 74px;
+  top: 213px;
+  width: 252px;
+}
+
+.gatitos .overlap-group-container-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: -0.58px;
+  margin-left: 18px;
+  min-height: 414px;
+  width: 398px;
+}
+
+.gatitos .overlap-group-7 {
+  height: 95px;
+  margin-left: 2.03px;
+  position: relative;
+  width: 395px;
+}
+
+.gatitos .rectangle-377 {
+  background-color: var(--cerulean);
+  border-radius: 37.06px;
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 395px;
+}
+
+.gatitos .cantidades-g-1 {
+  height: 70px;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 54.1px;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  width: 318px;
+}
+
+.gatitos .overlap-group2-4 {
+  height: 315px;
+  position: relative;
+  width: 398px;
+}
+
+.gatitos .rectangle-381 {
+  background-color: var(--white);
+  border: 1.17px solid;
+  border-color: var(--congress-blue);
+  border-radius: 48.77px;
+  height: 309px;
+  left: 3px;
+  position: absolute;
+  top: 6px;
+  width: 395px;
+}
+
+.gatitos .address-8 {
+  height: 287px;
+  left: 0;
+  line-height: 96.2px;
+  top: 0;
+  width: 398px;
+}
+
+.gatitos .line-142 {
+  height: 2px;
+  left: 78px;
+  top: 110px;
+  width: 252px;
+}
+
+.gatitos .line-143 {
+  height: 2px;
+  left: 78px;
+  top: 213px;
+  width: 252px;
+}
+
+.gatitos .overlap-group-container-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-bottom: -0.58px;
+  margin-left: 22px;
+  min-height: 414px;
+  width: 426px;
+}
+
+.gatitos .overlap-group4-2 {
+  align-items: flex-end;
+  background-color: var(--cerulean);
+  border-radius: 38.55px;
+  display: flex;
+  height: 93px;
+  justify-content: flex-end;
+  margin-left: 0.93px;
+  min-width: 425px;
+  padding: 0.5px 35.6px;
+}
+
+.gatitos .cantidad-tazas-3 {
+  height: 70px;
+  line-height: 54.1px;
+  width: 352px;
+}
+
+.gatitos .overlap-group5-1 {
+  height: 317px;
+  position: relative;
+  width: 425px;
+}
+
+.gatitos .rectangle-382 {
+  background-color: var(--white);
+  border: 1.17px solid;
+  border-color: var(--congress-blue);
+  border-radius: 43.04px;
+  height: 309px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 425px;
+}
+
+.gatitos .line-144 {
+  height: 2px;
+  left: 73px;
+  top: 112px;
+  width: 252px;
+}
+
+.gatitos .line-145 {
+  height: 2px;
+  left: 73px;
+  top: 215px;
+  width: 252px;
+}
+
+.gatitos .overlap-group10 {
+  height: 552px;
+  left: 668px;
+  position: absolute;
+  top: 2655px;
+  width: 967px;
+}
+
+.gatitos .overlap-group-8 {
+  height: 552px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 967px;
+}
+
+.gatitos .rectangle-383 {
+  background-color: var(--lochmara);
+  border-radius: 0px 0px 0px 11.42px;
+  height: 456px;
+  left: 0;
+  position: absolute;
+  top: 95px;
+  width: 650px;
+}
+
+.gatitos .rectangle-384 {
+  background-color: var(--white);
+  border-radius: 0px 0px 11.27px 0px;
+  height: 434px;
+  left: 650px;
+  position: absolute;
+  top: 117px;
+  width: 315px;
+}
+
+.gatitos .path-2314 {
+  height: 116px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 964px;
+}
+
+.gatitos .percent-7 {
+  left: 742px;
+  letter-spacing: 2.07px;
+  line-height: 34.2px;
+  top: 124px;
+}
+
+.gatitos .percent-8 {
+  left: 744px;
+  letter-spacing: 2.07px;
+  line-height: 34.2px;
+  top: 183px;
+}
+
+.gatitos .percent-9 {
+  left: 753px;
+  letter-spacing: 2.07px;
+  line-height: 34.2px;
+  top: 242px;
+}
+
+.gatitos .percent-10 {
+  left: 753px;
+  letter-spacing: 2.07px;
+  line-height: 34.2px;
+  top: 304px;
+}
+
+.gatitos .percent-11 {
+  left: 756px;
+  letter-spacing: 2.07px;
+  line-height: 34.2px;
+  top: 423px;
+}
+
+.gatitos .percent-12 {
+  left: 754px;
+  letter-spacing: 2.07px;
+  line-height: 34.2px;
+  top: 484px;
+}
+
+.gatitos .line-146 {
+  height: 1px;
+  left: 2px;
+  top: 174px;
+  width: 964px;
+}
+
+.gatitos .line-147 {
+  height: 1px;
+  left: 2px;
+  top: 235px;
+  width: 964px;
+}
+
+.gatitos .line-148 {
+  height: 1px;
+  left: 2px;
+  top: 292px;
+  width: 964px;
+}
+
+.gatitos .line-149 {
+  height: 1px;
+  left: 2px;
+  top: 354px;
+  width: 964px;
+}
+
+.gatitos .line-150 {
+  height: 1px;
+  left: 2px;
+  top: 415px;
+  width: 964px;
+}
+
+.gatitos .line-151 {
+  height: 1px;
+  left: 2px;
+  top: 477px;
+  width: 964px;
+}
+
+.gatitos .line-152 {
+  height: 434px;
+  left: 650px;
+  top: 117px;
+  width: 1px;
+}
+
+.gatitos .rectangle-385 {
+  border: 2.34px solid;
+  border-color: var(--congress-blue-3);
+  border-radius: 29.79px 29.79px 10.81px 10.81px;
+  height: 552px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 966px;
+}
+
+.gatitos .anlisis-garantizado-1 {
+  left: 137px;
+  letter-spacing: 3.54px;
+  line-height: 58.6px;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.gatitos .percent-13 {
+  left: 745px;
+  letter-spacing: 2.07px;
+  line-height: 34.2px;
+  top: 363px;
+}
+
+.gatitos .protena-cruda-mn-1 {
+  -webkit-text-stroke: 5.6px var(--lochmara);
+  top: 133px;
+}
+
+.gatitos .grasa-cruda-mn-1 {
+  -webkit-text-stroke: 5.6px var(--lochmara);
+  top: 189px;
+}
+
+.gatitos .fibra-cruda-mx-1 {
+  -webkit-text-stroke: 5.6px var(--lochmara);
+  top: 251px;
+}
+
+.gatitos .ceniza-mx-1 {
+  -webkit-text-stroke: 5.6px var(--lochmara);
+  top: 313px;
+}
+
+.gatitos .calcio-mn-1 {
+  -webkit-text-stroke: 5.6px var(--lochmara);
+  top: 432px;
+}
+
+.gatitos .fsforo-mn-1 {
+  -webkit-text-stroke: 5.6px var(--lochmara);
+  top: 493px;
+}
+
+.gatitos .humedad-mx-1 {
+  -webkit-text-stroke: 5.6px var(--lochmara);
+  top: 372px;
+}
+
+.gatitos .protena-cruda-mn-2 {
+  top: 128px;
+}
+
+.gatitos .grasa-cruda-mn-2 {
+  top: 184px;
+}
+
+.gatitos .fibra-cruda-mx-2 {
+  top: 246px;
+}
+
+.gatitos .ceniza-mx-2 {
+  top: 308px;
+}
+
+.gatitos .calcio-mn-2 {
+  top: 427px;
+}
+
+.gatitos .fsforo-mn-2 {
+  top: 488px;
+}
+
+.gatitos .humedad-mx-2 {
+  top: 367px;
+}
+
+.gatitos .group-container-3 {
+  height: 716px;
+  left: 576px;
+  position: absolute;
+  top: 4918px;
+  width: 1150px;
+}
+
+.gatitos .group-808 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 0;
+  min-height: 716px;
+  position: absolute;
+  top: 0;
+  width: 1150px;
+}
+
+.gatitos .overlap-group-9 {
+  height: 554px;
+  position: relative;
+  width: 1150px;
+}
+
+.gatitos .ellipse-62 {
+  background-color: var(--sunglow);
+  border-radius: 574.83px/59.34px;
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 436px;
+  width: 1150px;
+}
+
+.gatitos .rectangle-386 {
+  height: 534px;
+  left: 364px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 415px;
+}
+
+.gatitos .rectangle-38 {
+  height: 543px;
+  left: 700px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 423px;
+}
+
+.gatitos .flex-row-3 {
+  height: 145px;
+  margin-left: 11.3px;
+  min-width: 927px;
+}
+
+.gatitos .gatitos-3 {
+  align-self: center;
+  color: var(--eerie-black);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 39.5px;
+  height: 135px;
+  letter-spacing: 0;
+  line-height: 30.7px;
+  margin-top: 2.72px;
+  text-align: center;
+  width: 252px;
+}
+
+.gatitos .senior-1 {
+  margin-left: 86px;
+}
+
+.gatitos .group-811 {
+  display: flex;
+  height: 538px;
+  left: 40px;
+  position: absolute;
+  top: 6px;
+  width: 418px;
+}
+
+.gatitos .group-810 {
+  display: flex;
+  flex: 1;
+  width: 418.17px;
+}
+
+.gatitos .group-809 {
+  background-image: url(../img/rectangle-318@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  width: 418.17px;
+}
+
+.gatitos .rectangle-390 {
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  object-fit: cover;
+  width: 418.17px;
+}
+
+.gatitos .group-813 {
+  align-items: flex-end;
+  background-color: var(--congress-blue-2);
+  border-radius: 43.74px;
+  display: flex;
+  height: 87px;
+  justify-content: flex-end;
+  left: 958px;
+  min-width: 385px;
+  padding: 0 75.3px;
+  position: absolute;
+  top: 184px;
+}
+
+.gatitos .adultos {
+  line-height: 61.8px;
+  margin-bottom: -2.07px;
+  min-height: 72px;
+  min-width: 233px;
+  white-space: nowrap;
+}
+
+.gatitos .group-816 {
+  display: flex;
+  height: 674px;
+  left: 548px;
+  position: absolute;
+  top: 556px;
+  width: 596px;
+}
+
+.gatitos .group-815 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 598.2px;
+}
+
+.gatitos .overlap-group-10 {
+  height: 673px;
+  margin-top: 0;
+  position: relative;
+  width: 598px;
+}
+
+.gatitos .adultos-pollo-1 {
+  height: 110px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 46.7px;
+  position: absolute;
+  text-align: center;
+  top: 563px;
+  width: 598px;
+}
+
+.gatitos .group-814 {
+  background-image: url(../img/rectangle-321@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 606px;
+  left: 69px;
+  position: absolute;
+  top: 0;
+  width: 471px;
+}
+
+.gatitos .group-827 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 1161px;
+  min-height: 494px;
+  position: absolute;
+  top: 621px;
+  width: 492px;
+}
+
+.gatitos .overlap-group13-1 {
+  height: 118px;
+  margin-left: -1.44px;
+  margin-top: -1px;
+  position: relative;
+  width: 494px;
+}
+
+.gatitos .overlap-group-11 {
+  height: 118px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 494px;
+}
+
+.gatitos .rectangle-393 {
+  background-color: var(--white);
+  border-radius: 38.46px;
+  height: 84px;
+  left: 51px;
+  position: absolute;
+  top: 17px;
+  width: 443px;
+}
+
+.gatitos .ellipse-6 {
+  background-color: var(--lucky-point);
+  border: 2.88px solid;
+  border-color: var(--white);
+  border-radius: 57.44px;
+  height: 118px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 118px;
+}
+
+.gatitos .salud-urinaria {
+  height: 69px;
+  left: 126px;
+  letter-spacing: 0.32px;
+  line-height: 38.1px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 340px;
+}
+
+.gatitos .group-826 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  left: 23px;
+  min-height: 57px;
+  position: absolute;
+  top: 26px;
+  width: 72px;
+}
+
+.gatitos .path-container-21 {
+  align-items: flex-start;
+  display: flex;
+  gap: 2px;
+  height: 19px;
+  margin-left: 11.05px;
+  min-width: 31px;
+}
+
+.gatitos .path-2324 {
+  align-self: flex-end;
+  height: 17px;
+  object-fit: cover;
+  width: 18px;
+}
+
+.gatitos .path-2325 {
+  height: 10px;
+  object-fit: cover;
+  width: 10px;
+}
+
+.gatitos .overlap-group3-5 {
+  align-items: center;
+  background-image: url(../img/path-2323@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 33px;
+  min-width: 72px;
+  padding: 5.7px 28.4px;
+}
+
+.gatitos .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 12px;
+  width: 13px;
+}
+
+.gatitos .path-container-22 {
+  align-items: flex-start;
+  display: flex;
+  gap: 2px;
+  height: 4px;
+  margin-left: 3.56px;
+  min-width: 8px;
+}
+
+.gatitos .path-2327 {
+  align-self: flex-end;
+  height: 3px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.gatitos .path-2328 {
+  height: 3px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.gatitos .path-container-23 {
+  height: 8px;
+  position: relative;
+  width: 13px;
+}
+
+.gatitos .path-2326 {
+  height: 8px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.gatitos .path-2330 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.gatitos .path-2329 {
+  height: 2px;
+  margin-top: 7.18px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.gatitos .overlap-group12-1 {
+  height: 132px;
+  margin-left: 2.37px;
+  margin-top: 69px;
+  position: relative;
+  width: 490px;
+}
+
+.gatitos .overlap-group1-8 {
+  height: 132px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 490px;
+}
+
+.gatitos .overlap-group-12 {
+  height: 118px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 490px;
+}
+
+.gatitos .rectangle-394 {
+  background-color: var(--white);
+  border-radius: 38.46px;
+  height: 84px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 443px;
+}
+
+.gatitos .ellipse-64 {
+  background-color: var(--lucky-point);
+  border: 2.88px solid;
+  border-color: var(--white);
+  border-radius: 57.44px;
+  height: 118px;
+  left: 372px;
+  position: absolute;
+  top: 0;
+  width: 118px;
+}
+
+.gatitos .line-153 {
+  height: 86px;
+  left: 389px;
+  top: 16px;
+  width: 86px;
+}
+
+.gatitos .path-2331 {
+  height: 62px;
+  left: 391px;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 80px;
+}
+
+.gatitos .overlap-group2-5 {
+  height: 118px;
+  margin-left: -0.92px;
+  margin-top: 62px;
+  position: relative;
+  width: 493px;
+}
+
+.gatitos .overlap-group-13 {
+  height: 118px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 493px;
+}
+
+.gatitos .rectangle-395 {
+  background-color: var(--white);
+  border-radius: 38.46px;
+  height: 84px;
+  left: 50px;
+  position: absolute;
+  top: 17px;
+  width: 443px;
+}
+
+.gatitos .overlap-group1-9 {
+  height: 77px;
+  left: 32px;
+  position: absolute;
+  top: 22px;
+  width: 53px;
+}
+
+.gatitos .path-2315 {
+  height: 63px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 46px;
+}
+
+.gatitos .path-2316 {
+  height: 77px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.gatitos .path-2317 {
+  height: 3px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 9px;
+}
+
+.gatitos .path-2318 {
+  height: 3px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 44px;
+}
+
+.gatitos .group-821 {
+  background-image: url(../img/path-2319@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 10px;
+  left: 30px;
+  position: absolute;
+  top: 9px;
+  width: 3px;
+}
+
+.gatitos .group-822 {
+  background-image: url(../img/path-1396@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 8px;
+  left: 37px;
+  position: absolute;
+  top: 15px;
+  width: 8px;
+}
+
+.gatitos .group-823 {
+  background-image: url(../img/path-2321@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 10px;
+  left: 34px;
+  position: absolute;
+  top: 11px;
+  width: 6px;
+}
+
+.gatitos .path-2322 {
+  height: 23px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 45px;
+  width: 8px;
+}
+
+.gatitos .group-829 {
+  display: flex;
+  height: 467px;
+  left: 1801px;
+  opacity: 0.5;
+  position: absolute;
+  top: 4072px;
+  width: 453px;
+}
+
+.gatitos .group-828 {
+  flex: 1;
+  position: relative;
+  width: 452.8px;
+}
+
+.gatitos .path-container-24 {
+  height: 411px;
+  left: 56px;
+  position: absolute;
+  top: 56px;
+  width: 397px;
+}
+
+.gatitos .path-2332 {
+  height: 284px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 127px;
+  width: 325px;
+}
+
+.gatitos .path-2334 {
+  height: 144px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 125px;
+}
+
+.gatitos .path-2335 {
+  height: 135px;
+  left: 275px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 114px;
+}
+
+.gatitos .path-2333 {
+  height: 147px;
+  left: 186px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 122px;
+}
+
+.gatitos .path-2336 {
+  height: 131px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 202px;
+  width: 120px;
+}
+
+.gatitos .group-832 {
+  height: 155px;
+  left: 260px;
+  position: absolute;
+  top: 0;
+  width: 1781px;
+}
+
+.gatitos .group-83 {
+  background-image: url(../img/group-130@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 155px;
+  left: 753px;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+
+.gatitos .sobre-nosotros-1 {
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.gatitos .overlap-group22 {
+  height: 252px;
+  left: 0;
+  position: absolute;
+  top: 6049px;
+  width: 1920px;
+}
+
+.gatitos .rectangle-399 {
+  background-color: var(--white);
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 143px;
+  width: 1920px;
+}
+
+.gatitos .overlap-group-14 {
+  height: 155px;
+  left: 69px;
+  position: absolute;
+  top: 0;
+  width: 1781px;
+}
+
+.gatitos .line-155 {
+  height: 3px;
+  left: 0;
+  top: 140px;
+  width: 1781px;
+}
+
+.gatitos .x2024-pro-cat-care {
+  left: 460px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: center;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.gatitos .group-896 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 71px;
+  left: 1630px;
+  min-width: 224px;
+  position: absolute;
+  top: 6104px;
+}
+
+.gatitos .group-892 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-end;
+  min-width: 147px;
+}
+
+.gatitos .group-895 {
+  align-self: flex-end;
+  background-image: url(../img/group-894-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 71px;
+  margin-bottom: 0;
+  width: 71px;
+}
+
+.gatitos .overlap-group-15 {
+  align-items: flex-end;
+  background-image: url(../img/path-2490-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 69px;
+  justify-content: flex-end;
+  min-width: 69px;
+  padding: 11.9px 24.5px;
+}
+
+.gatitos .overlap-group23 {
+  height: 69px;
+  margin-top: 0;
+  position: relative;
+  width: 69px;
+}
+
+.gatitos .group-893 {
+  align-items: flex-end;
+  background-image: url(../img/path-2491-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 69px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 69px;
+  padding: 17.6px 18.3px;
+  position: absolute;
+  top: 0;
+}
+
+.gatitos .address-9 {
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+}
+
+.gatitos .adultos-1 {
+  letter-spacing: 0;
+  text-align: center;
+}
+
+.gatitos .cantidad {
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+}
+
+.gatitos .cantidad-tazas-4 {
+  letter-spacing: 0;
+  text-align: center;
+}
+
+.gatitos .cmo-alimentar-a-tu {
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.gatitos .contctanos-2 {
+  left: 1494px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.gatitos .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.gatitos .gatas-en-perodo-de {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+}
+
+.gatitos .line {
+  object-fit: cover;
+  position: absolute;
+}
+
+.gatitos .peso-kg-3 {
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+}
+
+.gatitos .productos-2 {
+  left: 478px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.gatitos .protena-2 {
+  position: absolute;
+  text-align: center;
+}
+
+.gatitos .senior-2 {
+  align-self: flex-end;
+  color: var(--eerie-black);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 41px;
+  height: 140px;
+  letter-spacing: 0;
+  line-height: 31.9px;
+  text-align: center;
+  width: 261px;
+}
+
+.gatitos .tqpets-2 {
+  left: 1133px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}

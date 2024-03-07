@@ -1,0 +1,435 @@
+/* screen - gracias */
+
+.gracias {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1491.32px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.gracias .overlap-group6 {
+  height: 1706px;
+  margin-top: -2.36px;
+  position: relative;
+  width: 1920px;
+}
+
+.gracias .path-94 {
+  height: 1703px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1920px;
+}
+
+.gracias .line-7 {
+  left: 69px;
+  top: 128px;
+}
+
+.gracias .group-44 {
+  background-image: url(../img/group-130@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 155px;
+  left: 823px;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+
+.gracias .sobre-nosotros {
+  cursor: pointer;
+  left: 133px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.gracias .productos {
+  cursor: pointer;
+  left: 547px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.gracias .tqpets {
+  cursor: pointer;
+  left: 1203px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.gracias .contctanos {
+  cursor: pointer;
+  left: 1564px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.gracias .gracias-por-contactarnos {
+  left: 372px;
+  letter-spacing: 0;
+  line-height: 127.0px;
+  position: absolute;
+  text-align: center;
+  top: 308px;
+  white-space: nowrap;
+}
+
+.gracias .nos-encanta-saber-de {
+  height: 160px;
+  left: 538px;
+  letter-spacing: 0.42px;
+  line-height: 50.4px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 459px;
+  width: 845px;
+}
+
+.gracias .group-45 {
+  align-items: center;
+  display: flex;
+  gap: 66px;
+  height: 927px;
+  left: 85px;
+  min-width: 1750px;
+  position: absolute;
+  top: 506px;
+}
+
+.gracias .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 63px;
+  margin-left: -2px;
+  margin-top: 130.31px;
+  min-height: 547px;
+  width: 512px;
+}
+
+.gracias .path-container {
+  height: 240px;
+  position: relative;
+  width: 357px;
+}
+
+.gracias .path-97 {
+  height: 119px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 145px;
+}
+
+.gracias .path-98 {
+  height: 131px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 254px;
+}
+
+.gracias .path-96 {
+  align-self: flex-end;
+  height: 244px;
+  object-fit: cover;
+  width: 382px;
+}
+
+.gracias .overlap-group1 {
+  align-self: flex-end;
+  height: 927px;
+  margin-bottom: 0;
+  position: relative;
+  width: 1174px;
+}
+
+.gracias .path-95 {
+  height: 364px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 249px;
+  width: 574px;
+}
+
+.gracias .rectangle-41 {
+  height: 927px;
+  left: 248px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 927px;
+}
+
+.gracias .overlap-group3 {
+  height: 252px;
+  left: 0;
+  position: absolute;
+  top: 1242px;
+  width: 1920px;
+}
+
+.gracias .rectangle-42 {
+  background-color: var(--white);
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 143px;
+  width: 1920px;
+}
+
+.gracias .group-49 {
+  height: 155px;
+  left: 69px;
+  position: absolute;
+  top: 0;
+  width: 1781px;
+}
+
+.gracias .overlap-group2 {
+  height: 155px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1781px;
+}
+
+.gracias .line-8 {
+  left: 0;
+  top: 142px;
+}
+
+.gracias .group-47 {
+  background-image: url(../img/group-130@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 155px;
+  left: 753px;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+
+.gracias .group-888 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 71px;
+  left: 1557px;
+  min-width: 224px;
+  position: absolute;
+  top: 53px;
+}
+
+.gracias .group-892 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-end;
+  min-width: 147px;
+}
+
+.gracias .group-895 {
+  align-self: flex-end;
+  background-image: url(../img/group-894-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 71px;
+  margin-bottom: 0;
+  width: 71px;
+}
+
+.gracias .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/path-2490-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 69px;
+  justify-content: flex-end;
+  min-width: 69px;
+  padding: 11.9px 24.5px;
+}
+
+.gracias .overlap-group1-1 {
+  height: 69px;
+  margin-top: 0;
+  position: relative;
+  width: 69px;
+}
+
+.gracias .group-893 {
+  align-items: flex-end;
+  background-image: url(../img/path-2491-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 69px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 69px;
+  padding: 17.6px 18.3px;
+  position: absolute;
+  top: 0;
+}
+
+.gracias .x2024-pro-cat-care {
+  left: 460px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: center;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.gracias .group-1 {
+  height: 189px;
+  left: 1513px;
+  position: absolute;
+  top: 183px;
+  width: 183px;
+}
+
+.gracias .path-container-1 {
+  height: 166px;
+  left: 23px;
+  position: absolute;
+  top: 23px;
+  width: 161px;
+}
+
+.gracias .path-2498 {
+  height: 115px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 131px;
+}
+
+.gracias .path-2500 {
+  height: 58px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.gracias .path-2501 {
+  height: 55px;
+  left: 111px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 46px;
+}
+
+.gracias .path-2499 {
+  height: 60px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.gracias .path-2502 {
+  height: 53px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 82px;
+  width: 49px;
+}
+
+.gracias .group-2 {
+  height: 187px;
+  left: 1726px;
+  position: absolute;
+  top: 2px;
+  width: 184px;
+}
+
+.gracias .path-container-2 {
+  height: 169px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 184px;
+}
+
+.gracias .path-2503 {
+  height: 112px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 133px;
+}
+
+.gracias .path-2504 {
+  height: 59px;
+  left: 106px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.gracias .path-2506 {
+  height: 54px;
+  left: 137px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 48px;
+}
+
+.gracias .path-2507 {
+  height: 55px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 46px;
+}
+
+.gracias .path-2505 {
+  height: 60px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.gracias .line {
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: 1781px;
+}

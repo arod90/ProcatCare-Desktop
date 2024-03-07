@@ -1,0 +1,444 @@
+/* screen - nosotros */
+
+.nosotros {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2931.64px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.nosotros .overlap-group7 {
+  height: 2934px;
+  margin-left: -29px;
+  margin-top: -2.36px;
+  position: relative;
+  width: 2020px;
+}
+
+.nosotros .rectangle-28 {
+  background-color: #003d86;
+  height: 1125px;
+  left: 31px;
+  position: absolute;
+  top: 1732px;
+  width: 1918px;
+}
+
+.nosotros .path-27 {
+  height: 974px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 886px;
+  width: 1918px;
+}
+
+.nosotros .path-28 {
+  height: 974px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1920px;
+}
+
+.nosotros .quines-somos {
+  height: 170px;
+  left: 338px;
+  letter-spacing: 0;
+  line-height: 127.0px;
+  position: absolute;
+  text-align: center;
+  top: 250px;
+  width: 1304px;
+}
+
+.nosotros .pro-cat-care-es-una {
+  left: 305px;
+  letter-spacing: 0;
+  line-height: 50.4px;
+  position: absolute;
+  text-align: center;
+  top: 415px;
+  white-space: nowrap;
+}
+
+.nosotros .group-24 {
+  height: 957px;
+  left: 489px;
+  position: absolute;
+  top: 299px;
+  width: 957px;
+}
+
+.nosotros .group-34 {
+  align-items: flex-start;
+  display: flex;
+  height: 607px;
+  left: 0;
+  min-width: 2020px;
+  position: absolute;
+  top: 1059px;
+}
+
+.nosotros .overlap-group3 {
+  align-items: flex-end;
+  background-image: url(../img/group-32@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 337px;
+  justify-content: flex-end;
+  min-width: 220px;
+  padding: 5.1px 50.6px;
+}
+
+.nosotros .group-33 {
+  background-image: url(../img/path-85@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 68px;
+  width: 68px;
+}
+
+.nosotros .overlap-group2 {
+  align-self: flex-end;
+  height: 555px;
+  margin-bottom: -0.65px;
+  margin-left: 354px;
+  position: relative;
+  width: 833px;
+}
+
+.nosotros .overlap-group1 {
+  height: 288px;
+  left: 271px;
+  position: absolute;
+  top: 267px;
+  width: 288px;
+}
+
+.nosotros .overlap-group-1 {
+  background-image: url(../img/path-43@1x.png);
+  height: 288px;
+  left: 0;
+  min-width: 288px;
+  padding: 17.6px 17.6px;
+  position: absolute;
+  top: 0;
+}
+
+.nosotros .ellipse-3 {
+  background-color: var(--white);
+  border-radius: 126.29px;
+  height: 253px;
+  width: 253px;
+}
+
+.nosotros .path-44 {
+  height: 55px;
+  left: 101px;
+  object-fit: cover;
+  position: absolute;
+  top: 99px;
+  width: 51px;
+}
+
+.nosotros .path-45 {
+  height: 59px;
+  left: 159px;
+  object-fit: cover;
+  position: absolute;
+  top: 96px;
+  width: 28px;
+}
+
+.nosotros .group-28 {
+  height: 77px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 216px;
+}
+
+.nosotros .group-29 {
+  height: 69px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 165px;
+  width: 179px;
+}
+
+.nosotros .gracias-a-la-inclusi {
+  color: var(--white);
+  font-family: var(--font-family-be_vietnam);
+  font-size: 45.1px;
+  height: 278px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 54.1px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 833px;
+}
+
+.nosotros .overlap-group4 {
+  align-items: flex-end;
+  align-self: center;
+  background-image: url(../img/group-25@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 456px;
+  margin-bottom: 7.47px;
+  margin-left: 318px;
+  min-width: 297px;
+  padding: 6.8px 68.4px;
+}
+
+.nosotros .group-26 {
+  background-image: url(../img/path-42@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 92px;
+  width: 93px;
+}
+
+.nosotros .nuestra-frmula {
+  left: 523px;
+  letter-spacing: 0;
+  line-height: 127.0px;
+  position: absolute;
+  text-align: center;
+  top: 2004px;
+  white-space: nowrap;
+}
+
+.nosotros .cada-frmula-posee-c {
+  left: 294px;
+  letter-spacing: 0.42px;
+  line-height: 50.4px;
+  position: absolute;
+  text-align: center;
+  top: 2182px;
+  white-space: nowrap;
+}
+
+.nosotros .overlap-group5 {
+  height: 252px;
+  left: 29px;
+  position: absolute;
+  top: 2682px;
+  width: 1920px;
+}
+
+.nosotros .rectangle-31 {
+  background-color: var(--white);
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 143px;
+  width: 1920px;
+}
+
+.nosotros .group-38 {
+  height: 155px;
+  left: 69px;
+  position: absolute;
+  top: 0;
+  width: 1781px;
+}
+
+.nosotros .overlap-group {
+  height: 155px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1781px;
+}
+
+.nosotros .line-5 {
+  top: 142px;
+}
+
+.nosotros .group-36 {
+  background-image: url(../img/group-130@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 155px;
+  left: 753px;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+
+.nosotros .group-888 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 71px;
+  left: 1557px;
+  min-width: 224px;
+  position: absolute;
+  top: 53px;
+}
+
+.nosotros .group-892 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-end;
+  min-width: 147px;
+}
+
+.nosotros .group-895 {
+  align-self: flex-end;
+  background-image: url(../img/group-894-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 71px;
+  margin-bottom: 0;
+  width: 71px;
+}
+
+.nosotros .overlap-group-2 {
+  background-image: url(../img/path-2490-10@1x.png);
+  height: 69px;
+  justify-content: flex-end;
+  min-width: 69px;
+  padding: 11.9px 24.5px;
+}
+
+.nosotros .overlap-group1-1 {
+  height: 69px;
+  margin-top: 0;
+  position: relative;
+  width: 69px;
+}
+
+.nosotros .group-893 {
+  align-items: flex-end;
+  background-image: url(../img/path-2491-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 69px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 69px;
+  padding: 17.6px 18.3px;
+  position: absolute;
+  top: 0;
+}
+
+.nosotros .x2024-pro-cat-care {
+  left: 460px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: center;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.nosotros .group-42 {
+  cursor: pointer;
+  height: 155px;
+  left: 98px;
+  position: absolute;
+  top: 0;
+  width: 1781px;
+}
+
+.nosotros .line-6 {
+  top: 128px;
+}
+
+.nosotros .group-41 {
+  background-image: url(../img/group-130@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 155px;
+  left: 753px;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+
+.nosotros .sobre-nosotros {
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.nosotros .productos {
+  cursor: pointer;
+  left: 478px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.nosotros .tqpets {
+  cursor: pointer;
+  left: 1133px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.nosotros .contctanos {
+  cursor: pointer;
+  left: 1494px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.nosotros .many-portraits-cat-h {
+  height: 408px;
+  left: 273px;
+  object-fit: cover;
+  position: absolute;
+  top: 2304px;
+  width: 1500px;
+}
+
+.nosotros .group-british-shorth {
+  height: 319px;
+  left: 607px;
+  object-fit: cover;
+  position: absolute;
+  top: 564px;
+  width: 764px;
+}
+
+.nosotros .line {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 1781px;
+}
+
+.nosotros .overlap-group-3 {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+}

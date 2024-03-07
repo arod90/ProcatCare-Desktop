@@ -1,0 +1,587 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css');
+@import url('https://fonts.googleapis.com/css?family=Be+Vietnam:500,400,700,600|Be+Vietnam+Pro:400,400italic,600');
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url('https://px.animaapp.com/658300279050c74364a36633.658300279050c74364a36636.oPtSzvP.hcp.png');
+
+@font-face {
+  font-family: 'RichardSamuels';
+  font-style: normal;
+  font-weight: 1 1000;
+  src: url('../fonts/Richard Samuels.otf') format('opentype');
+}
+@font-face {
+  font-family: 'CaustenRound-Black';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/causten-round-black.otf') format('opentype');
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.path-2492 {
+  height: 44px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.path-2493 {
+  height: 40px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 40px;
+}
+
+.path-2494 {
+  height: 33px;
+  object-fit: cover;
+  width: 33px;
+}
+
+.path-2495 {
+  height: 21px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 21px;
+}
+
+.path-2496 {
+  height: 5px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 5px;
+}
+
+.path-2497 {
+  height: 13px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 13px;
+}
+
+.nutre-su-vida-con-un {
+  left: 631px;
+  letter-spacing: 0;
+  line-height: 126.9px;
+  position: absolute;
+  text-align: center;
+  top: 306px;
+  white-space: nowrap;
+}
+
+.x13-a-12-12 {
+  height: 289px;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 96.2px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 332px;
+}
+
+.adultos-control-peso {
+  height: 132px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 81px;
+  text-align: center;
+  width: 246px;
+}
+
+.layer-2 {
+  height: 221px;
+  left: 513px;
+  object-fit: cover;
+  position: absolute;
+  top: 969px;
+  width: 263px;
+}
+
+.control-de-bolas-de-pelo {
+  height: 117px;
+  left: 23px;
+  letter-spacing: 0.32px;
+  line-height: 30.3px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 345px;
+  margin-top: 10px;
+}
+
+.salud-de-piel-y-pelaje {
+  height: 69px;
+  left: 130px;
+  letter-spacing: 0.32px;
+  line-height: 38.1px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 340px;
+  margin-top: 10px;
+}
+
+.calcio-mn-3 {
+  left: 74px;
+  letter-spacing: 2.07px;
+  line-height: 34.2px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.ceniza-mx-3 {
+  left: 74px;
+  letter-spacing: 2.07px;
+  line-height: 34.2px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.fibra-cruda-mx-3 {
+  left: 74px;
+  letter-spacing: 2.07px;
+  line-height: 34.2px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.fsforo-mn-3 {
+  left: 74px;
+  letter-spacing: 2.07px;
+  line-height: 34.2px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.grasa-cruda-mn-3 {
+  left: 74px;
+  letter-spacing: 2.07px;
+  line-height: 34.2px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.humedad-mx-3 {
+  left: 74px;
+  letter-spacing: 2.07px;
+  line-height: 34.2px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.percent-14 {
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.protena-cruda-mn-3 {
+  left: 74px;
+  letter-spacing: 2.07px;
+  line-height: 34.2px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.o2d6v-c {
+  align-items: flex-end;
+  background-image: url(../img/group-372@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-bottom: -28.4px;
+  margin-left: -28.5px;
+  margin-right: -36px;
+  margin-top: -37.9px;
+  min-width: 293.55px;
+  padding: 38.7px 27.9px;
+}
+
+.contctanos-1 {
+  cursor: pointer;
+  left: 1494px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.group-552 {
+  align-items: flex-start;
+  background-image: url(../img/path-1379@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10.13px;
+  min-height: 88px;
+  padding: 12.7px 72.8px;
+  width: 169px;
+}
+
+.path-1824 {
+  height: 5px;
+  object-fit: cover;
+  width: 5px;
+}
+
+.path-1823 {
+  align-self: flex-end;
+  height: 5px;
+  object-fit: cover;
+  width: 5px;
+}
+
+.path-1822 {
+  height: 11px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.path-1825 {
+  height: 4px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.path-1826 {
+  height: 4px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.gatos-y-gatitos {
+  left: 926px;
+  letter-spacing: 0;
+  line-height: 61.9px;
+  position: absolute;
+  top: 201px;
+  white-space: nowrap;
+}
+
+.rectangle-101 {
+  background-color: var(--congress-blue);
+  border-radius: 41.33px;
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 401px;
+}
+
+.edad {
+  height: 69px;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: 53.7px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: 316px;
+}
+
+.rectangle-100 {
+  background-color: var(--white);
+  border: 1.16px solid;
+  border-color: var(--congress-blue);
+  border-radius: 46.77px;
+  height: 306px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 400px;
+}
+
+.x2-meses3-a-11-mesesde-12-meses {
+  height: 274px;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 95.7px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 345px;
+}
+
+.line-22 {
+  height: 2px;
+  left: 73px;
+  top: 106px;
+  width: 251px;
+}
+
+.line-159 {
+  height: 2px;
+  left: 73px;
+  top: 208px;
+  width: 251px;
+}
+
+.rectangle-98 {
+  background-color: var(--congress-blue);
+  border-radius: 37.06px;
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 393px;
+}
+
+.text {
+  height: 274px;
+  left: 103px;
+  letter-spacing: 0;
+  line-height: 95.7px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 190px;
+}
+
+.rectangle-102 {
+  background-color: var(--white);
+  border: 1.16px solid;
+  border-color: var(--congress-blue);
+  border-radius: 48.77px;
+  height: 308px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 393px;
+}
+
+.line-16 {
+  height: 2px;
+  left: 70px;
+  top: 106px;
+  width: 251px;
+}
+
+.line-16-1 {
+  left: 70px;
+  top: 208px;
+}
+
+.hasta-225270180 {
+  height: 274px;
+  left: 58px;
+  letter-spacing: 0;
+  line-height: 95.7px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 278px;
+}
+
+.sobres {
+  height: 69px;
+  letter-spacing: 0;
+  line-height: 53.7px;
+  text-align: center;
+  width: 350px;
+}
+
+.line-16-2 {
+  left: 87px;
+  top: 106px;
+}
+
+.line-16-3 {
+  left: 87px;
+  top: 208px;
+}
+
+.fuente-de-hidratacin {
+  height: 64px;
+  left: 23px;
+  letter-spacing: 0.32px;
+  line-height: 30.4px;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  width: 346px;
+  margin-top: 10px;
+}
+
+.rectangle-137 {
+  background-color: var(--lochmara);
+  border-radius: 0px 0px 0px 16.96px;
+  height: 451px;
+  left: 0;
+  position: absolute;
+  top: 95px;
+  width: 644px;
+}
+
+.rectangle-138 {
+  background-color: var(--white);
+  border-radius: 0px 0px 16.74px 0px;
+  height: 429px;
+  left: 644px;
+  position: absolute;
+  top: 117px;
+  width: 312px;
+}
+
+.path-767 {
+  height: 115px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 954px;
+}
+
+.group-225 {
+  background-image: url(../img/path-768-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 172px;
+  width: 953px;
+}
+
+.group-227 {
+  background-image: url(../img/path-768-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 233px;
+  width: 953px;
+}
+
+.group-229 {
+  background-image: url(../img/path-768-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 289px;
+  width: 953px;
+}
+
+.group-231 {
+  background-image: url(../img/path-768-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 350px;
+  width: 953px;
+}
+
+.group-233 {
+  background-image: url(../img/path-768-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 411px;
+  width: 953px;
+}
+
+.group-235 {
+  background-image: url(../img/path-768-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 472px;
+  width: 953px;
+}
+
+.group-237 {
+  background-image: url(../img/path-774-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 429px;
+  left: 643px;
+  position: absolute;
+  top: 117px;
+  width: 2px;
+}
+
+.rectangle-139 {
+  border: 3.4px solid;
+  border-color: var(--midnight-blue);
+  border-radius: 109.76px 109.76px 16.06px 16.06px;
+  height: 548px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 957px;
+}
+
+.alimento-hmedo-pollo {
+  margin-right: -2px;
+}
+
+.alto-en-protena {
+  height: 63px;
+  left: 1301px;
+  letter-spacing: 0;
+  line-height: 21.5px;
+  position: absolute;
+  text-align: center;
+  top: 1691px;
+  width: 113px;
+}
+
+.line-16-4 {
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 251px;
+}

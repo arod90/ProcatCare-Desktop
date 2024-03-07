@@ -1,0 +1,483 @@
+/* screen - productos */
+
+.productos {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1491.32px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.productos .overlap-group4 {
+  background-color: var(--congress-blue);
+  height: 1494px;
+  margin-top: -2.36px;
+  position: relative;
+  width: 1920px;
+}
+
+.productos .overlap-group5 {
+  height: 1494px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.productos .rectangle-2 {
+  height: 1255px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 130px;
+  width: 1920px;
+}
+
+.productos .line-1 {
+  left: 69px;
+  top: 128px;
+}
+
+.productos .group-4 {
+  background-image: url(../img/group-130@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 155px;
+  left: 823px;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+
+.productos .overlap-group3 {
+  height: 252px;
+  left: 0;
+  position: absolute;
+  top: 1242px;
+  width: 1920px;
+}
+
+.productos .rectangle-6 {
+  background-color: var(--white);
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 143px;
+  width: 1920px;
+}
+
+.productos .group-8 {
+  height: 155px;
+  left: 69px;
+  position: absolute;
+  top: 0;
+  width: 1781px;
+}
+
+.productos .overlap-group2 {
+  height: 155px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1781px;
+}
+
+.productos .line-2 {
+  left: 0;
+  top: 142px;
+}
+
+.productos .group-6 {
+  background-image: url(../img/group-130@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 155px;
+  left: 753px;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+
+.productos .group-888 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 71px;
+  left: 1557px;
+  min-width: 224px;
+  position: absolute;
+  top: 53px;
+}
+
+.productos .group-892 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-end;
+  min-width: 147px;
+}
+
+.productos .group-895 {
+  align-self: flex-end;
+  background-image: url(../img/group-894-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 71px;
+  margin-bottom: 0;
+  width: 71px;
+}
+
+.productos .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/path-2490-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 69px;
+  justify-content: flex-end;
+  min-width: 69px;
+  padding: 11.9px 24.5px;
+}
+
+.productos .overlap-group1 {
+  height: 69px;
+  margin-top: 0;
+  position: relative;
+  width: 69px;
+}
+
+.productos .group-893 {
+  align-items: flex-end;
+  background-image: url(../img/path-2491-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 69px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 69px;
+  padding: 17.6px 18.3px;
+  position: absolute;
+  top: 0;
+}
+
+.productos .x2024-pro-cat-care {
+  left: 460px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: center;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.productos .rectangle-10 {
+  background-color: #009bdc;
+  border-radius: 53.59px;
+  height: 107px;
+  left: 501px;
+  position: absolute;
+  top: 199px;
+  width: 918px;
+}
+
+.productos .rectangle-428 {
+  background-color: var(--banana);
+  border-radius: 53.59px;
+  height: 70px;
+  left: 793px;
+  position: absolute;
+  top: 347px;
+  width: 298px;
+}
+
+.productos .rectangle-429 {
+  background-color: var(--banana);
+  border-radius: 53.59px;
+  height: 70px;
+  left: 775px;
+  position: absolute;
+  top: 876px;
+  width: 370px;
+}
+
+.productos .title {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 72px;
+  left: 550px;
+  letter-spacing: 0;
+  line-height: 86.4px;
+  position: absolute;
+  text-align: center;
+  top: 212px;
+  white-space: nowrap;
+}
+
+.productos .alimento-seco {
+  left: 816px;
+  top: 359px;
+}
+
+.productos .gatitos {
+  left: 348px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  text-align: center;
+  top: 755px;
+  white-space: nowrap;
+}
+
+.productos .adultos-pollo {
+  left: 582px;
+}
+
+.productos .pollo {
+  left: 633px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  text-align: center;
+  top: 1216px;
+  white-space: nowrap;
+}
+
+.productos .place {
+  left: 1190px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  text-align: center;
+  top: 1216px;
+  white-space: nowrap;
+}
+
+.productos .hgado {
+  left: 899px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  text-align: center;
+  top: 1216px;
+  white-space: nowrap;
+}
+
+.productos .control-peso {
+  left: 865px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  text-align: center;
+  top: 755px;
+  white-space: nowrap;
+}
+
+.productos .adultos-mar {
+  left: 1146px;
+}
+
+.productos .senior {
+  left: 1453px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  text-align: center;
+  top: 755px;
+  white-space: nowrap;
+}
+
+.productos .alimento-hmedo {
+  left: 803px;
+  top: 888px;
+}
+
+.productos .rectangle-11 {
+  cursor: pointer;
+  height: 362px;
+  left: 1352px;
+  object-fit: cover;
+  position: absolute;
+  top: 413px;
+  width: 281px;
+  transition: 0.2s;
+}
+
+.productos .rectangle-11:hover {
+  transform: scale(1.05);
+}
+
+.productos .group-10 {
+  background-image: url(../img/rectangle-12-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 360px;
+  left: 1077px;
+  position: absolute;
+  top: 414px;
+  width: 280px;
+  transition: 0.2s;
+}
+
+.productos .group-10:hover {
+  transform: scale(1.05);
+}
+
+.productos .rectangle-13 {
+  cursor: pointer;
+  height: 362px;
+  left: 252px;
+  object-fit: cover;
+  position: absolute;
+  top: 413px;
+  width: 282px;
+  transition: 0.2s;
+}
+
+.productos .rectangle-13:hover {
+  transform: scale(1.05);
+}
+
+.productos .rectangle-14 {
+  cursor: pointer;
+  height: 362px;
+  left: 528px;
+  object-fit: cover;
+  position: absolute;
+  top: 413px;
+  width: 282px;
+  transition: 0.2s;
+}
+
+.productos .rectangle-14:hover {
+  transform: scale(1.05);
+}
+
+.productos .rectangle-15 {
+  cursor: pointer;
+  height: 360px;
+  left: 804px;
+  object-fit: cover;
+  position: absolute;
+  top: 414px;
+  width: 280px;
+  transition: 0.2s;
+}
+
+.productos .rectangle-15:hover {
+  transform: scale(1.05);
+}
+
+.productos .rectangle-117 {
+  cursor: pointer;
+  height: 296px;
+  left: 1097px;
+  object-fit: cover;
+  position: absolute;
+  top: 953px;
+  width: 246px;
+  transition: 0.2s;
+}
+
+.productos .rectangle-117:hover {
+  transform: scale(1.05);
+}
+
+.productos .rectangle-87 {
+  cursor: pointer;
+  height: 296px;
+  left: 541px;
+  object-fit: cover;
+  position: absolute;
+  top: 953px;
+  width: 246px;
+  transition: 0.2s;
+}
+
+.productos .rectangle-87:hover {
+  transform: scale(1.05);
+}
+
+.productos .rectangle-140 {
+  cursor: pointer;
+  height: 294px;
+  left: 820px;
+  object-fit: cover;
+  position: absolute;
+  top: 981px;
+  width: 244px;
+  transition: 0.2s;
+}
+
+.productos .rectangle-140:hover {
+  transform: scale(1.05);
+}
+
+.productos .sobre-nosotros {
+  cursor: pointer;
+  left: 133px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.productos .productos-1 {
+  left: 547px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.productos .tqpets {
+  cursor: pointer;
+  left: 1203px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.productos .contctanos {
+  cursor: pointer;
+  left: 1564px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.productos .adultos {
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  text-align: center;
+  top: 755px;
+  white-space: nowrap;
+}
+
+.productos .alimento {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: 38px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.productos .line {
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: 1781px;
+}

@@ -1,0 +1,40 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Be+Vietnam:500,400,700,600|Be+Vietnam+Pro:400,400italic,600");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/658300279050c74364a36633.658300279050c74364a36636.oPtSzvP.hcp.png");
+
+@font-face {
+  font-family: "RichardSamuels";
+  font-style: normal;
+  font-weight: 1 1000;
+  src: url("../fonts/Richard Samuels.otf") format("opentype");
+}
+@font-face {
+  font-family: "CaustenRound-Black";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/causten-round-black.otf") format("opentype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
