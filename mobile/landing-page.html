@@ -4,10 +4,7 @@
     <meta charset="utf-8" />
     <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
     <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, maximum-scale=1.0"
-    />
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
     <link
       rel="shortcut icon"
       type="image/png"
@@ -18,6 +15,26 @@
     <link rel="stylesheet" type="text/css" href="css/landing-page.css" />
     <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
     <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- JavaScript for dynamic scaling at the end of body -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        adjustScale(); // Adjust scale once the DOM content is fully loaded.
+      });
+
+      window.addEventListener('resize', function () {
+        adjustScale(); // Adjust scale whenever the window is resized.
+      });
+
+      function adjustScale() {
+        var scaleFactor = window.innerWidth / 412;
+        document.body.style.transform = 'scale(' + scaleFactor + ')';
+        document.body.style.transformOrigin = '0 0'; // Adjust origin to top left
+        document.body.style.position = 'absolute';
+        document.body.style.left = '50%';
+        document.body.style.transform += ' translateX(-50%)'; // Center horizontally
+      }
+    </script>
   </head>
   <body style="margin: 0; background: #ffffff">
     <input type="hidden" id="anPageName" name="page" value="landing-page" />
