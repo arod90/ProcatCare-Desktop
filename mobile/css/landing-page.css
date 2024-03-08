@@ -17,7 +17,7 @@
   width: 556px;
 }
 
-.landing-page .path-1-1 {
+.landing-page .path-1 {
   height: 490px;
   left: 72px;
   object-fit: cover;
@@ -139,6 +139,15 @@
   position: absolute;
   top: 1500px;
   width: 18px;
+}
+
+.landing-page .path-11 {
+  height: 19px;
+  left: 235px;
+  object-fit: cover;
+  position: absolute;
+  top: 1500px;
+  width: 15px;
 }
 
 .landing-page .path-12 {
@@ -389,7 +398,7 @@
 }
 
 .landing-page .span1-3 {
-  letter-spacing: -0.10px;
+  letter-spacing: -0.1px;
 }
 
 .landing-page .span2 {
@@ -506,20 +515,9 @@
   width: 146px;
 }
 
-.landing-page .path-49 {
-  height: 982px;
-  left: 71px;
-  object-fit: cover;
-  position: absolute;
-  top: 4px;
-  width: 415px;
-}
-
-.landing-page .rectangle {
+.landing-page .rectangle-9 {
   height: 55px;
   left: 228px;
-  object-fit: cover;
-  position: absolute;
   top: 8px;
   width: 97px;
 }
@@ -868,15 +866,6 @@
   width: 17px;
 }
 
-.landing-page .path-95 {
-  height: 3px;
-  left: 184px;
-  object-fit: cover;
-  position: absolute;
-  top: 716px;
-  width: 3px;
-}
-
 .landing-page .path-96 {
   height: 51px;
   left: 358px;
@@ -884,15 +873,6 @@
   position: absolute;
   top: 528px;
   width: 49px;
-}
-
-.landing-page .path-97 {
-  height: 15px;
-  left: 363px;
-  object-fit: cover;
-  position: absolute;
-  top: 534px;
-  width: 17px;
 }
 
 .landing-page .path-98 {
@@ -911,114 +891,6 @@
   position: absolute;
   top: 656px;
   width: 39px;
-}
-
-.landing-page .path-11 {
-  height: 19px;
-  left: 256px;
-  object-fit: cover;
-  position: absolute;
-  top: 555px;
-  width: 14px;
-}
-
-.landing-page .path-118 {
-  height: 18px;
-  left: 288px;
-  object-fit: cover;
-  position: absolute;
-  top: 556px;
-  width: 7px;
-}
-
-.landing-page .path-1 {
-  height: 20px;
-  left: 295px;
-  object-fit: cover;
-  position: absolute;
-  top: 558px;
-  width: 16px;
-}
-
-.landing-page .path-121 {
-  height: 21px;
-  left: 308px;
-  object-fit: cover;
-  position: absolute;
-  top: 565px;
-  width: 20px;
-}
-
-.landing-page .path-122 {
-  height: 22px;
-  left: 308px;
-  object-fit: cover;
-  position: absolute;
-  top: 564px;
-  width: 20px;
-}
-
-.landing-page .path-123 {
-  height: 18px;
-  left: 324px;
-  object-fit: cover;
-  position: absolute;
-  top: 576px;
-  width: 18px;
-}
-
-.landing-page .path-145 {
-  height: 18px;
-  left: 229px;
-  object-fit: cover;
-  position: absolute;
-  top: 672px;
-  width: 16px;
-}
-
-.landing-page .path-147 {
-  height: 18px;
-  left: 247px;
-  object-fit: cover;
-  position: absolute;
-  top: 672px;
-  width: 14px;
-}
-
-.landing-page .path-173 {
-  height: 75px;
-  left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 1349px;
-  width: 140px;
-}
-
-.landing-page .path-174 {
-  height: 26px;
-  left: 95px;
-  object-fit: cover;
-  position: absolute;
-  top: 1365px;
-  width: 22px;
-}
-
-.landing-page .path-175 {
-  height: 8px;
-  left: 106px;
-  object-fit: cover;
-  position: absolute;
-  top: 1354px;
-  width: 10px;
-}
-
-.landing-page .path-176 {
-  height: 9px;
-  left: 111px;
-  object-fit: cover;
-  position: absolute;
-  top: 1391px;
-  width: 9px;
 }
 
 .landing-page .title {
@@ -1050,7 +922,7 @@
   height: 14px;
   left: 99px;
   min-width: 86px;
-  padding: 0 0.0px;
+  padding: 0 0px;
   position: absolute;
   top: 27px;
 }
@@ -1106,14 +978,40 @@
 }
 
 .landing-page .group-756 {
-  background-image: url(../img/group-753-1x-png@1x.png);
+  background-image: url(../img/homeimg/image1.png);
   background-position: 50% 50%;
   background-size: cover;
-  height: 123px;
-  left: 230px;
+  height: 143px;
+  left: 225px;
   position: absolute;
-  top: 1067px;
+  top: 1050px;
   width: 95px;
+}
+
+.fade-in {
+  animation: fadeIn 1s forwards;
+}
+
+.fade-out {
+  animation: fadeOut 1s forwards;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
 }
 
 .landing-page .group-760 {
@@ -1159,8 +1057,21 @@
 .landing-page .rectangle-31 {
   height: 137px;
   left: 220px;
-  top: 1286px;
+  top: 1266px;
   width: 116px;
+}
+
+.rectangle-31 {
+  transition: opacity 0.5s;
+}
+
+.landing-page .sello-ingrediente {
+  height: 200px;
+  left: 180px;
+  object-fit: cover;
+  position: absolute;
+  top: 539px;
+  width: 200px;
 }
 
 .landing-page .path-2562-4 {
@@ -1168,7 +1079,7 @@
   object-fit: cover;
 }
 
-.landing-page .rectangle-1 {
+.landing-page .rectangle {
   object-fit: cover;
   position: absolute;
 }

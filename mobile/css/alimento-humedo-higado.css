@@ -61,16 +61,6 @@
   width: 97px;
 }
 
-.alimento-humedo-higado .group-473 {
-  cursor: pointer;
-  height: 55px;
-  left: 157px;
-  object-fit: cover;
-  position: absolute;
-  top: 4px;
-  width: 97px;
-}
-
 .alimento-humedo-higado .line-8 {
   height: 1px;
   left: 9px;
@@ -2216,7 +2206,7 @@
   line-height: 10px;
   position: absolute;
   text-align: center;
-  top: 45px;
+  top: 46px;
   white-space: nowrap;
 }
 

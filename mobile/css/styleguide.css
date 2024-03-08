@@ -81,19 +81,19 @@
   font-weight: 400;
 }
 
-.richardsamuels-normal-white-12px {
-  color: var(--white);
-  font-family: var(--font-family-richardsamuels);
-  font-size: var(--font-size-xxs);
-  font-style: normal;
-}
-
 .bevietnam-normal-white-12-1px {
   color: var(--white);
   font-family: var(--font-family-be_vietnam);
   font-size: 12.1px;
   font-style: normal;
   font-weight: 400;
+}
+
+.richardsamuels-normal-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
 }
 
 .bevietnam-bold-bay-of-many-11-2px {
@@ -141,6 +141,13 @@
   font-weight: 400;
 }
 
+.richardsamuels-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+}
+
 .richardsamuels-normal-eerie-black-28px {
   color: var(--eerie-black);
   font-family: var(--font-family-richardsamuels);
@@ -163,26 +170,19 @@
   font-weight: 400;
 }
 
-.richardsamuels-normal-white-19-2px {
-  color: var(--white);
-  font-family: var(--font-family-richardsamuels);
-  font-size: var(--font-size-s);
-  font-style: normal;
-}
-
-.richardsamuels-normal-white-18px {
-  color: var(--white);
-  font-family: var(--font-family-richardsamuels);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-}
-
 .bevietnam-normal-white-24px {
   color: var(--white);
   font-family: var(--font-family-be_vietnam);
   font-size: 24px;
   font-style: normal;
   font-weight: 400;
+}
+
+.richardsamuels-normal-white-19-2px {
+  color: var(--white);
+  font-family: var(--font-family-richardsamuels);
+  font-size: var(--font-size-s);
+  font-style: normal;
 }
 
 .bevietnam-bold-white-21px {

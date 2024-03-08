@@ -1,64 +1,73 @@
 /* screen - adultos-pollo */
 
 .adultos-pollo {
+  align-items: flex-start;
   background-color: var(--white);
+  display: flex;
   height: 3198px;
   overflow: hidden;
-  position: relative;
   width: 412px;
+}
+
+.adultos-pollo .overlap-group3 {
+  height: 3268px;
+  margin-left: -28px;
+  margin-top: -4px;
+  position: relative;
+  width: 490px;
 }
 
 .adultos-pollo .path-2004 {
   height: 1323px;
-  left: -15px;
+  left: 13px;
   object-fit: cover;
   position: absolute;
-  top: 0;
+  top: 4px;
   width: 447px;
 }
 
 .adultos-pollo .path-2518 {
   height: 735px;
-  left: -2px;
+  left: 28px;
   object-fit: cover;
   position: absolute;
-  top: 1131px;
+  top: 1135px;
   width: 412px;
 }
 
 .adultos-pollo .path-464 {
   height: 490px;
-  left: 1px;
+  left: 29px;
   object-fit: cover;
   position: absolute;
-  top: 2774px;
+  top: 2778px;
   width: 412px;
 }
 
 .adultos-pollo .path-466 {
   height: 1053px;
-  left: 0;
+  left: 28px;
   object-fit: cover;
   position: absolute;
-  top: 1810px;
+  top: 1814px;
   width: 412px;
 }
 
 .adultos-pollo .path-467 {
   height: 596px;
-  left: 0;
+  left: 28px;
   object-fit: cover;
   position: absolute;
-  top: 1290px;
+  top: 1294px;
   width: 412px;
 }
 
 .adultos-pollo .otros-productos {
-  left: 75px;
+  left: 103px;
   letter-spacing: 0;
   line-height: 33.6px;
   position: absolute;
-  top: 2885px;
+  top: 2889px;
   white-space: nowrap;
 }
 
@@ -72,29 +81,29 @@
 
 .adultos-pollo .path-465 {
   height: 40px;
-  left: 11px;
+  left: 39px;
   object-fit: cover;
   position: absolute;
-  top: 3071px;
+  top: 3075px;
   width: 391px;
 }
 
 .adultos-pollo .group-112 {
   cursor: pointer;
   height: 182px;
-  left: 135px;
+  left: 163px;
   object-fit: cover;
   position: absolute;
-  top: 2925px;
+  top: 2929px;
   width: 141px;
 }
 
 .adultos-pollo .adultos {
-  left: 183px;
+  left: 211px;
   letter-spacing: 0;
   line-height: 15.8px;
   position: absolute;
-  top: 3118px;
+  top: 3122px;
   white-space: nowrap;
 }
 
@@ -115,9 +124,9 @@
 }
 
 .adultos-pollo .control-peso {
-  left: 175px;
+  left: 203px;
   line-height: 12.3px;
-  top: 3129px;
+  top: 3133px;
 }
 
 .adultos-pollo .span-5 {
@@ -125,11 +134,11 @@
 }
 
 .adultos-pollo .senior {
-  left: 301px;
+  left: 329px;
   letter-spacing: 0;
   line-height: 16.7px;
   position: absolute;
-  top: 3118px;
+  top: 3122px;
   white-space: nowrap;
 }
 
@@ -139,29 +148,29 @@
 
 .adultos-pollo .group-116 {
   height: 185px;
-  left: 249px;
+  left: 277px;
   object-fit: cover;
   position: absolute;
-  top: 2923px;
+  top: 2927px;
   width: 144px;
 }
 
 .adultos-pollo .group-120 {
   cursor: pointer;
   height: 185px;
-  left: 249px;
+  left: 277px;
   object-fit: cover;
   position: absolute;
-  top: 2923px;
+  top: 2927px;
   width: 144px;
 }
 
 .adultos-pollo .gatitos {
-  left: 72px;
+  left: 100px;
   letter-spacing: 0;
   line-height: 16.1px;
   position: absolute;
-  top: 3119px;
+  top: 3123px;
   white-space: nowrap;
 }
 
@@ -171,64 +180,54 @@
 
 .adultos-pollo .group-124 {
   height: 184px;
-  left: 22px;
+  left: 50px;
   object-fit: cover;
   position: absolute;
-  top: 2923px;
+  top: 2927px;
   width: 143px;
 }
 
 .adultos-pollo .group-128 {
   cursor: pointer;
   height: 184px;
-  left: 22px;
+  left: 50px;
   object-fit: cover;
   position: absolute;
-  top: 2923px;
+  top: 2927px;
   width: 143px;
 }
 
 .adultos-pollo .path-468 {
   height: 1187px;
-  left: 0;
+  left: 28px;
   object-fit: cover;
   position: absolute;
-  top: -4px;
+  top: 0;
   width: 417px;
 }
 
 .adultos-pollo .rectangle-128 {
   height: 55px;
-  left: 157px;
+  left: 185px;
   object-fit: cover;
   position: absolute;
-  top: 1px;
-  width: 97px;
-}
-
-.adultos-pollo .rectangle-130 {
-  cursor: pointer;
-  height: 55px;
-  left: 157px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
+  top: 5px;
   width: 97px;
 }
 
 .adultos-pollo .line-2 {
   height: 1px;
-  left: 9px;
-  top: 52px;
+  left: 37px;
+  top: 56px;
   width: 394px;
 }
 
 .adultos-pollo .nutre-su-vida-con {
-  left: 54px;
+  left: 82px;
   letter-spacing: 0;
   line-height: 43.2px;
   position: absolute;
-  top: 150px;
+  top: 154px;
   white-space: nowrap;
 }
 
@@ -245,11 +244,11 @@
 }
 
 .adultos-pollo .una-alimentacin {
-  left: 60px;
+  left: 88px;
   letter-spacing: 0;
   line-height: 43.2px;
   position: absolute;
-  top: 187px;
+  top: 191px;
   white-space: nowrap;
 }
 
@@ -258,11 +257,11 @@
 }
 
 .adultos-pollo .premium {
-  left: 123px;
+  left: 151px;
   letter-spacing: 0;
   line-height: 43.2px;
   position: absolute;
-  top: 224px;
+  top: 228px;
   white-space: nowrap;
 }
 
@@ -271,11 +270,11 @@
 }
 
 .adultos-pollo .adultos-pollo-1 {
-  left: 119px;
+  left: 147px;
   letter-spacing: 0;
   line-height: 25.2px;
   position: absolute;
-  top: 701px;
+  top: 705px;
   white-space: nowrap;
 }
 
@@ -293,108 +292,108 @@
 
 .adultos-pollo .path-476 {
   height: 57px;
-  left: 39px;
+  left: 67px;
   object-fit: cover;
   position: absolute;
-  top: 547px;
+  top: 551px;
   width: 336px;
 }
 
 .adultos-pollo .path-477 {
   height: 28px;
-  left: 337px;
+  left: 365px;
   object-fit: cover;
   position: absolute;
-  top: 1165px;
+  top: 1169px;
   width: 24px;
 }
 
 .adultos-pollo .path-478 {
   height: 9px;
-  left: 339px;
+  left: 367px;
   object-fit: cover;
   position: absolute;
-  top: 1153px;
+  top: 1157px;
   width: 11px;
 }
 
 .adultos-pollo .path-479 {
   height: 9px;
-  left: 334px;
+  left: 362px;
   object-fit: cover;
   position: absolute;
-  top: 1193px;
+  top: 1197px;
   width: 10px;
 }
 
 .adultos-pollo .path-480 {
   height: 9px;
-  left: 324px;
+  left: 352px;
   object-fit: cover;
   position: absolute;
-  top: 1163px;
+  top: 1167px;
   width: 10px;
 }
 
 .adultos-pollo .path-481 {
   height: 9px;
-  left: 323px;
+  left: 351px;
   object-fit: cover;
   position: absolute;
-  top: 1181px;
+  top: 1185px;
   width: 9px;
 }
 
 .adultos-pollo .path-482 {
   height: 25px;
-  left: 260px;
+  left: 288px;
   object-fit: cover;
   position: absolute;
-  top: 1175px;
+  top: 1179px;
   width: 24px;
 }
 
 .adultos-pollo .path-483 {
   height: 9px;
-  left: 270px;
+  left: 298px;
   object-fit: cover;
   position: absolute;
-  top: 1162px;
+  top: 1166px;
   width: 9px;
 }
 
 .adultos-pollo .path-484 {
   height: 9px;
-  left: 251px;
+  left: 279px;
   object-fit: cover;
   position: absolute;
-  top: 1193px;
+  top: 1197px;
   width: 9px;
 }
 
 .adultos-pollo .path-485 {
   height: 9px;
-  left: 255px;
+  left: 283px;
   object-fit: cover;
   position: absolute;
-  top: 1165px;
+  top: 1169px;
   width: 9px;
 }
 
 .adultos-pollo .path-486 {
   height: 9px;
-  left: 246px;
+  left: 274px;
   object-fit: cover;
   position: absolute;
-  top: 1179px;
+  top: 1183px;
   width: 8px;
 }
 
 .adultos-pollo .group-705 {
   height: 42px;
-  left: 178px;
+  left: 206px;
   position: absolute;
-  top: 1139px;
+  top: 1143px;
   width: 34px;
 }
 
@@ -453,9 +452,9 @@
 
 .adultos-pollo .group-704 {
   height: 41px;
-  left: 110px;
+  left: 138px;
   position: absolute;
-  top: 1119px;
+  top: 1123px;
   width: 36px;
 }
 
@@ -513,11 +512,11 @@
 }
 
 .adultos-pollo .los-gatos-adultos-requieren {
-  left: 77px;
+  left: 105px;
   letter-spacing: 0;
   line-height: 25.2px;
   position: absolute;
-  top: 1600px;
+  top: 1604px;
   white-space: nowrap;
 }
 
@@ -550,11 +549,11 @@
 }
 
 .adultos-pollo .componentes-nutricionales {
-  left: 78px;
+  left: 106px;
   letter-spacing: 0;
   line-height: 25.2px;
   position: absolute;
-  top: 1625px;
+  top: 1629px;
   white-space: nowrap;
 }
 
@@ -567,11 +566,11 @@
 }
 
 .adultos-pollo .ptimos-para-que-disfruten-de {
-  left: 65px;
+  left: 93px;
   letter-spacing: 0;
   line-height: 25.2px;
   position: absolute;
-  top: 1650px;
+  top: 1654px;
   white-space: nowrap;
 }
 
@@ -580,20 +579,20 @@
 }
 
 .adultos-pollo .una-vida-llena-de-vitalidad {
-  left: 80px;
+  left: 108px;
   letter-spacing: 0;
   line-height: 25.2px;
   position: absolute;
-  top: 1675px;
+  top: 1679px;
   white-space: nowrap;
 }
 
 .adultos-pollo .pro-cat-care-adultos {
-  left: 60px;
+  left: 88px;
   letter-spacing: 0;
   line-height: 25.2px;
   position: absolute;
-  top: 1700px;
+  top: 1704px;
   white-space: nowrap;
 }
 
@@ -614,62 +613,62 @@
 }
 
 .adultos-pollo .te-ofrece {
-  left: 281px;
+  left: 309px;
   letter-spacing: 0;
   line-height: 25.2px;
   position: absolute;
-  top: 1700px;
+  top: 1704px;
   white-space: nowrap;
 }
 
 .adultos-pollo .dos-deliciosos-sabores-que-tus {
-  left: 64px;
+  left: 92px;
   letter-spacing: 0;
   line-height: 25.2px;
   position: absolute;
-  top: 1726px;
+  top: 1730px;
   white-space: nowrap;
 }
 
 .adultos-pollo .gatos-amarn {
-  left: 144px;
+  left: 172px;
   letter-spacing: 0;
   line-height: 25.2px;
   position: absolute;
-  top: 1751px;
+  top: 1755px;
   white-space: nowrap;
 }
 
 .adultos-pollo .path-497 {
   height: 58px;
-  left: 69px;
+  left: 97px;
   object-fit: cover;
   position: absolute;
-  top: 755px;
+  top: 759px;
   width: 307px;
 }
 
 .adultos-pollo .path-498 {
   height: 80px;
-  left: 35px;
+  left: 63px;
   object-fit: cover;
   position: absolute;
-  top: 744px;
+  top: 748px;
   width: 80px;
 }
 
 .adultos-pollo .ellipse-4 {
-  left: 34px;
-  top: 743px;
+  left: 62px;
+  top: 747px;
   transform: rotate(-52.02deg);
 }
 
 .adultos-pollo .salud-urinaria {
-  left: 164px;
+  left: 192px;
   letter-spacing: 0;
   line-height: 26.4px;
   position: absolute;
-  top: 766px;
+  top: 770px;
   white-space: nowrap;
 }
 
@@ -691,259 +690,259 @@
 
 .adultos-pollo .path-499 {
   height: 58px;
-  left: 37px;
+  left: 65px;
   object-fit: cover;
   position: absolute;
-  top: 884px;
+  top: 888px;
   width: 307px;
 }
 
 .adultos-pollo .path-500 {
   height: 80px;
-  left: 295px;
+  left: 323px;
   object-fit: cover;
   position: absolute;
-  top: 873px;
+  top: 877px;
   width: 80px;
 }
 
 .adultos-pollo .ellipse-5 {
-  left: 294px;
-  top: 872px;
+  left: 322px;
+  top: 876px;
   transform: rotate(-55.28deg);
 }
 
 .adultos-pollo .control-de {
-  left: 116px;
+  left: 144px;
   line-height: 26.4px;
-  top: 885px;
+  top: 889px;
 }
 
 .adultos-pollo .bolas-de-pelo {
-  left: 99px;
+  left: 127px;
   letter-spacing: 0;
   line-height: 26.4px;
   position: absolute;
-  top: 906px;
+  top: 910px;
   white-space: nowrap;
 }
 
 .adultos-pollo .path-501 {
   height: 58px;
-  left: 69px;
+  left: 97px;
   object-fit: cover;
   position: absolute;
-  top: 1018px;
+  top: 1022px;
   width: 307px;
 }
 
 .adultos-pollo .path-502 {
   height: 80px;
-  left: 35px;
+  left: 63px;
   object-fit: cover;
   position: absolute;
-  top: 1007px;
+  top: 1011px;
   width: 80px;
 }
 
 .adultos-pollo .ellipse-6 {
-  left: 34px;
-  top: 1006px;
+  left: 62px;
+  top: 1010px;
   transform: rotate(-52.02deg);
 }
 
 .adultos-pollo .salud-de-piel-y-pelaje {
-  left: 128px;
+  left: 156px;
   letter-spacing: 0;
   line-height: 26.4px;
   position: absolute;
-  top: 1031px;
+  top: 1035px;
   white-space: nowrap;
 }
 
 .adultos-pollo .path-503 {
   height: 44px;
-  left: 58px;
+  left: 86px;
   object-fit: cover;
   position: absolute;
-  top: 1024px;
+  top: 1028px;
   width: 32px;
 }
 
 .adultos-pollo .path-504 {
   height: 54px;
-  left: 57px;
+  left: 85px;
   object-fit: cover;
   position: absolute;
-  top: 1022px;
+  top: 1026px;
   width: 37px;
 }
 
 .adultos-pollo .path-505 {
   height: 2px;
-  left: 73px;
+  left: 101px;
   object-fit: cover;
   position: absolute;
-  top: 1063px;
+  top: 1067px;
   width: 6px;
 }
 
 .adultos-pollo .path-506 {
   height: 2px;
-  left: 62px;
+  left: 90px;
   object-fit: cover;
   position: absolute;
-  top: 1067px;
+  top: 1071px;
   width: 30px;
 }
 
 .adultos-pollo .path-507 {
   height: 7px;
-  left: 78px;
+  left: 106px;
   object-fit: cover;
   position: absolute;
-  top: 1028px;
+  top: 1032px;
   width: 2px;
 }
 
 .adultos-pollo .path-508 {
   height: 6px;
-  left: 82px;
+  left: 110px;
   object-fit: cover;
   position: absolute;
-  top: 1032px;
+  top: 1036px;
   width: 6px;
 }
 
 .adultos-pollo .path-509 {
   height: 7px;
-  left: 81px;
+  left: 109px;
   object-fit: cover;
   position: absolute;
-  top: 1029px;
+  top: 1033px;
   width: 4px;
 }
 
 .adultos-pollo .path-510 {
   height: 16px;
-  left: 70px;
+  left: 98px;
   object-fit: cover;
   position: absolute;
-  top: 1053px;
+  top: 1057px;
   width: 6px;
 }
 
 .adultos-pollo .path-511 {
   height: 156px;
-  left: 283px;
+  left: 311px;
   object-fit: cover;
   position: absolute;
-  top: 2300px;
+  top: 2304px;
   width: 179px;
 }
 
 .adultos-pollo .path-512 {
   height: 81px;
-  left: 315px;
+  left: 343px;
   object-fit: cover;
   position: absolute;
-  top: 2200px;
+  top: 2204px;
   width: 67px;
 }
 
 .adultos-pollo .path-513 {
   height: 79px;
-  left: 243px;
+  left: 271px;
   object-fit: cover;
   position: absolute;
-  top: 2231px;
+  top: 2235px;
   width: 69px;
 }
 
 .adultos-pollo .path-514 {
   height: 74px;
-  left: 395px;
+  left: 423px;
   object-fit: cover;
   position: absolute;
-  top: 2232px;
+  top: 2236px;
   width: 63px;
 }
 
 .adultos-pollo .path-515 {
   height: 72px;
-  left: 213px;
+  left: 241px;
   object-fit: cover;
   position: absolute;
-  top: 2311px;
+  top: 2315px;
   width: 66px;
 }
 
 .adultos-pollo .path-516 {
   height: 156px;
-  left: -28px;
+  left: 0;
   object-fit: cover;
   position: absolute;
-  top: 2594px;
+  top: 2598px;
   width: 179px;
 }
 
 .adultos-pollo .path-517 {
   height: 81px;
-  left: 52px;
+  left: 80px;
   object-fit: cover;
   position: absolute;
-  top: 2494px;
+  top: 2498px;
   width: 67px;
 }
 
 .adultos-pollo .path-518 {
   height: 79px;
-  left: 121px;
+  left: 149px;
   object-fit: cover;
   position: absolute;
-  top: 2524px;
+  top: 2528px;
   width: 69px;
 }
 
 .adultos-pollo .path-519 {
   height: 74px;
-  left: -24px;
+  left: 4px;
   object-fit: cover;
   position: absolute;
-  top: 2526px;
+  top: 2530px;
   width: 63px;
 }
 
 .adultos-pollo .path-520 {
   height: 72px;
-  left: 155px;
+  left: 183px;
   object-fit: cover;
   position: absolute;
-  top: 2605px;
+  top: 2609px;
   width: 66px;
 }
 
 .adultos-pollo .path-521 {
   height: 1109px;
-  left: 0;
+  left: 28px;
   object-fit: cover;
   position: absolute;
-  top: 2060px;
+  top: 2064px;
   width: 412px;
 }
 
 .adultos-pollo .line-22 {
   height: 60px;
-  left: 304px;
-  top: 881px;
+  left: 332px;
+  top: 885px;
   width: 60px;
 }
 
 .adultos-pollo .group-703 {
   height: 41px;
-  left: 46px;
+  left: 74px;
   position: absolute;
-  top: 1116px;
+  top: 1120px;
   width: 35px;
 }
 
@@ -1001,11 +1000,11 @@
 }
 
 .adultos-pollo .gua-de-alimentacin {
-  left: 80px;
+  left: 108px;
   letter-spacing: 0;
   line-height: 25.2px;
   position: absolute;
-  top: 2470px;
+  top: 2474px;
   white-space: nowrap;
 }
 
@@ -1026,138 +1025,138 @@
 }
 
 .adultos-pollo .diaria {
-  left: 170px;
+  left: 198px;
   letter-spacing: 0;
   line-height: 25.2px;
   position: absolute;
-  top: 2491px;
+  top: 2495px;
   white-space: nowrap;
 }
 
 .adultos-pollo .path-527 {
   height: 25px;
-  left: 53px;
+  left: 81px;
   object-fit: cover;
   position: absolute;
-  top: 2709px;
+  top: 2713px;
   width: 305px;
 }
 
 .adultos-pollo .path-528 {
   height: 26px;
-  left: 53px;
+  left: 81px;
   object-fit: cover;
   position: absolute;
-  top: 2709px;
+  top: 2713px;
   width: 306px;
 }
 
 .adultos-pollo .line-23 {
   height: 19px;
-  left: 259px;
-  top: 2712px;
+  left: 287px;
+  top: 2716px;
   width: 1px;
 }
 
 .adultos-pollo .line-24 {
   height: 19px;
-  left: 142px;
-  top: 2712px;
+  left: 170px;
+  top: 2716px;
   width: 1px;
 }
 
 .adultos-pollo .path-529 {
   height: 25px;
-  left: 53px;
+  left: 81px;
   object-fit: cover;
   position: absolute;
-  top: 2615px;
+  top: 2619px;
   width: 305px;
 }
 
 .adultos-pollo .path-530 {
   height: 25px;
-  left: 53px;
+  left: 81px;
   object-fit: cover;
   position: absolute;
-  top: 2681px;
+  top: 2685px;
   width: 305px;
 }
 
 .adultos-pollo .path-531 {
   height: 25px;
-  left: 53px;
+  left: 81px;
   object-fit: cover;
   position: absolute;
-  top: 2576px;
+  top: 2580px;
   width: 305px;
 }
 
 .adultos-pollo .path-532 {
   height: 26px;
-  left: 53px;
+  left: 81px;
   object-fit: cover;
   position: absolute;
-  top: 2576px;
+  top: 2580px;
   width: 306px;
 }
 
 .adultos-pollo .path-533 {
   height: 25px;
-  left: 53px;
+  left: 81px;
   object-fit: cover;
   position: absolute;
-  top: 2549px;
+  top: 2553px;
   width: 305px;
 }
 
 .adultos-pollo .peso-kg {
-  left: 171px;
+  left: 199px;
   letter-spacing: 0;
   line-height: 21.6px;
   position: absolute;
-  top: 2553px;
+  top: 2557px;
   white-space: nowrap;
 }
 
 .adultos-pollo .path-534 {
   height: 25px;
-  left: 53px;
+  left: 81px;
   object-fit: cover;
   position: absolute;
-  top: 2643px;
+  top: 2647px;
   width: 305px;
 }
 
 .adultos-pollo .path-535 {
   height: 26px;
-  left: 53px;
+  left: 81px;
   object-fit: cover;
   position: absolute;
-  top: 2643px;
+  top: 2647px;
   width: 306px;
 }
 
 .adultos-pollo .line-25 {
   height: 19px;
-  left: 263px;
-  top: 2647px;
+  left: 291px;
+  top: 2651px;
   width: 1px;
 }
 
 .adultos-pollo .line-26 {
   height: 19px;
-  left: 146px;
-  top: 2647px;
+  left: 174px;
+  top: 2651px;
   width: 1px;
 }
 
 .adultos-pollo .cantidades-g {
-  left: 146px;
+  left: 174px;
   letter-spacing: 0;
   line-height: 21.6px;
   position: absolute;
-  top: 2620px;
+  top: 2624px;
   white-space: nowrap;
 }
 
@@ -1170,11 +1169,11 @@
 }
 
 .adultos-pollo .cantidad-tazas {
-  left: 137px;
+  left: 165px;
   letter-spacing: 0;
   line-height: 21.6px;
   position: absolute;
-  top: 2685px;
+  top: 2689px;
   white-space: nowrap;
 }
 
@@ -1183,34 +1182,34 @@
 }
 
 .adultos-pollo .address {
-  left: 81px;
+  left: 109px;
   letter-spacing: 0;
   line-height: 21.6px;
   position: absolute;
-  top: 2576px;
+  top: 2580px;
   white-space: nowrap;
 }
 
 .adultos-pollo .address-1 {
-  left: 289px;
-  top: 2575px;
+  left: 317px;
+  top: 2579px;
 }
 
 .adultos-pollo .x13-a-12 {
-  left: 64px;
+  left: 92px;
   letter-spacing: 0;
   line-height: 21.6px;
   position: absolute;
-  top: 2708px;
+  top: 2712px;
   white-space: nowrap;
 }
 
 .adultos-pollo .x34-a-1 {
-  left: 280px;
+  left: 308px;
   letter-spacing: 0;
   line-height: 21.6px;
   position: absolute;
-  top: 2708px;
+  top: 2712px;
   white-space: nowrap;
 }
 
@@ -1220,22 +1219,22 @@
 
 .adultos-pollo .line-27 {
   height: 19px;
-  left: 264px;
-  top: 2579px;
+  left: 292px;
+  top: 2583px;
   width: 1px;
 }
 
 .adultos-pollo .address-2 {
-  left: 184px;
-  top: 2576px;
+  left: 212px;
+  top: 2580px;
 }
 
 .adultos-pollo .x12-a-34 {
-  left: 166px;
+  left: 194px;
   letter-spacing: 0;
   line-height: 21.6px;
   position: absolute;
-  top: 2708px;
+  top: 2712px;
   white-space: nowrap;
 }
 
@@ -1245,32 +1244,32 @@
 
 .adultos-pollo .line-28 {
   height: 19px;
-  left: 147px;
-  top: 2579px;
+  left: 175px;
+  top: 2583px;
   width: 1px;
 }
 
 .adultos-pollo .address-3 {
-  left: 70px;
-  top: 2643px;
+  left: 98px;
+  top: 2647px;
 }
 
 .adultos-pollo .address-4 {
-  left: 273px;
-  top: 2643px;
+  left: 301px;
+  top: 2647px;
 }
 
 .adultos-pollo .address-5 {
-  left: 173px;
-  top: 2643px;
+  left: 201px;
+  top: 2647px;
 }
 
 .adultos-pollo .cmo-alimentar-a {
-  left: 59px;
+  left: 87px;
   letter-spacing: 0;
   line-height: 33.6px;
   position: absolute;
-  top: 2257px;
+  top: 2261px;
   white-space: nowrap;
 }
 
@@ -1279,11 +1278,11 @@
 }
 
 .adultos-pollo .tu-minino {
-  left: 125px;
+  left: 153px;
   letter-spacing: 0;
   line-height: 33.6px;
   position: absolute;
-  top: 2293px;
+  top: 2297px;
   white-space: nowrap;
 }
 
@@ -1296,20 +1295,20 @@
 }
 
 .adultos-pollo .considera-su-peso-y-edad {
-  left: 86px;
+  left: 114px;
   letter-spacing: 0;
   line-height: 23.1px;
   position: absolute;
-  top: 2343px;
+  top: 2347px;
   white-space: nowrap;
 }
 
 .adultos-pollo .mientras-ms-conozcas-a-tu-minino {
-  left: 41px;
+  left: 69px;
   letter-spacing: 0;
   line-height: 23.1px;
   position: absolute;
-  top: 2364px;
+  top: 2368px;
   white-space: nowrap;
 }
 
@@ -1318,11 +1317,11 @@
 }
 
 .adultos-pollo .mejor-lo-alimentars {
-  left: 108px;
+  left: 136px;
   letter-spacing: 0;
   line-height: 23.1px;
   position: absolute;
-  top: 2385px;
+  top: 2389px;
   white-space: nowrap;
 }
 
@@ -1332,91 +1331,91 @@
 
 .adultos-pollo .path-536 {
   height: 42px;
-  left: 165px;
+  left: 193px;
   object-fit: cover;
   position: absolute;
-  top: 2198px;
+  top: 2202px;
   width: 80px;
 }
 
 .adultos-pollo .path-537 {
   height: 5px;
-  left: 202px;
+  left: 230px;
   object-fit: cover;
   position: absolute;
-  top: 2229px;
+  top: 2233px;
   width: 7px;
 }
 
 .adultos-pollo .path-538 {
   height: 3px;
-  left: 206px;
+  left: 234px;
   object-fit: cover;
   position: absolute;
-  top: 2225px;
+  top: 2229px;
   width: 3px;
 }
 
 .adultos-pollo .path-539 {
   height: 3px;
-  left: 203px;
+  left: 231px;
   object-fit: cover;
   position: absolute;
-  top: 2225px;
+  top: 2229px;
   width: 3px;
 }
 
 .adultos-pollo .path-540 {
   height: 2px;
-  left: 200px;
+  left: 228px;
   object-fit: cover;
   position: absolute;
-  top: 2228px;
+  top: 2232px;
   width: 2px;
 }
 
 .adultos-pollo .path-541 {
   height: 2px;
-  left: 209px;
+  left: 237px;
   object-fit: cover;
   position: absolute;
-  top: 2228px;
+  top: 2232px;
   width: 2px;
 }
 
 .adultos-pollo .path-542 {
   height: 164px;
-  left: 32px;
+  left: 60px;
   object-fit: cover;
   position: absolute;
-  top: 1981px;
+  top: 1985px;
   width: 234px;
 }
 
 .adultos-pollo .path-543 {
   height: 157px;
-  left: 266px;
+  left: 294px;
   object-fit: cover;
   position: absolute;
-  top: 1989px;
+  top: 1993px;
   width: 114px;
 }
 
 .adultos-pollo .path-544 {
   height: 42px;
-  left: 32px;
+  left: 60px;
   object-fit: cover;
   position: absolute;
-  top: 1947px;
+  top: 1951px;
   width: 348px;
 }
 
 .adultos-pollo .percent {
-  left: 302px;
+  left: 330px;
   letter-spacing: 0;
   line-height: 13.4px;
   position: absolute;
-  top: 1991px;
+  top: 1995px;
   white-space: nowrap;
 }
 
@@ -1433,13 +1432,13 @@
 }
 
 .adultos-pollo .percent-1 {
-  left: 302px;
-  top: 2013px;
+  left: 330px;
+  top: 2017px;
 }
 
 .adultos-pollo .percent-2 {
-  left: 305px;
-  top: 2034px;
+  left: 333px;
+  top: 2038px;
 }
 
 .adultos-pollo .span-27 {
@@ -1447,84 +1446,84 @@
 }
 
 .adultos-pollo .percent-3 {
-  left: 305px;
-  top: 2056px;
+  left: 333px;
+  top: 2060px;
 }
 
 .adultos-pollo .percent-4 {
-  left: 306px;
-  top: 2099px;
+  left: 334px;
+  top: 2103px;
 }
 
 .adultos-pollo .percent-5 {
-  left: 305px;
-  top: 2122px;
+  left: 333px;
+  top: 2126px;
 }
 
 .adultos-pollo .line-29 {
   height: 1px;
-  left: 32px;
-  top: 2009px;
+  left: 60px;
+  top: 2013px;
   width: 348px;
 }
 
 .adultos-pollo .line-30 {
   height: 1px;
-  left: 32px;
-  top: 2031px;
+  left: 60px;
+  top: 2035px;
   width: 348px;
 }
 
 .adultos-pollo .line-31 {
   height: 1px;
-  left: 32px;
-  top: 2052px;
+  left: 60px;
+  top: 2056px;
   width: 348px;
 }
 
 .adultos-pollo .line-32 {
   height: 1px;
-  left: 32px;
-  top: 2074px;
+  left: 60px;
+  top: 2078px;
   width: 348px;
 }
 
 .adultos-pollo .line-33 {
   height: 1px;
-  left: 32px;
-  top: 2096px;
+  left: 60px;
+  top: 2100px;
   width: 348px;
 }
 
 .adultos-pollo .line-34 {
   height: 1px;
-  left: 32px;
-  top: 2119px;
+  left: 60px;
+  top: 2123px;
   width: 348px;
 }
 
 .adultos-pollo .line-35 {
   height: 157px;
-  left: 266px;
-  top: 1989px;
+  left: 294px;
+  top: 1993px;
   width: 1px;
 }
 
 .adultos-pollo .path-545 {
   height: 199px;
-  left: 32px;
+  left: 60px;
   object-fit: cover;
   position: absolute;
-  top: 1947px;
+  top: 1951px;
   width: 349px;
 }
 
 .adultos-pollo .anlisis-garantizado {
-  left: 81px;
+  left: 109px;
   letter-spacing: 0;
   line-height: 23.0px;
   position: absolute;
-  top: 1960px;
+  top: 1964px;
   white-space: nowrap;
 }
 
@@ -1537,862 +1536,862 @@
 }
 
 .adultos-pollo .percent-6 {
-  left: 302px;
-  top: 2078px;
+  left: 330px;
+  top: 2082px;
 }
 
 .adultos-pollo .path-546 {
   height: 10px;
-  left: 58px;
+  left: 86px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 8px;
 }
 
 .adultos-pollo .path-547 {
   height: 10px;
-  left: 65px;
+  left: 93px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 8px;
 }
 
 .adultos-pollo .path-548 {
   height: 10px;
-  left: 72px;
+  left: 100px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 9px;
 }
 
 .adultos-pollo .path-549 {
   height: 10px;
-  left: 81px;
+  left: 109px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 8px;
 }
 
 .adultos-pollo .path-550 {
   height: 10px;
-  left: 88px;
+  left: 116px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 7px;
 }
 
 .adultos-pollo .path-551 {
   height: 12px;
-  left: 95px;
+  left: 123px;
   object-fit: cover;
   position: absolute;
-  top: 1993px;
+  top: 1997px;
   width: 4px;
 }
 
 .adultos-pollo .path-552 {
   height: 10px;
-  left: 99px;
+  left: 127px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 8px;
 }
 
 .adultos-pollo .path-553 {
   height: 10px;
-  left: 106px;
+  left: 134px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 9px;
 }
 
 .adultos-pollo .path-555 {
   height: 10px;
-  left: 126px;
+  left: 154px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 8px;
 }
 
 .adultos-pollo .path-556 {
   height: 10px;
-  left: 133px;
+  left: 161px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 8px;
 }
 
 .adultos-pollo .path-557 {
   height: 10px;
-  left: 141px;
+  left: 169px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 8px;
 }
 
 .adultos-pollo .path-558 {
   height: 10px;
-  left: 148px;
+  left: 176px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 9px;
 }
 
 .adultos-pollo .path-559 {
   height: 11px;
-  left: 159px;
+  left: 187px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 5px;
 }
 
 .adultos-pollo .path-560 {
   height: 10px;
-  left: 164px;
+  left: 192px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 10px;
 }
 
 .adultos-pollo .path-561 {
   height: 12px;
-  left: 173px;
+  left: 201px;
   object-fit: cover;
   position: absolute;
-  top: 1993px;
+  top: 1997px;
   width: 4px;
 }
 
 .adultos-pollo .path-562 {
   height: 10px;
-  left: 177px;
+  left: 205px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 8px;
 }
 
 .adultos-pollo .path-563 {
   height: 4px;
-  left: 184px;
+  left: 212px;
   object-fit: cover;
   position: absolute;
-  top: 2002px;
+  top: 2006px;
   width: 4px;
 }
 
 .adultos-pollo .path-564 {
   height: 11px;
-  left: 187px;
+  left: 215px;
   object-fit: cover;
   position: absolute;
-  top: 1995px;
+  top: 1999px;
   width: 5px;
 }
 
 .adultos-pollo .path-565 {
   height: 10px;
-  left: 58px;
+  left: 86px;
   object-fit: cover;
   position: absolute;
-  top: 2016px;
+  top: 2020px;
   width: 9px;
 }
 
 .adultos-pollo .path-566 {
   height: 10px;
-  left: 66px;
+  left: 94px;
   object-fit: cover;
   position: absolute;
-  top: 2016px;
+  top: 2020px;
   width: 8px;
 }
 
 .adultos-pollo .path-567 {
   height: 10px;
-  left: 74px;
+  left: 102px;
   object-fit: cover;
   position: absolute;
-  top: 2016px;
+  top: 2020px;
   width: 9px;
 }
 
 .adultos-pollo .path-568 {
   height: 10px;
-  left: 82px;
+  left: 110px;
   object-fit: cover;
   position: absolute;
-  top: 2016px;
+  top: 2020px;
   width: 8px;
 }
 
 .adultos-pollo .path-569 {
   height: 10px;
-  left: 89px;
+  left: 117px;
   object-fit: cover;
   position: absolute;
-  top: 2016px;
+  top: 2020px;
   width: 9px;
 }
 
 .adultos-pollo .path-570 {
   height: 10px;
-  left: 100px;
+  left: 128px;
   object-fit: cover;
   position: absolute;
-  top: 2016px;
+  top: 2020px;
   width: 9px;
 }
 
 .adultos-pollo .path-571 {
   height: 10px;
-  left: 108px;
+  left: 136px;
   object-fit: cover;
   position: absolute;
-  top: 2016px;
+  top: 2020px;
   width: 8px;
 }
 
 .adultos-pollo .path-573 {
   height: 10px;
-  left: 124px;
+  left: 152px;
   object-fit: cover;
   position: absolute;
-  top: 2016px;
+  top: 2020px;
   width: 8px;
 }
 
 .adultos-pollo .path-574 {
   height: 10px;
-  left: 131px;
+  left: 159px;
   object-fit: cover;
   position: absolute;
-  top: 2016px;
+  top: 2020px;
   width: 9px;
 }
 
 .adultos-pollo .path-575 {
   height: 11px;
-  left: 142px;
+  left: 170px;
   object-fit: cover;
   position: absolute;
-  top: 2015px;
+  top: 2019px;
   width: 5px;
 }
 
 .adultos-pollo .path-576 {
   height: 10px;
-  left: 146px;
+  left: 174px;
   object-fit: cover;
   position: absolute;
-  top: 2016px;
+  top: 2020px;
   width: 10px;
 }
 
 .adultos-pollo .path-577 {
   height: 12px;
-  left: 156px;
+  left: 184px;
   object-fit: cover;
   position: absolute;
-  top: 2014px;
+  top: 2018px;
   width: 4px;
 }
 
 .adultos-pollo .path-578 {
   height: 10px;
-  left: 159px;
+  left: 187px;
   object-fit: cover;
   position: absolute;
-  top: 2016px;
+  top: 2020px;
   width: 8px;
 }
 
 .adultos-pollo .path-579 {
   height: 4px;
-  left: 167px;
+  left: 195px;
   object-fit: cover;
   position: absolute;
-  top: 2022px;
+  top: 2026px;
   width: 4px;
 }
 
 .adultos-pollo .path-580 {
   height: 11px;
-  left: 170px;
+  left: 198px;
   object-fit: cover;
   position: absolute;
-  top: 2015px;
+  top: 2019px;
   width: 5px;
 }
 
 .adultos-pollo .path-581 {
   height: 10px;
-  left: 58px;
+  left: 86px;
   object-fit: cover;
   position: absolute;
-  top: 2038px;
+  top: 2042px;
   width: 7px;
 }
 
 .adultos-pollo .path-582 {
   height: 10px;
-  left: 64px;
+  left: 92px;
   object-fit: cover;
   position: absolute;
-  top: 2038px;
+  top: 2042px;
   width: 4px;
 }
 
 .adultos-pollo .path-583 {
   height: 10px;
-  left: 68px;
+  left: 96px;
   object-fit: cover;
   position: absolute;
-  top: 2038px;
+  top: 2042px;
   width: 8px;
 }
 
 .adultos-pollo .path-584 {
   height: 10px;
-  left: 76px;
+  left: 104px;
   object-fit: cover;
   position: absolute;
-  top: 2038px;
+  top: 2042px;
   width: 8px;
 }
 
 .adultos-pollo .path-585 {
   height: 10px;
-  left: 83px;
+  left: 111px;
   object-fit: cover;
   position: absolute;
-  top: 2038px;
+  top: 2042px;
   width: 9px;
 }
 
 .adultos-pollo .path-586 {
   height: 10px;
-  left: 94px;
+  left: 122px;
   object-fit: cover;
   position: absolute;
-  top: 2038px;
+  top: 2042px;
   width: 9px;
 }
 
 .adultos-pollo .path-587 {
   height: 10px;
-  left: 102px;
+  left: 130px;
   object-fit: cover;
   position: absolute;
-  top: 2038px;
+  top: 2042px;
   width: 8px;
 }
 
 .adultos-pollo .path-588 {
   height: 10px;
-  left: 110px;
+  left: 138px;
   object-fit: cover;
   position: absolute;
-  top: 2038px;
+  top: 2042px;
   width: 8px;
 }
 
 .adultos-pollo .path-590 {
   height: 10px;
-  left: 125px;
+  left: 153px;
   object-fit: cover;
   position: absolute;
-  top: 2038px;
+  top: 2042px;
   width: 9px;
 }
 
 .adultos-pollo .path-591 {
   height: 11px;
-  left: 136px;
+  left: 164px;
   object-fit: cover;
   position: absolute;
-  top: 2038px;
+  top: 2042px;
   width: 5px;
 }
 
 .adultos-pollo .path-592 {
   height: 10px;
-  left: 140px;
+  left: 168px;
   object-fit: cover;
   position: absolute;
-  top: 2038px;
+  top: 2042px;
   width: 10px;
 }
 
 .adultos-pollo .path-593 {
   height: 12px;
-  left: 149px;
+  left: 177px;
   object-fit: cover;
   position: absolute;
-  top: 2036px;
+  top: 2040px;
   width: 9px;
 }
 
 .adultos-pollo .path-594 {
   height: 10px;
-  left: 158px;
+  left: 186px;
   object-fit: cover;
   position: absolute;
-  top: 2038px;
+  top: 2042px;
   width: 9px;
 }
 
 .adultos-pollo .path-595 {
   height: 4px;
-  left: 166px;
+  left: 194px;
   object-fit: cover;
   position: absolute;
-  top: 2044px;
+  top: 2048px;
   width: 4px;
 }
 
 .adultos-pollo .path-596 {
   height: 11px;
-  left: 169px;
+  left: 197px;
   object-fit: cover;
   position: absolute;
-  top: 2038px;
+  top: 2042px;
   width: 5px;
 }
 
 .adultos-pollo .path-597 {
   height: 10px;
-  left: 58px;
+  left: 86px;
   object-fit: cover;
   position: absolute;
-  top: 2060px;
+  top: 2064px;
   width: 9px;
 }
 
 .adultos-pollo .path-598 {
   height: 10px;
-  left: 66px;
+  left: 94px;
   object-fit: cover;
   position: absolute;
-  top: 2060px;
+  top: 2064px;
   width: 7px;
 }
 
 .adultos-pollo .path-599 {
   height: 10px;
-  left: 72px;
+  left: 100px;
   object-fit: cover;
   position: absolute;
-  top: 2060px;
+  top: 2064px;
   width: 8px;
 }
 
 .adultos-pollo .path-600 {
   height: 10px;
-  left: 80px;
+  left: 108px;
   object-fit: cover;
   position: absolute;
-  top: 2060px;
+  top: 2064px;
   width: 4px;
 }
 
 .adultos-pollo .path-601 {
   height: 10px;
-  left: 84px;
+  left: 112px;
   object-fit: cover;
   position: absolute;
-  top: 2060px;
+  top: 2064px;
   width: 7px;
 }
 
 .adultos-pollo .path-602 {
   height: 10px;
-  left: 91px;
+  left: 119px;
   object-fit: cover;
   position: absolute;
-  top: 2060px;
+  top: 2064px;
   width: 9px;
 }
 
 .adultos-pollo .path-603 {
   height: 11px;
-  left: 102px;
+  left: 130px;
   object-fit: cover;
   position: absolute;
-  top: 2060px;
+  top: 2064px;
   width: 5px;
 }
 
 .adultos-pollo .path-605 {
   height: 12px;
-  left: 115px;
+  left: 143px;
   object-fit: cover;
   position: absolute;
-  top: 2058px;
+  top: 2062px;
   width: 9px;
 }
 
 .adultos-pollo .path-606 {
   height: 10px;
-  left: 123px;
+  left: 151px;
   object-fit: cover;
   position: absolute;
-  top: 2060px;
+  top: 2064px;
   width: 9px;
 }
 
 .adultos-pollo .path-607 {
   height: 4px;
-  left: 131px;
+  left: 159px;
   object-fit: cover;
   position: absolute;
-  top: 2067px;
+  top: 2071px;
   width: 4px;
 }
 
 .adultos-pollo .path-608 {
   height: 11px;
-  left: 135px;
+  left: 163px;
   object-fit: cover;
   position: absolute;
-  top: 2060px;
+  top: 2064px;
   width: 5px;
 }
 
 .adultos-pollo .path-609 {
   height: 10px;
-  left: 58px;
+  left: 86px;
   object-fit: cover;
   position: absolute;
-  top: 2103px;
+  top: 2107px;
   width: 9px;
 }
 
 .adultos-pollo .path-610 {
   height: 10px;
-  left: 65px;
+  left: 93px;
   object-fit: cover;
   position: absolute;
-  top: 2103px;
+  top: 2107px;
   width: 9px;
 }
 
 .adultos-pollo .path-611 {
   height: 10px;
-  left: 74px;
+  left: 102px;
   object-fit: cover;
   position: absolute;
-  top: 2103px;
+  top: 2107px;
   width: 7px;
 }
 
 .adultos-pollo .path-612 {
   height: 10px;
-  left: 80px;
+  left: 108px;
   object-fit: cover;
   position: absolute;
-  top: 2103px;
+  top: 2107px;
   width: 9px;
 }
 
 .adultos-pollo .path-613 {
   height: 10px;
-  left: 88px;
+  left: 116px;
   object-fit: cover;
   position: absolute;
-  top: 2103px;
+  top: 2107px;
   width: 4px;
 }
 
 .adultos-pollo .path-614 {
   height: 10px;
-  left: 92px;
+  left: 120px;
   object-fit: cover;
   position: absolute;
-  top: 2103px;
+  top: 2107px;
   width: 9px;
 }
 
 .adultos-pollo .path-617 {
   height: 12px;
-  left: 117px;
+  left: 145px;
   object-fit: cover;
   position: absolute;
-  top: 2101px;
+  top: 2105px;
   width: 4px;
 }
 
 .adultos-pollo .path-618 {
   height: 10px;
-  left: 121px;
+  left: 149px;
   object-fit: cover;
   position: absolute;
-  top: 2103px;
+  top: 2107px;
   width: 8px;
 }
 
 .adultos-pollo .path-619 {
   height: 4px;
-  left: 128px;
+  left: 156px;
   object-fit: cover;
   position: absolute;
-  top: 2110px;
+  top: 2114px;
   width: 4px;
 }
 
 .adultos-pollo .path-620 {
   height: 11px;
-  left: 131px;
+  left: 159px;
   object-fit: cover;
   position: absolute;
-  top: 2103px;
+  top: 2107px;
   width: 5px;
 }
 
 .adultos-pollo .path-621 {
   height: 10px;
-  left: 58px;
+  left: 86px;
   object-fit: cover;
   position: absolute;
-  top: 2126px;
+  top: 2130px;
   width: 7px;
 }
 
 .adultos-pollo .path-622 {
   height: 12px;
-  left: 64px;
+  left: 92px;
   object-fit: cover;
   position: absolute;
-  top: 2123px;
+  top: 2127px;
   width: 9px;
 }
 
 .adultos-pollo .path-623 {
   height: 10px;
-  left: 73px;
+  left: 101px;
   object-fit: cover;
   position: absolute;
-  top: 2126px;
+  top: 2130px;
   width: 8px;
 }
 
 .adultos-pollo .path-624 {
   height: 10px;
-  left: 80px;
+  left: 108px;
   object-fit: cover;
   position: absolute;
-  top: 2126px;
+  top: 2130px;
   width: 7px;
 }
 
 .adultos-pollo .path-625 {
   height: 10px;
-  left: 87px;
+  left: 115px;
   object-fit: cover;
   position: absolute;
-  top: 2126px;
+  top: 2130px;
   width: 9px;
 }
 
 .adultos-pollo .path-626 {
   height: 10px;
-  left: 96px;
+  left: 124px;
   object-fit: cover;
   position: absolute;
-  top: 2126px;
+  top: 2130px;
   width: 8px;
 }
 
 .adultos-pollo .path-627 {
   height: 10px;
-  left: 103px;
+  left: 131px;
   object-fit: cover;
   position: absolute;
-  top: 2126px;
+  top: 2130px;
   width: 9px;
 }
 
 .adultos-pollo .path-628 {
   height: 11px;
-  left: 115px;
+  left: 143px;
   object-fit: cover;
   position: absolute;
-  top: 2125px;
+  top: 2129px;
   width: 5px;
 }
 
 .adultos-pollo .path-629 {
   height: 10px;
-  left: 119px;
+  left: 147px;
   object-fit: cover;
   position: absolute;
-  top: 2126px;
+  top: 2130px;
   width: 10px;
 }
 
 .adultos-pollo .path-630 {
   height: 12px;
-  left: 128px;
+  left: 156px;
   object-fit: cover;
   position: absolute;
-  top: 2123px;
+  top: 2127px;
   width: 4px;
 }
 
 .adultos-pollo .path-631 {
   height: 10px;
-  left: 132px;
+  left: 160px;
   object-fit: cover;
   position: absolute;
-  top: 2126px;
+  top: 2130px;
   width: 8px;
 }
 
 .adultos-pollo .path-632 {
   height: 4px;
-  left: 140px;
+  left: 168px;
   object-fit: cover;
   position: absolute;
-  top: 2132px;
+  top: 2136px;
   width: 4px;
 }
 
 .adultos-pollo .path-633 {
   height: 11px;
-  left: 143px;
+  left: 171px;
   object-fit: cover;
   position: absolute;
-  top: 2125px;
+  top: 2129px;
   width: 5px;
 }
 
 .adultos-pollo .path-634 {
   height: 10px;
-  left: 58px;
+  left: 86px;
   object-fit: cover;
   position: absolute;
-  top: 2082px;
+  top: 2086px;
   width: 8px;
 }
 
 .adultos-pollo .path-635 {
   height: 10px;
-  left: 66px;
+  left: 94px;
   object-fit: cover;
   position: absolute;
-  top: 2082px;
+  top: 2086px;
   width: 8px;
 }
 
 .adultos-pollo .path-636 {
   height: 10px;
-  left: 73px;
+  left: 101px;
   object-fit: cover;
   position: absolute;
-  top: 2082px;
+  top: 2086px;
   width: 10px;
 }
 
 .adultos-pollo .path-637 {
   height: 10px;
-  left: 82px;
+  left: 110px;
   object-fit: cover;
   position: absolute;
-  top: 2082px;
+  top: 2086px;
   width: 7px;
 }
 
 .adultos-pollo .path-638 {
   height: 10px;
-  left: 89px;
+  left: 117px;
   object-fit: cover;
   position: absolute;
-  top: 2082px;
+  top: 2086px;
   width: 8px;
 }
 
 .adultos-pollo .path-639 {
   height: 10px;
-  left: 97px;
+  left: 125px;
   object-fit: cover;
   position: absolute;
-  top: 2082px;
+  top: 2086px;
   width: 9px;
 }
 
 .adultos-pollo .path-641 {
   height: 11px;
-  left: 116px;
+  left: 144px;
   object-fit: cover;
   position: absolute;
-  top: 2081px;
+  top: 2085px;
   width: 5px;
 }
 
 .adultos-pollo .path-642 {
   height: 10px;
-  left: 120px;
+  left: 148px;
   object-fit: cover;
   position: absolute;
-  top: 2082px;
+  top: 2086px;
   width: 10px;
 }
 
 .adultos-pollo .path-643 {
   height: 12px;
-  left: 129px;
+  left: 157px;
   object-fit: cover;
   position: absolute;
-  top: 2080px;
+  top: 2084px;
   width: 9px;
 }
 
 .adultos-pollo .path-644 {
   height: 10px;
-  left: 137px;
+  left: 165px;
   object-fit: cover;
   position: absolute;
-  top: 2082px;
+  top: 2086px;
   width: 9px;
 }
 
 .adultos-pollo .path-645 {
   height: 4px;
-  left: 145px;
+  left: 173px;
   object-fit: cover;
   position: absolute;
-  top: 2088px;
+  top: 2092px;
   width: 4px;
 }
 
 .adultos-pollo .path-646 {
   height: 11px;
-  left: 149px;
+  left: 177px;
   object-fit: cover;
   position: absolute;
-  top: 2081px;
+  top: 2085px;
   width: 5px;
 }
 
 .adultos-pollo .protena-cruda-mn {
-  left: 58px;
+  left: 86px;
   letter-spacing: 0;
   line-height: 13.4px;
   position: absolute;
-  top: 1993px;
+  top: 1997px;
   white-space: nowrap;
 }
 
@@ -2413,11 +2412,11 @@
 }
 
 .adultos-pollo .grasa-cruda-mn {
-  left: 58px;
+  left: 86px;
   letter-spacing: 0;
   line-height: 13.4px;
   position: absolute;
-  top: 2013px;
+  top: 2017px;
   white-space: nowrap;
 }
 
@@ -2442,11 +2441,11 @@
 }
 
 .adultos-pollo .fibra-cruda-mx {
-  left: 58px;
+  left: 86px;
   letter-spacing: 0;
   line-height: 13.4px;
   position: absolute;
-  top: 2035px;
+  top: 2039px;
   white-space: nowrap;
 }
 
@@ -2455,11 +2454,11 @@
 }
 
 .adultos-pollo .ceniza-mx {
-  left: 58px;
+  left: 86px;
   letter-spacing: 0;
   line-height: 13.4px;
   position: absolute;
-  top: 2056px;
+  top: 2060px;
   white-space: nowrap;
 }
 
@@ -2468,614 +2467,146 @@
 }
 
 .adultos-pollo .calcio-mn {
-  left: 58px;
+  left: 86px;
   letter-spacing: 0;
   line-height: 13.4px;
   position: absolute;
-  top: 2101px;
+  top: 2105px;
   white-space: nowrap;
 }
 
 .adultos-pollo .fsforo-mn {
-  left: 58px;
+  left: 86px;
   letter-spacing: 0;
   line-height: 13.4px;
   position: absolute;
-  top: 2125px;
+  top: 2129px;
   white-space: nowrap;
 }
 
 .adultos-pollo .humedad-mx {
-  left: 58px;
+  left: 86px;
   letter-spacing: 0;
   line-height: 13.4px;
   position: absolute;
-  top: 2079px;
+  top: 2083px;
   white-space: nowrap;
 }
 
 .adultos-pollo .path-647 {
   height: 23px;
-  left: 50px;
+  left: 78px;
   object-fit: cover;
   position: absolute;
-  top: 778px;
+  top: 782px;
   width: 50px;
 }
 
 .adultos-pollo .path-648 {
   height: 12px;
-  left: 68px;
+  left: 96px;
   object-fit: cover;
   position: absolute;
-  top: 763px;
+  top: 767px;
   width: 13px;
 }
 
 .adultos-pollo .path-649 {
   height: 7px;
-  left: 82px;
+  left: 110px;
   object-fit: cover;
   position: absolute;
-  top: 761px;
+  top: 765px;
   width: 7px;
 }
 
 .adultos-pollo .path-650 {
   height: 5px;
-  left: 71px;
+  left: 99px;
   object-fit: cover;
   position: absolute;
-  top: 791px;
+  top: 795px;
   width: 8px;
 }
 
 .adultos-pollo .path-651 {
   height: 2px;
-  left: 72px;
+  left: 100px;
   object-fit: cover;
   position: absolute;
-  top: 789px;
+  top: 793px;
   width: 2px;
 }
 
 .adultos-pollo .path-652 {
   height: 2px;
-  left: 75px;
+  left: 103px;
   object-fit: cover;
   position: absolute;
-  top: 788px;
+  top: 792px;
   width: 2px;
 }
 
 .adultos-pollo .path-653 {
   height: 2px;
-  left: 79px;
+  left: 107px;
   object-fit: cover;
   position: absolute;
-  top: 791px;
+  top: 795px;
   width: 2px;
 }
 
 .adultos-pollo .path-654 {
   height: 2px;
-  left: 70px;
+  left: 98px;
   object-fit: cover;
   position: absolute;
-  top: 791px;
+  top: 795px;
   width: 1px;
 }
 
 .adultos-pollo .path-655 {
   height: 43px;
-  left: 308px;
+  left: 336px;
   object-fit: cover;
   position: absolute;
-  top: 895px;
+  top: 899px;
   width: 55px;
 }
 
 .adultos-pollo .group-190 {
   height: 118px;
-  left: 136px;
+  left: 164px;
   object-fit: cover;
   position: absolute;
-  top: 599px;
+  top: 603px;
   width: 141px;
 }
 
 .adultos-pollo .path-656 {
   height: 219px;
-  left: 163px;
+  left: 191px;
   object-fit: cover;
   position: absolute;
-  top: 1315px;
+  top: 1319px;
   width: 220px;
 }
 
 .adultos-pollo .rectangle-161 {
   height: 321px;
-  left: 7px;
-  object-fit: cover;
-  position: absolute;
-  top: 1264px;
-  width: 250px;
-}
-
-.adultos-pollo .path-657 {
-  height: 79px;
-  left: 31px;
-  object-fit: cover;
-  position: absolute;
-  top: 1260px;
-  width: 79px;
-}
-
-.adultos-pollo .path-658 {
-  height: 80px;
-  left: 30px;
-  object-fit: cover;
-  position: absolute;
-  top: 1259px;
-  width: 80px;
-}
-
-.adultos-pollo .path-659 {
-  height: 70px;
   left: 35px;
   object-fit: cover;
   position: absolute;
-  top: 1264px;
-  width: 70px;
-}
-
-.adultos-pollo .path-660 {
-  height: 15px;
-  left: 58px;
-  object-fit: cover;
-  position: absolute;
-  top: 1287px;
-  width: 14px;
-}
-
-.adultos-pollo .path-661 {
-  height: 16px;
-  left: 75px;
-  object-fit: cover;
-  position: absolute;
-  top: 1286px;
-  width: 8px;
-}
-
-.adultos-pollo .path-662 {
-  height: 4px;
-  left: 41px;
-  object-fit: cover;
-  position: absolute;
-  top: 1287px;
-  width: 6px;
-}
-
-.adultos-pollo .path-663 {
-  height: 5px;
-  left: 40px;
-  object-fit: cover;
-  position: absolute;
-  top: 1287px;
-  width: 7px;
-}
-
-.adultos-pollo .path-664 {
-  height: 8px;
-  left: 43px;
-  object-fit: cover;
-  position: absolute;
-  top: 1281px;
-  width: 8px;
-}
-
-.adultos-pollo .path-665 {
-  height: 8px;
-  left: 42px;
-  object-fit: cover;
-  position: absolute;
-  top: 1281px;
-  width: 9px;
-}
-
-.adultos-pollo .path-666 {
-  height: 7px;
-  left: 49px;
-  object-fit: cover;
-  position: absolute;
-  top: 1277px;
-  width: 6px;
-}
-
-.adultos-pollo .path-667 {
-  height: 7px;
-  left: 49px;
-  object-fit: cover;
-  position: absolute;
-  top: 1276px;
-  width: 7px;
-}
-
-.adultos-pollo .path-668 {
-  height: 7px;
-  left: 55px;
-  object-fit: cover;
-  position: absolute;
-  top: 1273px;
-  width: 7px;
-}
-
-.adultos-pollo .path-669 {
-  height: 8px;
-  left: 55px;
-  object-fit: cover;
-  position: absolute;
-  top: 1273px;
-  width: 7px;
-}
-
-.adultos-pollo .path-670 {
-  height: 7px;
-  left: 62px;
-  object-fit: cover;
-  position: absolute;
-  top: 1271px;
-  width: 5px;
-}
-
-.adultos-pollo .path-671 {
-  height: 8px;
-  left: 62px;
-  object-fit: cover;
-  position: absolute;
-  top: 1270px;
-  width: 6px;
-}
-
-.adultos-pollo .path-672 {
-  height: 7px;
-  left: 69px;
-  object-fit: cover;
-  position: absolute;
-  top: 1270px;
-  width: 5px;
-}
-
-.adultos-pollo .path-673 {
-  height: 7px;
-  left: 68px;
-  object-fit: cover;
-  position: absolute;
-  top: 1270px;
-  width: 6px;
-}
-
-.adultos-pollo .path-674 {
-  height: 7px;
-  left: 75px;
-  object-fit: cover;
-  position: absolute;
-  top: 1271px;
-  width: 2px;
-}
-
-.adultos-pollo .path-675 {
-  height: 7px;
-  left: 75px;
-  object-fit: cover;
-  position: absolute;
-  top: 1271px;
-  width: 3px;
-}
-
-.adultos-pollo .path-67 {
-  height: 8px;
-  left: 78px;
-  object-fit: cover;
-  position: absolute;
-  top: 1272px;
-  width: 6px;
-}
-
-.adultos-pollo .path-678 {
-  height: 8px;
-  left: 83px;
-  object-fit: cover;
-  position: absolute;
-  top: 1275px;
-  width: 8px;
-}
-
-.adultos-pollo .path-679 {
-  height: 9px;
-  left: 83px;
-  object-fit: cover;
-  position: absolute;
-  top: 1274px;
-  width: 8px;
-}
-
-.adultos-pollo .path-68 {
-  height: 7px;
-  left: 89px;
-  object-fit: cover;
-  position: absolute;
-  top: 1279px;
-  width: 7px;
-}
-
-.adultos-pollo .path-68-1 {
-  height: 7px;
-  left: 92px;
-  object-fit: cover;
-  position: absolute;
-  top: 1284px;
-  width: 8px;
-}
-
-.adultos-pollo .path-684 {
-  height: 1px;
-  left: 79px;
-  object-fit: cover;
-  position: absolute;
-  top: 1305px;
-  width: 1px;
-}
-
-.adultos-pollo .path-685 {
-  height: 1px;
-  left: 79px;
-  object-fit: cover;
-  position: absolute;
-  top: 1305px;
-  width: 2px;
-}
-
-.adultos-pollo .path-686 {
-  height: 7px;
-  left: 46px;
-  object-fit: cover;
-  position: absolute;
-  top: 1308px;
-  width: 5px;
-}
-
-.adultos-pollo .path-687 {
-  height: 7px;
-  left: 45px;
-  object-fit: cover;
-  position: absolute;
-  top: 1307px;
-  width: 5px;
-}
-
-.adultos-pollo .path-688 {
-  height: 7px;
-  left: 52px;
-  object-fit: cover;
-  position: absolute;
-  top: 1308px;
-  width: 5px;
-}
-
-.adultos-pollo .path-689 {
-  height: 7px;
-  left: 52px;
-  object-fit: cover;
-  position: absolute;
-  top: 1307px;
-  width: 5px;
-}
-
-.adultos-pollo .path-690 {
-  height: 7px;
-  left: 59px;
-  object-fit: cover;
-  position: absolute;
-  top: 1307px;
-  width: 6px;
-}
-
-.adultos-pollo .path-691 {
-  height: 8px;
-  left: 58px;
-  object-fit: cover;
-  position: absolute;
-  top: 1307px;
-  width: 7px;
-}
-
-.adultos-pollo .path-692 {
-  height: 7px;
-  left: 66px;
-  object-fit: cover;
-  position: absolute;
-  top: 1308px;
-  width: 5px;
-}
-
-.adultos-pollo .path-693 {
-  height: 7px;
-  left: 66px;
-  object-fit: cover;
-  position: absolute;
-  top: 1307px;
-  width: 5px;
-}
-
-.adultos-pollo .path-694 {
-  height: 7px;
-  left: 73px;
-  object-fit: cover;
-  position: absolute;
-  top: 1308px;
-  width: 4px;
-}
-
-.adultos-pollo .path-695 {
-  height: 7px;
-  left: 73px;
-  object-fit: cover;
-  position: absolute;
-  top: 1307px;
-  width: 5px;
-}
-
-.adultos-pollo .path-696 {
-  height: 7px;
-  left: 79px;
-  object-fit: cover;
-  position: absolute;
-  top: 1308px;
-  width: 1px;
-}
-
-.adultos-pollo .path-697 {
-  height: 7px;
-  left: 79px;
-  object-fit: cover;
-  position: absolute;
-  top: 1307px;
-  width: 2px;
-}
-
-.adultos-pollo .path-698 {
-  height: 7px;
-  left: 82px;
-  object-fit: cover;
-  position: absolute;
-  top: 1308px;
-  width: 5px;
-}
-
-.adultos-pollo .path-699 {
-  height: 7px;
-  left: 82px;
-  object-fit: cover;
-  position: absolute;
-  top: 1307px;
-  width: 6px;
-}
-
-.adultos-pollo .path-700 {
-  height: 7px;
-  left: 89px;
-  object-fit: cover;
-  position: absolute;
-  top: 1308px;
-  width: 6px;
-}
-
-.adultos-pollo .path-701 {
-  height: 7px;
-  left: 88px;
-  object-fit: cover;
-  position: absolute;
-  top: 1307px;
-  width: 6px;
-}
-
-.adultos-pollo .path-70 {
-  height: 7px;
-  left: 51px;
-  object-fit: cover;
-  position: absolute;
-  top: 1317px;
-  width: 6px;
-}
-
-.adultos-pollo .path-704 {
-  height: 7px;
-  left: 59px;
-  object-fit: cover;
-  position: absolute;
-  top: 1317px;
-  width: 5px;
-}
-
-.adultos-pollo .path-705 {
-  height: 7px;
-  left: 59px;
-  object-fit: cover;
-  position: absolute;
-  top: 1317px;
-  width: 6px;
-}
-
-.adultos-pollo .path-706 {
-  height: 7px;
-  left: 66px;
-  object-fit: cover;
-  position: absolute;
-  top: 1317px;
-  width: 1px;
-}
-
-.adultos-pollo .path-707 {
-  height: 7px;
-  left: 66px;
-  object-fit: cover;
-  position: absolute;
-  top: 1317px;
-  width: 2px;
-}
-
-.adultos-pollo .path-708 {
-  height: 7px;
-  left: 69px;
-  object-fit: cover;
-  position: absolute;
-  top: 1317px;
-  width: 6px;
-}
-
-.adultos-pollo .path-709 {
-  height: 7px;
-  left: 69px;
-  object-fit: cover;
-  position: absolute;
-  top: 1317px;
-  width: 7px;
-}
-
-.adultos-pollo .path-71 {
-  height: 7px;
-  left: 77px;
-  object-fit: cover;
-  position: absolute;
-  top: 1317px;
-  width: 6px;
-}
-
-.adultos-pollo .path-712 {
-  height: 7px;
-  left: 85px;
-  object-fit: cover;
-  position: absolute;
-  top: 1317px;
-  width: 4px;
-}
-
-.adultos-pollo .path-713 {
-  height: 7px;
-  left: 84px;
-  object-fit: cover;
-  position: absolute;
-  top: 1317px;
-  width: 5px;
+  top: 1268px;
+  width: 250px;
 }
 
 .adultos-pollo .path-714 {
   height: 54px;
-  left: 273px;
+  left: 301px;
   object-fit: cover;
   position: absolute;
-  top: 1280px;
+  top: 1284px;
   width: 89px;
 }
 
@@ -3084,18 +2615,18 @@
   border-color: var(--bay-of-many-2);
   border-radius: 24.94px 24.94px 24.94px 24.94px;
   height: 61px;
-  left: 270px;
+  left: 298px;
   position: absolute;
-  top: 1276px;
+  top: 1280px;
   width: 96px;
 }
 
 .adultos-pollo .protena {
-  left: 291px;
+  left: 319px;
   letter-spacing: 0;
   line-height: 14.5px;
   position: absolute;
-  top: 1309px;
+  top: 1313px;
   white-space: nowrap;
 }
 
@@ -3113,46 +2644,55 @@
 
 .adultos-pollo .path-715 {
   height: 19px;
-  left: 295px;
+  left: 323px;
   object-fit: cover;
   position: absolute;
-  top: 1290px;
+  top: 1294px;
   width: 14px;
 }
 
 .adultos-pollo .path-716 {
   height: 19px;
-  left: 309px;
+  left: 337px;
   object-fit: cover;
   position: absolute;
-  top: 1290px;
+  top: 1294px;
   width: 14px;
 }
 
 .adultos-pollo .path-717 {
   height: 19px;
-  left: 325px;
+  left: 353px;
   object-fit: cover;
   position: absolute;
-  top: 1290px;
+  top: 1294px;
   width: 20px;
 }
 
 .adultos-pollo .path-718 {
   height: 41px;
-  left: 116px;
+  left: 144px;
   object-fit: cover;
   position: absolute;
-  top: 84px;
+  top: 88px;
   width: 179px;
 }
 
+.adultos-pollo .path-1259 {
+  height: 40px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 570px;
+  width: 204px;
+}
+
 .adultos-pollo .adultos-1 {
-  left: 152px;
+  left: 180px;
   letter-spacing: 0;
   line-height: 28.8px;
   position: absolute;
-  top: 92px;
+  top: 96px;
   white-space: nowrap;
 }
 
@@ -3162,19 +2702,19 @@
 
 .adultos-pollo .group-186 {
   height: 351px;
-  left: 69px;
+  left: 97px;
   object-fit: cover;
   position: absolute;
-  top: 274px;
+  top: 278px;
   width: 273px;
 }
 
 .adultos-pollo .adorable-red-cat-iso {
   height: 254px;
-  left: 156px;
+  left: 184px;
   object-fit: cover;
   position: absolute;
-  top: 1339px;
+  top: 1343px;
   width: 233px;
 }
 
@@ -3183,11 +2723,11 @@
   cursor: pointer;
   display: flex;
   height: 14px;
-  left: 27px;
+  left: 55px;
   min-width: 86px;
   padding: 0 0.0px;
   position: absolute;
-  top: 23px;
+  top: 27px;
 }
 
 .adultos-pollo .path-container-3 {
@@ -3196,6 +2736,15 @@
   flex-direction: column;
   min-height: 14px;
   width: 27px;
+}
+
+.adultos-pollo .sello-ingrediente {
+  height: 79px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 1268px;
+  width: 79px;
 }
 
 .adultos-pollo .address-6 {
