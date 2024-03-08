@@ -556,6 +556,13 @@
       ];
       var currentImage = 0;
 
+      // Preload the images
+      var preloadedImagesPouch = [];
+      for (var i = 0; i < imagesPouch.length; i++) {
+        preloadedImagesPouch[i] = new Image();
+        preloadedImagesPouch[i].src = imagesPouch[i];
+      }
+
       changeImagePouch(); // Call changeImage once when the page loads
 
       document
