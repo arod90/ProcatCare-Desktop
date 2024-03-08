@@ -592,7 +592,11 @@
         setTimeout(function () {
           link.href = linksPouch[currentImage]; // Update the href attribute
           rectangle.src = imagesPouch[currentImage]; // Update the src attribute of the rectangle-31 image
-          rectangle.style.opacity = 1; // Start the fade in
+
+          // Wait for the image source to change and then start the fade in
+          setTimeout(function () {
+            rectangle.style.opacity = 1;
+          }, 100); // Adjust this delay as needed
         }, 500); // Wait for the fade out to finish
       }
     </script>
